@@ -1,0 +1,26 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"EditorConfig.EditorConfig",
+		"aaron-bond.better-comments",
+		"alefragnani.Bookmarks",
+		"bungcip.better-toml",
+		"CoenraadS.bracket-pair-colorizer",
+		"cssho.vscode-svgviewer",
+		"DavidAnson.vscode-markdownlint",
+		"donjayamanne.githistory",
+		"esbenp.prettier-vscode",
+		"mechatroner.rainbow-csv",
+		"ms-python.python",
+		"ms-vscode.sublime-keybindings",
+		"robertohuertasm.vscode-icons",
+		"streetsidesoftware.code-spell-checker",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"yzhang.markdown-all-in-one",
+	],
+
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": []
+}

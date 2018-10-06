@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.7"
+python_full_version = "3.7.0"
+
+[scripts]
+format = "black --line-length 88 --verbose"
+lint = "flake8 --max-line-length=88 --statistics -vv --count"
+start = "python app.py"
+
+[packages]
+Flask = "*"
+pyswip = "*"
+gunicorn = "*"
+requests = "*"
+dj-database-url = "*"
+"psycopg2-binary" = "*"
+whitenoise = "*"
+brotli = "*"
+
+[dev-packages]
+black = "*"
+"flake8" = "*"
+rope = "*"
+pytest = "*"

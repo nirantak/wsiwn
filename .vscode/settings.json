@@ -1,0 +1,69 @@
+{
+	"workbench.settings.editor": "json",
+	"editor.wordWrap": "on",
+	"editor.renderWhitespace": "boundary",
+	"editor.tabSize": 2,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": false,
+	"files.autoSave": "onWindowChange",
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"files.associations": {
+		"*.lock": "json",
+		"Pipfile": "toml",
+		".env": "shellscript",
+		".envrc": "shellscript",
+		"*.dat": "CSV (pipe)",
+		".slugignore": "ignore",
+		".flake8": "ini"
+	},
+	// Language Settings
+	"python.pythonPath": "python",
+	"python.linting.maxNumberOfProblems": 50,
+	"python.formatting.provider": "black",
+	"python.linting.pylintEnabled": false,
+	"python.linting.flake8Enabled": true,
+	"python.linting.ignorePatterns": [
+		".vscode/*.py",
+		"**/site-packages/**/*.py",
+		".git/**",
+		"**/__pycache__/**",
+		"**/node_modules/**"
+	],
+	"python.jediEnabled": false,
+	"[python]": {
+		"editor.formatOnPaste": false,
+		"editor.formatOnSave": true,
+		"editor.rulers": [
+			88,
+			120
+		],
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		},
+		"editor.tabSize": 4,
+	},
+	"[html]": {
+		"editor.formatOnSave": false,
+		"prettier.singleQuote": false
+	},
+	"[markdown]": {
+		"files.trimTrailingWhitespace": false,
+	},
+	// Plugin Settings
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"markdownlint.config": {
+		"default": true,
+		"MD001": false,
+		"MD007": {
+			"indent": 4
+		},
+		"no-hard-tabs": false
+	},
+	"cSpell.userWords": [
+		"wsiwn",
+	],
+}
