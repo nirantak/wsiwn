@@ -55,6 +55,8 @@
 	"prettier.tabWidth": 2,
 	"prettier.useTabs": true,
 	"prettier.singleQuote": true,
+	"prolog.format.insertSpaces": false,
+	"prolog.linter.run": "onSave",
 	"markdownlint.config": {
 		"default": true,
 		"MD001": false,

@@ -8,6 +8,7 @@
     - [Table of Contents](#table-of-contents)
     - [Local Installation](#local-installation)
     - [Technology Stack](#technology-stack)
+    - [Working](#working)
 
 ## Local Installation
 
@@ -36,4 +37,11 @@ $ pipenv run start
 
 - Language - [Python3](https://www.python.org)
 - Logic Programming - [SWI-Prolog](http://www.swi-prolog.org)
+- Python - SWI-Prolog Bridge - [GitHub](https://github.com/yuce/pyswip), [SWIPL](http://www.swi-prolog.org/contrib/)
 - Framework - [Flask](https://palletsprojects.com/p/flask/)
+
+## Working
+
+- [Web Scraping](https://github.com/nirantak/wsiwn/blob/master/scripts/scraper.py) - Scrape a website to get top 100 movies and TV shows sorted by popularity. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/data/movies_list.txt), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/data/tv_list.txt).
+- [Fetch Data](https://github.com/nirantak/wsiwn/blob/master/scripts/seed_data.py) - Fetch information from OMDB API about each record from previous step. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/data/movies.json), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/data/tv.json).
+- Write [Prolog Statements](https://github.com/nirantak/wsiwn/blob/master/scripts/seed_data.py#L47) - Write Prolog facts for each record from the previous step and add search queries. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/prolog/movies.pl), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/prolog/tv.pl).
