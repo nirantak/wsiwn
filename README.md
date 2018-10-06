@@ -16,22 +16,52 @@
 - Install SWI-Prolog from [here](http://www.swi-prolog.org/Download.html)
 - Install [Pipenv](https://pipenv.readthedocs.io/en/latest/)
 
-```shell
-$ pip install -U pipenv
-```
+    ```shell
+    $ pip install -U pipenv
+    ```
 
 - Install environment
 
-```shell
-$ git clone https://github.com/nirantak/wsiwn.git && cd wsiwn
-$ pipenv install --dev
-```
+    ```shell
+    $ git clone https://github.com/nirantak/wsiwn.git && cd wsiwn
+    $ pipenv install --dev
+    ```
 
-- Run app
+- Start Project
+    - Run web app
 
-```shell
-$ pipenv run start
-```
+        ```shell
+        $ pipenv run start
+        ```
+
+        or
+
+    - Run Prolog
+
+        ```shell
+        $ swipl prolog/movies.pl
+        $ swipl prolog/tv.pl
+        ```
+
+        Execute queries
+        ```prolog
+        ?- movie(X, Z).
+        ?- movie(X, L, G, D, Y).
+
+        ?- tv(X, Z).
+        ?- tv(X, L, G, D, S, T).
+        ```
+
+        where
+
+        - X: Output variable
+        - Z: Input Search term
+        - L: Language
+        - G: Genre
+        - D: Duration (short, avg, long)
+        - Y: Year
+        - S: Number of Seasons
+        - T: Status (ended, airing)
 
 ## Technology Stack
 
