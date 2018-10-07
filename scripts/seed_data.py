@@ -55,38 +55,38 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
         """
         movie(X, Z) :-
             film(X),
-            (   language(X, Z)
-            ;   genre(X, Z)
-            ;   duration(X, Z)
-            ;   year(X, Z)
+            (   m_language(X, Z)
+            ;   m_genre(X, Z)
+            ;   m_duration(X, Z)
+            ;   m_year(X, Z)
             ).
 
         movie(X, L, G, D, Y) :-
             film(X),
-            language(X, L),
-            genre(X, G),
-            duration(X, D),
-            year(X, Y).
+            m_language(X, L),
+            m_genre(X, G),
+            m_duration(X, D),
+            m_year(X, Y).
     """
     )
     query_tv: str = dedent(
         """
         tv(X, Z) :-
             series(X),
-            (   language(X, Z)
-            ;   genre(X, Z)
-            ;   duration(X, Z)
-            ;   seasons(X, Z)
-            ;   status(X, Z)
+            (   t_language(X, Z)
+            ;   t_genre(X, Z)
+            ;   t_duration(X, Z)
+            ;   t_seasons(X, Z)
+            ;   t_status(X, Z)
             ).
 
         tv(X, L, G, D, S, T) :-
             series(X),
-            language(X, L),
-            genre(X, G),
-            duration(X, D),
-            seasons(X, S),
-            status(X, T).
+            t_language(X, L),
+            t_genre(X, G),
+            t_duration(X, D),
+            t_seasons(X, S),
+            t_status(X, T).
     """
     )
 
@@ -107,10 +107,10 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
         q = dedent(
             f"""
             film({title}).
-            language({title}, {m['Language'].split(',')[0].strip().lower()}).
-            genre({title}, {m['Genre'].split(',')[0].strip().lower()}).
-            duration({title}, {dur}).
-            year({title}, {m['Year']}).
+            m_language({title}, {m['Language'].split(',')[0].strip().lower()}).
+            m_genre({title}, {m['Genre'].split(',')[0].strip().lower()}).
+            m_duration({title}, {dur}).
+            m_year({title}, {m['Year']}).
             """
         )
         facts_movies.add(q)
@@ -133,11 +133,11 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
         q = dedent(
             f"""
             series({title}).
-            language({title}, {t['Language'].split(',')[0].strip().lower()}).
-            genre({title}, {t['Genre'].split(',')[0].strip().lower()}).
-            duration({title}, {dur}).
-            seasons({title}, {t['totalSeasons']}).
-            status({title}, {'airing' if t['Year'].endswith(dash) else 'ended'}).
+            t_language({title}, {t['Language'].split(',')[0].strip().lower()}).
+            t_genre({title}, {t['Genre'].split(',')[0].strip().lower()}).
+            t_duration({title}, {dur}).
+            t_seasons({title}, {t['totalSeasons']}).
+            t_status({title}, {'airing' if t['Year'].endswith(dash) else 'ended'}).
             """
         )
         facts_tv.add(q)

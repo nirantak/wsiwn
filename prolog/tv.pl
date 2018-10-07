@@ -1,698 +1,698 @@
 :- style_check(- (discontiguous)).
 
-series("It's Always Sunny in Philadelphia").
-language("It's Always Sunny in Philadelphia", english).
-genre("It's Always Sunny in Philadelphia", comedy).
-duration("It's Always Sunny in Philadelphia", short).
-seasons("It's Always Sunny in Philadelphia", 14).
-status("It's Always Sunny in Philadelphia", airing).
-
-series("Baywatch").
-language("Baywatch", english).
-genre("Baywatch", action).
-duration("Baywatch", avg).
-seasons("Baywatch", 11).
-status("Baywatch", ended).
-
-series("Station 19").
-language("Station 19", english).
-genre("Station 19", action).
-duration("Station 19", avg).
-seasons("Station 19", 1).
-status("Station 19", airing).
-
-series("One Piece").
-language("One Piece", japanese).
-genre("One Piece", animation).
-duration("One Piece", short).
-seasons("One Piece", 20).
-status("One Piece", airing).
-
-series("Fairy Tail").
-language("Fairy Tail", japanese).
-genre("Fairy Tail", animation).
-duration("Fairy Tail", short).
-seasons("Fairy Tail", 7).
-status("Fairy Tail", airing).
-
-series("Casualty").
-language("Casualty", english).
-genre("Casualty", drama).
-duration("Casualty", avg).
-seasons("Casualty", 33).
-status("Casualty", airing).
-
-series("The Gifted").
-language("The Gifted", english).
-genre("The Gifted", action).
-duration("The Gifted", avg).
-seasons("The Gifted", 2).
-status("The Gifted", airing).
-
-series("Better Call Saul").
-language("Better Call Saul", english).
-genre("Better Call Saul", crime).
-duration("Better Call Saul", avg).
-seasons("Better Call Saul", 5).
-status("Better Call Saul", airing).
-
-series("Black Mirror").
-language("Black Mirror", english).
-genre("Black Mirror", drama).
-duration("Black Mirror", avg).
-seasons("Black Mirror", 4).
-status("Black Mirror", airing).
+series("Secret Lives").
+t_language("Secret Lives", finnish).
+t_genre("Secret Lives", drama).
+t_duration("Secret Lives", short).
+t_seasons("Secret Lives", 1).
+t_status("Secret Lives", airing).
 
 series("Rugrats").
-language("Rugrats", english).
-genre("Rugrats", animation).
-duration("Rugrats", short).
-seasons("Rugrats", 10).
-status("Rugrats", ended).
-
-series("JoJo's Bizarre Adventure").
-language("JoJo's Bizarre Adventure", japanese).
-genre("JoJo's Bizarre Adventure", animation).
-duration("JoJo's Bizarre Adventure", avg).
-seasons("JoJo's Bizarre Adventure", 4).
-status("JoJo's Bizarre Adventure", airing).
-
-series("Big Mouth").
-language("Big Mouth", english).
-genre("Big Mouth", animation).
-duration("Big Mouth", short).
-seasons("Big Mouth", 2).
-status("Big Mouth", airing).
-
-series("Game of Thrones").
-language("Game of Thrones", english).
-genre("Game of Thrones", action).
-duration("Game of Thrones", avg).
-seasons("Game of Thrones", 8).
-status("Game of Thrones", airing).
-
-series("Elite").
-language("Elite", spanish).
-genre("Elite", thriller).
-duration("Elite", avg).
-seasons("Elite", 1).
-status("Elite", airing).
-
-series("Van Helsing").
-language("Van Helsing", english).
-genre("Van Helsing", action).
-duration("Van Helsing", avg).
-seasons("Van Helsing", 2).
-status("Van Helsing", airing).
-
-series("Grey's Anatomy").
-language("Grey's Anatomy", english).
-genre("Grey's Anatomy", drama).
-duration("Grey's Anatomy", avg).
-seasons("Grey's Anatomy", 15).
-status("Grey's Anatomy", airing).
-
-series("Supergirl").
-language("Supergirl", english).
-genre("Supergirl", action).
-duration("Supergirl", avg).
-seasons("Supergirl", 4).
-status("Supergirl", airing).
-
-series("The 100").
-language("The 100", english).
-genre("The 100", drama).
-duration("The 100", avg).
-seasons("The 100", 6).
-status("The 100", airing).
-
-series("American Horror Story").
-language("American Horror Story", english).
-genre("American Horror Story", drama).
-duration("American Horror Story", avg).
-seasons("American Horror Story", 9).
-status("American Horror Story", airing).
-
-series("Arrow").
-language("Arrow", english).
-genre("Arrow", action).
-duration("Arrow", avg).
-seasons("Arrow", 7).
-status("Arrow", airing).
-
-series("The Flash").
-language("The Flash", english).
-genre("The Flash", action).
-duration("The Flash", avg).
-seasons("The Flash", 4).
-status("The Flash", airing).
-
-series("Futurama").
-language("Futurama", english).
-genre("Futurama", animation).
-duration("Futurama", short).
-seasons("Futurama", 7).
-status("Futurama", ended).
-
-series("The Big Bang Theory").
-language("The Big Bang Theory", english).
-genre("The Big Bang Theory", comedy).
-duration("The Big Bang Theory", short).
-seasons("The Big Bang Theory", 12).
-status("The Big Bang Theory", airing).
-
-series("The Simpsons").
-language("The Simpsons", english).
-genre("The Simpsons", animation).
-duration("The Simpsons", short).
-seasons("The Simpsons", 30).
-status("The Simpsons", airing).
-
-series("Prison Break").
-language("Prison Break", spanish).
-genre("Prison Break", action).
-duration("Prison Break", avg).
-seasons("Prison Break", 5).
-status("Prison Break", ended).
-
-series("Emmerdale").
-language("Emmerdale", english).
-genre("Emmerdale", drama).
-duration("Emmerdale", short).
-seasons("Emmerdale", 1).
-status("Emmerdale", airing).
-
-series("Rebelde").
-language("Rebelde", spanish).
-genre("Rebelde", comedy).
-duration("Rebelde", avg).
-seasons("Rebelde", 3).
-status("Rebelde", ended).
-
-series("24").
-language("24", english).
-genre("24", action).
-duration("24", avg).
-seasons("24", 8).
-status("24", ended).
-
-series("Marvel's Agents of S.H.I.E.L.D.: Academy").
-language("Marvel's Agents of S.H.I.E.L.D.: Academy", english).
-genre("Marvel's Agents of S.H.I.E.L.D.: Academy", action).
-duration("Marvel's Agents of S.H.I.E.L.D.: Academy", avg).
-seasons("Marvel's Agents of S.H.I.E.L.D.: Academy", na).
-status("Marvel's Agents of S.H.I.E.L.D.: Academy", ended).
-
-series("NCIS").
-language("NCIS", english).
-genre("NCIS", action).
-duration("NCIS", avg).
-seasons("NCIS", 16).
-status("NCIS", airing).
-
-series("CSI: Crime Scene Investigation").
-language("CSI: Crime Scene Investigation", english).
-genre("CSI: Crime Scene Investigation", crime).
-duration("CSI: Crime Scene Investigation", avg).
-seasons("CSI: Crime Scene Investigation", 16).
-status("CSI: Crime Scene Investigation", ended).
-
-series("Criminal Minds").
-language("Criminal Minds", english).
-genre("Criminal Minds", crime).
-duration("Criminal Minds", avg).
-seasons("Criminal Minds", 14).
-status("Criminal Minds", airing).
-
-series("The Blacklist").
-language("The Blacklist", english).
-genre("The Blacklist", crime).
-duration("The Blacklist", avg).
-seasons("The Blacklist", 5).
-status("The Blacklist", airing).
-
-series("Shameless").
-language("Shameless", english).
-genre("Shameless", comedy).
-duration("Shameless", avg).
-seasons("Shameless", 9).
-status("Shameless", airing).
-
-series("Two and a Half Men").
-language("Two and a Half Men", english).
-genre("Two and a Half Men", comedy).
-duration("Two and a Half Men", short).
-seasons("Two and a Half Men", 12).
-status("Two and a Half Men", ended).
-
-series("Young Sheldon").
-language("Young Sheldon", english).
-genre("Young Sheldon", comedy).
-duration("Young Sheldon", short).
-seasons("Young Sheldon", 2).
-status("Young Sheldon", airing).
-
-series("Gotham").
-language("Gotham", english).
-genre("Gotham", action).
-duration("Gotham", avg).
-seasons("Gotham", 4).
-status("Gotham", airing).
-
-series("Friends").
-language("Friends", english).
-genre("Friends", comedy).
-duration("Friends", short).
-seasons("Friends", 10).
-status("Friends", ended).
-
-series("Into the Dark").
-language("Into the Dark", na).
-genre("Into the Dark", horror).
-duration("Into the Dark", long).
-seasons("Into the Dark", na).
-status("Into the Dark", airing).
-
-series("Istanbullu Gelin").
-language("Istanbullu Gelin", turkish).
-genre("Istanbullu Gelin", romance).
-duration("Istanbullu Gelin", avg).
-seasons("Istanbullu Gelin", 2).
-status("Istanbullu Gelin", airing).
-
-series("The Vampire Diaries").
-language("The Vampire Diaries", english).
-genre("The Vampire Diaries", drama).
-duration("The Vampire Diaries", avg).
-seasons("The Vampire Diaries", 8).
-status("The Vampire Diaries", ended).
-
-series("Madam Secretary").
-language("Madam Secretary", english).
-genre("Madam Secretary", drama).
-duration("Madam Secretary", avg).
-seasons("Madam Secretary", 4).
-status("Madam Secretary", airing).
-
-series("Pretty Little Liars").
-language("Pretty Little Liars", english).
-genre("Pretty Little Liars", drama).
-duration("Pretty Little Liars", avg).
-seasons("Pretty Little Liars", 7).
-status("Pretty Little Liars", ended).
-
-series("Salvation").
-language("Salvation", english).
-genre("Salvation", drama).
-duration("Salvation", avg).
-seasons("Salvation", 2).
-status("Salvation", airing).
-
-series("Suits").
-language("Suits", english).
-genre("Suits", comedy).
-duration("Suits", avg).
-seasons("Suits", 8).
-status("Suits", airing).
-
-series("Bob's Burgers").
-language("Bob's Burgers", english).
-genre("Bob's Burgers", animation).
-duration("Bob's Burgers", short).
-seasons("Bob's Burgers", 9).
-status("Bob's Burgers", airing).
+t_language("Rugrats", english).
+t_genre("Rugrats", animation).
+t_duration("Rugrats", short).
+t_seasons("Rugrats", 10).
+t_status("Rugrats", ended).
 
 series("Superstore").
-language("Superstore", english).
-genre("Superstore", comedy).
-duration("Superstore", short).
-seasons("Superstore", 4).
-status("Superstore", airing).
-
-series("Pokémon").
-language("Pokémon", japanese).
-genre("Pokémon", animation).
-duration("Pokémon", short).
-seasons("Pokémon", 21).
-status("Pokémon", ended).
-
-series("NCIS: Los Angeles").
-language("NCIS: Los Angeles", english).
-genre("NCIS: Los Angeles", crime).
-duration("NCIS: Los Angeles", avg).
-seasons("NCIS: Los Angeles", 10).
-status("NCIS: Los Angeles", airing).
-
-series("Mom").
-language("Mom", english).
-genre("Mom", comedy).
-duration("Mom", short).
-seasons("Mom", 5).
-status("Mom", airing).
-
-series("Karenjit Kaur - The Untold Story of Sunny Leone").
-language("Karenjit Kaur - The Untold Story of Sunny Leone", english).
-genre("Karenjit Kaur - The Untold Story of Sunny Leone", biography).
-duration("Karenjit Kaur - The Untold Story of Sunny Leone", short).
-seasons("Karenjit Kaur - The Untold Story of Sunny Leone", 1).
-status("Karenjit Kaur - The Untold Story of Sunny Leone", airing).
-
-series("Sunset Beach").
-language("Sunset Beach", english).
-genre("Sunset Beach", drama).
-duration("Sunset Beach", avg).
-seasons("Sunset Beach", 1).
-status("Sunset Beach", ended).
-
-series("Supernatural").
-language("Supernatural", english).
-genre("Supernatural", drama).
-duration("Supernatural", avg).
-seasons("Supernatural", 14).
-status("Supernatural", airing).
-
-series("Speechless").
-language("Speechless", english).
-genre("Speechless", comedy).
-duration("Speechless", short).
-seasons("Speechless", 2).
-status("Speechless", airing).
-
-series("Family Guy").
-language("Family Guy", english).
-genre("Family Guy", animation).
-duration("Family Guy", short).
-seasons("Family Guy", 17).
-status("Family Guy", airing).
-
-series("Money Heist").
-language("Money Heist", russian).
-genre("Money Heist", action).
-duration("Money Heist", long).
-seasons("Money Heist", 3).
-status("Money Heist", airing).
-
-series("Fresh Off the Boat").
-language("Fresh Off the Boat", english).
-genre("Fresh Off the Boat", comedy).
-duration("Fresh Off the Boat", short).
-seasons("Fresh Off the Boat", 5).
-status("Fresh Off the Boat", airing).
-
-series("Austin City Limits").
-language("Austin City Limits", english).
-genre("Austin City Limits", documentary).
-duration("Austin City Limits", avg).
-seasons("Austin City Limits", 43).
-status("Austin City Limits", airing).
-
-series("Riverdale").
-language("Riverdale", english).
-genre("Riverdale", crime).
-duration("Riverdale", avg).
-seasons("Riverdale", 3).
-status("Riverdale", airing).
-
-series("Modern Family").
-language("Modern Family", english).
-genre("Modern Family", comedy).
-duration("Modern Family", short).
-seasons("Modern Family", 10).
-status("Modern Family", airing).
-
-series("Lost").
-language("Lost", english).
-genre("Lost", adventure).
-duration("Lost", avg).
-seasons("Lost", 6).
-status("Lost", ended).
-
-series("Late Show with David Letterman").
-language("Late Show with David Letterman", english).
-genre("Late Show with David Letterman", comedy).
-duration("Late Show with David Letterman", avg).
-seasons("Late Show with David Letterman", 22).
-status("Late Show with David Letterman", ended).
-
-series("Survivor").
-language("Survivor", english).
-genre("Survivor", adventure).
-duration("Survivor", avg).
-seasons("Survivor", 36).
-status("Survivor", airing).
-
-series("Tom and Jerry").
-language("Tom and Jerry", na).
-genre("Tom and Jerry", animation).
-duration("Tom and Jerry", short).
-seasons("Tom and Jerry", na).
-status("Tom and Jerry", ended).
-
-series("Hawaii Five-0").
-language("Hawaii Five-0", english).
-genre("Hawaii Five-0", action).
-duration("Hawaii Five-0", avg).
-seasons("Hawaii Five-0", 9).
-status("Hawaii Five-0", airing).
-
-series("SEAL Team").
-language("SEAL Team", english).
-genre("SEAL Team", action).
-duration("SEAL Team", avg).
-seasons("SEAL Team", 2).
-status("SEAL Team", airing).
-
-series("Mayday").
-language("Mayday", english).
-genre("Mayday", drama).
-duration("Mayday", avg).
-seasons("Mayday", 1).
-status("Mayday", ended).
-
-series("Sesame Street").
-language("Sesame Street", english).
-genre("Sesame Street", animation).
-duration("Sesame Street", avg).
-seasons("Sesame Street", 48).
-status("Sesame Street", airing).
-
-series("The Walking Dead").
-language("The Walking Dead", english).
-genre("The Walking Dead", drama).
-duration("The Walking Dead", avg).
-seasons("The Walking Dead", 9).
-status("The Walking Dead", airing).
-
-series("Fear the Walking Dead").
-language("Fear the Walking Dead", english).
-genre("Fear the Walking Dead", drama).
-duration("Fear the Walking Dead", avg).
-seasons("Fear the Walking Dead", 4).
-status("Fear the Walking Dead", airing).
-
-series("The Man in the High Castle").
-language("The Man in the High Castle", english).
-genre("The Man in the High Castle", drama).
-duration("The Man in the High Castle", avg).
-seasons("The Man in the High Castle", 3).
-status("The Man in the High Castle", airing).
-
-series("The Good Doctor").
-language("The Good Doctor", english).
-genre("The Good Doctor", drama).
-duration("The Good Doctor", avg).
-seasons("The Good Doctor", 2).
-status("The Good Doctor", airing).
-
-series("Secret Lives").
-language("Secret Lives", finnish).
-genre("Secret Lives", drama).
-duration("Secret Lives", short).
-seasons("Secret Lives", 1).
-status("Secret Lives", airing).
-
-series("American Dad!").
-language("American Dad!", english).
-genre("American Dad!", animation).
-duration("American Dad!", short).
-seasons("American Dad!", 13).
-status("American Dad!", airing).
-
-series("Homeland").
-language("Homeland", english).
-genre("Homeland", crime).
-duration("Homeland", avg).
-seasons("Homeland", 8).
-status("Homeland", airing).
-
-series("Lucifer").
-language("Lucifer", english).
-genre("Lucifer", crime).
-duration("Lucifer", avg).
-seasons("Lucifer", 4).
-status("Lucifer", airing).
-
-series("South Park").
-language("South Park", english).
-genre("South Park", animation).
-duration("South Park", short).
-seasons("South Park", 23).
-status("South Park", airing).
-
-series("Law & Order: Special Victims Unit").
-language("Law & Order: Special Victims Unit", english).
-genre("Law & Order: Special Victims Unit", crime).
-duration("Law & Order: Special Victims Unit", avg).
-seasons("Law & Order: Special Victims Unit", 20).
-status("Law & Order: Special Victims Unit", airing).
-
-series("Cops").
-language("Cops", english).
-genre("Cops", action).
-duration("Cops", short).
-seasons("Cops", 30).
-status("Cops", airing).
-
-series("How to Get Away with Murder").
-language("How to Get Away with Murder", english).
-genre("How to Get Away with Murder", crime).
-duration("How to Get Away with Murder", avg).
-seasons("How to Get Away with Murder", 5).
-status("How to Get Away with Murder", airing).
-
-series("Breaking Bad").
-language("Breaking Bad", english).
-genre("Breaking Bad", crime).
-duration("Breaking Bad", avg).
-seasons("Breaking Bad", 5).
-status("Breaking Bad", ended).
-
-series("Adventure Time").
-language("Adventure Time", english).
-genre("Adventure Time", animation).
-duration("Adventure Time", short).
-seasons("Adventure Time", 10).
-status("Adventure Time", ended).
-
-series("Coronation Street").
-language("Coronation Street", english).
-genre("Coronation Street", drama).
-duration("Coronation Street", short).
-seasons("Coronation Street", 1).
-status("Coronation Street", airing).
-
-series("Chicago P.D.").
-language("Chicago P.D.", english).
-genre("Chicago P.D.", action).
-duration("Chicago P.D.", avg).
-seasons("Chicago P.D.", 6).
-status("Chicago P.D.", airing).
-
-series("Mystery Science Theater 3000").
-language("Mystery Science Theater 3000", english).
-genre("Mystery Science Theater 3000", comedy).
-duration("Mystery Science Theater 3000", long).
-seasons("Mystery Science Theater 3000", 11).
-status("Mystery Science Theater 3000", ended).
-
-series("Z Nation").
-language("Z Nation", english).
-genre("Z Nation", action).
-duration("Z Nation", avg).
-seasons("Z Nation", 5).
-status("Z Nation", airing).
+t_language("Superstore", english).
+t_genre("Superstore", comedy).
+t_duration("Superstore", short).
+t_seasons("Superstore", 4).
+t_status("Superstore", airing).
 
 series("Perry Mason").
-language("Perry Mason", english).
-genre("Perry Mason", crime).
-duration("Perry Mason", avg).
-seasons("Perry Mason", 9).
-status("Perry Mason", ended).
+t_language("Perry Mason", english).
+t_genre("Perry Mason", crime).
+t_duration("Perry Mason", avg).
+t_seasons("Perry Mason", 9).
+t_status("Perry Mason", ended).
 
-series("Dupur Thakurpo").
-language("Dupur Thakurpo", bengali).
-genre("Dupur Thakurpo", comedy).
-duration("Dupur Thakurpo", avg).
-seasons("Dupur Thakurpo", na).
-status("Dupur Thakurpo", airing).
+series("Fairy Tail").
+t_language("Fairy Tail", japanese).
+t_genre("Fairy Tail", animation).
+t_duration("Fairy Tail", short).
+t_seasons("Fairy Tail", 7).
+t_status("Fairy Tail", airing).
 
-series("Gigantes").
-language("Gigantes", spanish).
-genre("Gigantes", na).
-duration("Gigantes", short).
-seasons("Gigantes", 1).
-status("Gigantes", airing).
+series("Lucifer").
+t_language("Lucifer", english).
+t_genre("Lucifer", crime).
+t_duration("Lucifer", avg).
+t_seasons("Lucifer", 4).
+t_status("Lucifer", airing).
 
-series("Jeopardy!").
-language("Jeopardy!", english).
-genre("Jeopardy!", game-show).
-duration("Jeopardy!", short).
-seasons("Jeopardy!", 34).
-status("Jeopardy!", airing).
+series("Mom").
+t_language("Mom", english).
+t_genre("Mom", comedy).
+t_duration("Mom", short).
+t_seasons("Mom", 6).
+t_status("Mom", airing).
 
-series("The Good Place").
-language("The Good Place", english).
-genre("The Good Place", comedy).
-duration("The Good Place", short).
-seasons("The Good Place", 3).
-status("The Good Place", airing).
-
-series("Vikings").
-language("Vikings", english).
-genre("Vikings", action).
-duration("Vikings", avg).
-seasons("Vikings", 5).
-status("Vikings", airing).
-
-series("Westworld").
-language("Westworld", english).
-genre("Westworld", drama).
-duration("Westworld", long).
-seasons("Westworld", 3).
-status("Westworld", airing).
+series("Adventure Time").
+t_language("Adventure Time", english).
+t_genre("Adventure Time", animation).
+t_duration("Adventure Time", short).
+t_seasons("Adventure Time", 10).
+t_status("Adventure Time", ended).
 
 series("Law & Order").
-language("Law & Order", english).
-genre("Law & Order", crime).
-duration("Law & Order", avg).
-seasons("Law & Order", 20).
-status("Law & Order", ended).
+t_language("Law & Order", english).
+t_genre("Law & Order", crime).
+t_duration("Law & Order", avg).
+t_seasons("Law & Order", 20).
+t_status("Law & Order", ended).
+
+series("Law & Order: Special Victims Unit").
+t_language("Law & Order: Special Victims Unit", english).
+t_genre("Law & Order: Special Victims Unit", crime).
+t_duration("Law & Order: Special Victims Unit", avg).
+t_seasons("Law & Order: Special Victims Unit", 20).
+t_status("Law & Order: Special Victims Unit", airing).
+
+series("Elite").
+t_language("Elite", spanish).
+t_genre("Elite", thriller).
+t_duration("Elite", avg).
+t_seasons("Elite", 1).
+t_status("Elite", airing).
+
+series("Suits").
+t_language("Suits", english).
+t_genre("Suits", comedy).
+t_duration("Suits", avg).
+t_seasons("Suits", 8).
+t_status("Suits", airing).
 
 series("Doctor Who").
-language("Doctor Who", english).
-genre("Doctor Who", adventure).
-duration("Doctor Who", avg).
-seasons("Doctor Who", 11).
-status("Doctor Who", airing).
+t_language("Doctor Who", english).
+t_genre("Doctor Who", adventure).
+t_duration("Doctor Who", avg).
+t_seasons("Doctor Who", 11).
+t_status("Doctor Who", airing).
 
-series("Chicago Fire").
-language("Chicago Fire", english).
-genre("Chicago Fire", action).
-duration("Chicago Fire", avg).
-seasons("Chicago Fire", 7).
-status("Chicago Fire", airing).
+series("American Horror Story").
+t_language("American Horror Story", english).
+t_genre("American Horror Story", drama).
+t_duration("American Horror Story", avg).
+t_seasons("American Horror Story", 9).
+t_status("American Horror Story", airing).
+
+series("Bob's Burgers").
+t_language("Bob's Burgers", english).
+t_genre("Bob's Burgers", animation).
+t_duration("Bob's Burgers", short).
+t_seasons("Bob's Burgers", 9).
+t_status("Bob's Burgers", airing).
+
+series("Young Sheldon").
+t_language("Young Sheldon", english).
+t_genre("Young Sheldon", comedy).
+t_duration("Young Sheldon", short).
+t_seasons("Young Sheldon", 2).
+t_status("Young Sheldon", airing).
+
+series("Fear the Walking Dead").
+t_language("Fear the Walking Dead", english).
+t_genre("Fear the Walking Dead", drama).
+t_duration("Fear the Walking Dead", avg).
+t_seasons("Fear the Walking Dead", 4).
+t_status("Fear the Walking Dead", airing).
+
+series("Karenjit Kaur - The Untold Story of Sunny Leone").
+t_language("Karenjit Kaur - The Untold Story of Sunny Leone", english).
+t_genre("Karenjit Kaur - The Untold Story of Sunny Leone", biography).
+t_duration("Karenjit Kaur - The Untold Story of Sunny Leone", short).
+t_seasons("Karenjit Kaur - The Untold Story of Sunny Leone", 1).
+t_status("Karenjit Kaur - The Untold Story of Sunny Leone", airing).
+
+series("Criminal Minds").
+t_language("Criminal Minds", english).
+t_genre("Criminal Minds", crime).
+t_duration("Criminal Minds", avg).
+t_seasons("Criminal Minds", 14).
+t_status("Criminal Minds", airing).
+
+series("Late Show with David Letterman").
+t_language("Late Show with David Letterman", english).
+t_genre("Late Show with David Letterman", comedy).
+t_duration("Late Show with David Letterman", avg).
+t_seasons("Late Show with David Letterman", 22).
+t_status("Late Show with David Letterman", ended).
+
+series("NCIS").
+t_language("NCIS", english).
+t_genre("NCIS", action).
+t_duration("NCIS", avg).
+t_seasons("NCIS", 16).
+t_status("NCIS", airing).
+
+series("Emmerdale").
+t_language("Emmerdale", english).
+t_genre("Emmerdale", drama).
+t_duration("Emmerdale", short).
+t_seasons("Emmerdale", 1).
+t_status("Emmerdale", airing).
+
+series("Two and a Half Men").
+t_language("Two and a Half Men", english).
+t_genre("Two and a Half Men", comedy).
+t_duration("Two and a Half Men", short).
+t_seasons("Two and a Half Men", 12).
+t_status("Two and a Half Men", ended).
+
+series("The Good Doctor").
+t_language("The Good Doctor", english).
+t_genre("The Good Doctor", drama).
+t_duration("The Good Doctor", avg).
+t_seasons("The Good Doctor", 2).
+t_status("The Good Doctor", airing).
+
+series("Marvel's Agents of S.H.I.E.L.D.: Academy").
+t_language("Marvel's Agents of S.H.I.E.L.D.: Academy", english).
+t_genre("Marvel's Agents of S.H.I.E.L.D.: Academy", action).
+t_duration("Marvel's Agents of S.H.I.E.L.D.: Academy", avg).
+t_seasons("Marvel's Agents of S.H.I.E.L.D.: Academy", na).
+t_status("Marvel's Agents of S.H.I.E.L.D.: Academy", ended).
+
+series("Rebelde").
+t_language("Rebelde", spanish).
+t_genre("Rebelde", comedy).
+t_duration("Rebelde", avg).
+t_seasons("Rebelde", 3).
+t_status("Rebelde", ended).
+
+series("Shameless").
+t_language("Shameless", english).
+t_genre("Shameless", comedy).
+t_duration("Shameless", avg).
+t_seasons("Shameless", 9).
+t_status("Shameless", airing).
+
+series("JoJo's Bizarre Adventure").
+t_language("JoJo's Bizarre Adventure", japanese).
+t_genre("JoJo's Bizarre Adventure", animation).
+t_duration("JoJo's Bizarre Adventure", avg).
+t_seasons("JoJo's Bizarre Adventure", 4).
+t_status("JoJo's Bizarre Adventure", airing).
+
+series("Mystery Science Theater 3000").
+t_language("Mystery Science Theater 3000", english).
+t_genre("Mystery Science Theater 3000", comedy).
+t_duration("Mystery Science Theater 3000", long).
+t_seasons("Mystery Science Theater 3000", 11).
+t_status("Mystery Science Theater 3000", ended).
+
+series("Pretty Little Liars").
+t_language("Pretty Little Liars", english).
+t_genre("Pretty Little Liars", drama).
+t_duration("Pretty Little Liars", avg).
+t_seasons("Pretty Little Liars", 7).
+t_status("Pretty Little Liars", ended).
+
+series("Istanbullu Gelin").
+t_language("Istanbullu Gelin", turkish).
+t_genre("Istanbullu Gelin", romance).
+t_duration("Istanbullu Gelin", avg).
+t_seasons("Istanbullu Gelin", 2).
+t_status("Istanbullu Gelin", airing).
+
+series("Lost").
+t_language("Lost", english).
+t_genre("Lost", adventure).
+t_duration("Lost", avg).
+t_seasons("Lost", 6).
+t_status("Lost", ended).
+
+series("Dupur Thakurpo").
+t_language("Dupur Thakurpo", bengali).
+t_genre("Dupur Thakurpo", comedy).
+t_duration("Dupur Thakurpo", avg).
+t_seasons("Dupur Thakurpo", na).
+t_status("Dupur Thakurpo", airing).
+
+series("Family Guy").
+t_language("Family Guy", english).
+t_genre("Family Guy", animation).
+t_duration("Family Guy", short).
+t_seasons("Family Guy", 17).
+t_status("Family Guy", airing).
+
+series("Black Mirror").
+t_language("Black Mirror", english).
+t_genre("Black Mirror", drama).
+t_duration("Black Mirror", avg).
+t_seasons("Black Mirror", 4).
+t_status("Black Mirror", airing).
+
+series("The Walking Dead").
+t_language("The Walking Dead", english).
+t_genre("The Walking Dead", drama).
+t_duration("The Walking Dead", avg).
+t_seasons("The Walking Dead", 9).
+t_status("The Walking Dead", airing).
+
+series("The Flash").
+t_language("The Flash", english).
+t_genre("The Flash", action).
+t_duration("The Flash", avg).
+t_seasons("The Flash", 4).
+t_status("The Flash", airing).
+
+series("Mayday").
+t_language("Mayday", english).
+t_genre("Mayday", drama).
+t_duration("Mayday", avg).
+t_seasons("Mayday", 1).
+t_status("Mayday", ended).
+
+series("Hawaii Five-0").
+t_language("Hawaii Five-0", english).
+t_genre("Hawaii Five-0", action).
+t_duration("Hawaii Five-0", avg).
+t_seasons("Hawaii Five-0", 9).
+t_status("Hawaii Five-0", airing).
+
+series("Money Heist").
+t_language("Money Heist", spanish).
+t_genre("Money Heist", action).
+t_duration("Money Heist", long).
+t_seasons("Money Heist", 3).
+t_status("Money Heist", airing).
+
+series("Baywatch").
+t_language("Baywatch", english).
+t_genre("Baywatch", action).
+t_duration("Baywatch", avg).
+t_seasons("Baywatch", 11).
+t_status("Baywatch", ended).
+
+series("Big Mouth").
+t_language("Big Mouth", english).
+t_genre("Big Mouth", animation).
+t_duration("Big Mouth", short).
+t_seasons("Big Mouth", 2).
+t_status("Big Mouth", airing).
+
+series("Modern Family").
+t_language("Modern Family", english).
+t_genre("Modern Family", comedy).
+t_duration("Modern Family", short).
+t_seasons("Modern Family", 10).
+t_status("Modern Family", airing).
+
+series("The Simpsons").
+t_language("The Simpsons", english).
+t_genre("The Simpsons", animation).
+t_duration("The Simpsons", short).
+t_seasons("The Simpsons", 30).
+t_status("The Simpsons", airing).
+
+series("Breaking Bad").
+t_language("Breaking Bad", english).
+t_genre("Breaking Bad", crime).
+t_duration("Breaking Bad", avg).
+t_seasons("Breaking Bad", 5).
+t_status("Breaking Bad", ended).
+
+series("Sunset Beach").
+t_language("Sunset Beach", english).
+t_genre("Sunset Beach", drama).
+t_duration("Sunset Beach", avg).
+t_seasons("Sunset Beach", 1).
+t_status("Sunset Beach", ended).
+
+series("Van Helsing").
+t_language("Van Helsing", english).
+t_genre("Van Helsing", action).
+t_duration("Van Helsing", avg).
+t_seasons("Van Helsing", 3).
+t_status("Van Helsing", airing).
+
+series("Sesame Street").
+t_language("Sesame Street", english).
+t_genre("Sesame Street", animation).
+t_duration("Sesame Street", avg).
+t_seasons("Sesame Street", 48).
+t_status("Sesame Street", airing).
+
+series("NCIS: Los Angeles").
+t_language("NCIS: Los Angeles", english).
+t_genre("NCIS: Los Angeles", crime).
+t_duration("NCIS: Los Angeles", avg).
+t_seasons("NCIS: Los Angeles", 10).
+t_status("NCIS: Los Angeles", airing).
+
+series("Pokémon").
+t_language("Pokémon", japanese).
+t_genre("Pokémon", animation).
+t_duration("Pokémon", short).
+t_seasons("Pokémon", 21).
+t_status("Pokémon", ended).
+
+series("Prison Break").
+t_language("Prison Break", spanish).
+t_genre("Prison Break", action).
+t_duration("Prison Break", avg).
+t_seasons("Prison Break", 5).
+t_status("Prison Break", ended).
+
+series("Casualty").
+t_language("Casualty", english).
+t_genre("Casualty", drama).
+t_duration("Casualty", avg).
+t_seasons("Casualty", 33).
+t_status("Casualty", airing).
+
+series("SEAL Team").
+t_language("SEAL Team", english).
+t_genre("SEAL Team", action).
+t_duration("SEAL Team", avg).
+t_seasons("SEAL Team", 2).
+t_status("SEAL Team", airing).
+
+series("One Piece").
+t_language("One Piece", japanese).
+t_genre("One Piece", animation).
+t_duration("One Piece", short).
+t_seasons("One Piece", 20).
+t_status("One Piece", airing).
+
+series("Survivor").
+t_language("Survivor", english).
+t_genre("Survivor", adventure).
+t_duration("Survivor", avg).
+t_seasons("Survivor", 36).
+t_status("Survivor", airing).
+
+series("The Good Place").
+t_language("The Good Place", english).
+t_genre("The Good Place", comedy).
+t_duration("The Good Place", short).
+t_seasons("The Good Place", 3).
+t_status("The Good Place", airing).
 
 series("The One Show").
-language("The One Show", english).
-genre("The One Show", news).
-duration("The One Show", short).
-seasons("The One Show", 9).
-status("The One Show", airing).
+t_language("The One Show", english).
+t_genre("The One Show", news).
+t_duration("The One Show", short).
+t_seasons("The One Show", 9).
+t_status("The One Show", airing).
+
+series("Madam Secretary").
+t_language("Madam Secretary", english).
+t_genre("Madam Secretary", drama).
+t_duration("Madam Secretary", avg).
+t_seasons("Madam Secretary", 5).
+t_status("Madam Secretary", airing).
+
+series("Riverdale").
+t_language("Riverdale", english).
+t_genre("Riverdale", crime).
+t_duration("Riverdale", avg).
+t_seasons("Riverdale", 3).
+t_status("Riverdale", airing).
+
+series("Friends").
+t_language("Friends", english).
+t_genre("Friends", comedy).
+t_duration("Friends", short).
+t_seasons("Friends", 10).
+t_status("Friends", ended).
+
+series("Salvation").
+t_language("Salvation", english).
+t_genre("Salvation", drama).
+t_duration("Salvation", avg).
+t_seasons("Salvation", 2).
+t_status("Salvation", airing).
+
+series("Cops").
+t_language("Cops", english).
+t_genre("Cops", action).
+t_duration("Cops", short).
+t_seasons("Cops", 30).
+t_status("Cops", airing).
+
+series("Game of Thrones").
+t_language("Game of Thrones", english).
+t_genre("Game of Thrones", action).
+t_duration("Game of Thrones", avg).
+t_seasons("Game of Thrones", 8).
+t_status("Game of Thrones", airing).
+
+series("The Man in the High Castle").
+t_language("The Man in the High Castle", english).
+t_genre("The Man in the High Castle", drama).
+t_duration("The Man in the High Castle", avg).
+t_seasons("The Man in the High Castle", 4).
+t_status("The Man in the High Castle", airing).
+
+series("Chicago Fire").
+t_language("Chicago Fire", english).
+t_genre("Chicago Fire", action).
+t_duration("Chicago Fire", avg).
+t_seasons("Chicago Fire", 7).
+t_status("Chicago Fire", airing).
+
+series("Fresh Off the Boat").
+t_language("Fresh Off the Boat", english).
+t_genre("Fresh Off the Boat", comedy).
+t_duration("Fresh Off the Boat", short).
+t_seasons("Fresh Off the Boat", 5).
+t_status("Fresh Off the Boat", airing).
+
+series("It's Always Sunny in Philadelphia").
+t_language("It's Always Sunny in Philadelphia", english).
+t_genre("It's Always Sunny in Philadelphia", comedy).
+t_duration("It's Always Sunny in Philadelphia", short).
+t_seasons("It's Always Sunny in Philadelphia", 14).
+t_status("It's Always Sunny in Philadelphia", airing).
+
+series("CSI: Crime Scene Investigation").
+t_language("CSI: Crime Scene Investigation", english).
+t_genre("CSI: Crime Scene Investigation", crime).
+t_duration("CSI: Crime Scene Investigation", avg).
+t_seasons("CSI: Crime Scene Investigation", 16).
+t_status("CSI: Crime Scene Investigation", ended).
+
+series("Into the Dark").
+t_language("Into the Dark", na).
+t_genre("Into the Dark", horror).
+t_duration("Into the Dark", long).
+t_seasons("Into the Dark", na).
+t_status("Into the Dark", airing).
+
+series("The Big Bang Theory").
+t_language("The Big Bang Theory", english).
+t_genre("The Big Bang Theory", comedy).
+t_duration("The Big Bang Theory", short).
+t_seasons("The Big Bang Theory", 12).
+t_status("The Big Bang Theory", airing).
+
+series("Chicago P.D.").
+t_language("Chicago P.D.", english).
+t_genre("Chicago P.D.", action).
+t_duration("Chicago P.D.", avg).
+t_seasons("Chicago P.D.", 6).
+t_status("Chicago P.D.", airing).
+
+series("Vikings").
+t_language("Vikings", english).
+t_genre("Vikings", action).
+t_duration("Vikings", avg).
+t_seasons("Vikings", 5).
+t_status("Vikings", airing).
+
+series("Supergirl").
+t_language("Supergirl", english).
+t_genre("Supergirl", action).
+t_duration("Supergirl", avg).
+t_seasons("Supergirl", 4).
+t_status("Supergirl", airing).
+
+series("Tom and Jerry").
+t_language("Tom and Jerry", na).
+t_genre("Tom and Jerry", animation).
+t_duration("Tom and Jerry", short).
+t_seasons("Tom and Jerry", na).
+t_status("Tom and Jerry", ended).
+
+series("The Gifted").
+t_language("The Gifted", english).
+t_genre("The Gifted", action).
+t_duration("The Gifted", avg).
+t_seasons("The Gifted", 2).
+t_status("The Gifted", airing).
+
+series("Coronation Street").
+t_language("Coronation Street", english).
+t_genre("Coronation Street", drama).
+t_duration("Coronation Street", short).
+t_seasons("Coronation Street", 1).
+t_status("Coronation Street", airing).
+
+series("24").
+t_language("24", english).
+t_genre("24", action).
+t_duration("24", avg).
+t_seasons("24", 8).
+t_status("24", ended).
+
+series("The 100").
+t_language("The 100", english).
+t_genre("The 100", drama).
+t_duration("The 100", avg).
+t_seasons("The 100", 6).
+t_status("The 100", airing).
+
+series("American Dad!").
+t_language("American Dad!", english).
+t_genre("American Dad!", animation).
+t_duration("American Dad!", short).
+t_seasons("American Dad!", 13).
+t_status("American Dad!", airing).
+
+series("Gotham").
+t_language("Gotham", english).
+t_genre("Gotham", action).
+t_duration("Gotham", avg).
+t_seasons("Gotham", 4).
+t_status("Gotham", airing).
+
+series("Speechless").
+t_language("Speechless", english).
+t_genre("Speechless", comedy).
+t_duration("Speechless", short).
+t_seasons("Speechless", 2).
+t_status("Speechless", airing).
+
+series("Grey's Anatomy").
+t_language("Grey's Anatomy", english).
+t_genre("Grey's Anatomy", drama).
+t_duration("Grey's Anatomy", avg).
+t_seasons("Grey's Anatomy", 15).
+t_status("Grey's Anatomy", airing).
+
+series("Homeland").
+t_language("Homeland", english).
+t_genre("Homeland", crime).
+t_duration("Homeland", avg).
+t_seasons("Homeland", 8).
+t_status("Homeland", airing).
+
+series("The Vampire Diaries").
+t_language("The Vampire Diaries", english).
+t_genre("The Vampire Diaries", drama).
+t_duration("The Vampire Diaries", avg).
+t_seasons("The Vampire Diaries", 8).
+t_status("The Vampire Diaries", ended).
+
+series("How to Get Away with Murder").
+t_language("How to Get Away with Murder", english).
+t_genre("How to Get Away with Murder", crime).
+t_duration("How to Get Away with Murder", avg).
+t_seasons("How to Get Away with Murder", 5).
+t_status("How to Get Away with Murder", airing).
+
+series("Austin City Limits").
+t_language("Austin City Limits", english).
+t_genre("Austin City Limits", documentary).
+t_duration("Austin City Limits", avg).
+t_seasons("Austin City Limits", 43).
+t_status("Austin City Limits", airing).
+
+series("Jeopardy!").
+t_language("Jeopardy!", english).
+t_genre("Jeopardy!", game-show).
+t_duration("Jeopardy!", short).
+t_seasons("Jeopardy!", 34).
+t_status("Jeopardy!", airing).
+
+series("Westworld").
+t_language("Westworld", english).
+t_genre("Westworld", drama).
+t_duration("Westworld", long).
+t_seasons("Westworld", 3).
+t_status("Westworld", airing).
+
+series("Arrow").
+t_language("Arrow", english).
+t_genre("Arrow", action).
+t_duration("Arrow", avg).
+t_seasons("Arrow", 7).
+t_status("Arrow", airing).
+
+series("Station 19").
+t_language("Station 19", english).
+t_genre("Station 19", action).
+t_duration("Station 19", avg).
+t_seasons("Station 19", 1).
+t_status("Station 19", airing).
+
+series("Supernatural").
+t_language("Supernatural", english).
+t_genre("Supernatural", drama).
+t_duration("Supernatural", avg).
+t_seasons("Supernatural", 14).
+t_status("Supernatural", airing).
+
+series("Futurama").
+t_language("Futurama", english).
+t_genre("Futurama", animation).
+t_duration("Futurama", short).
+t_seasons("Futurama", 7).
+t_status("Futurama", ended).
+
+series("Z Nation").
+t_language("Z Nation", english).
+t_genre("Z Nation", action).
+t_duration("Z Nation", avg).
+t_seasons("Z Nation", 5).
+t_status("Z Nation", airing).
+
+series("Gigantes").
+t_language("Gigantes", spanish).
+t_genre("Gigantes", na).
+t_duration("Gigantes", short).
+t_seasons("Gigantes", 1).
+t_status("Gigantes", airing).
+
+series("South Park").
+t_language("South Park", english).
+t_genre("South Park", animation).
+t_duration("South Park", short).
+t_seasons("South Park", 23).
+t_status("South Park", airing).
+
+series("The Blacklist").
+t_language("The Blacklist", english).
+t_genre("The Blacklist", crime).
+t_duration("The Blacklist", avg).
+t_seasons("The Blacklist", 5).
+t_status("The Blacklist", airing).
+
+series("Better Call Saul").
+t_language("Better Call Saul", english).
+t_genre("Better Call Saul", crime).
+t_duration("Better Call Saul", avg).
+t_seasons("Better Call Saul", 5).
+t_status("Better Call Saul", airing).
 
 
 tv(X, Z) :-
     series(X),
-    (   language(X, Z)
-    ;   genre(X, Z)
-    ;   duration(X, Z)
-    ;   seasons(X, Z)
-    ;   status(X, Z)
+    (   t_language(X, Z)
+    ;   t_genre(X, Z)
+    ;   t_duration(X, Z)
+    ;   t_seasons(X, Z)
+    ;   t_status(X, Z)
     ).
 
 tv(X, L, G, D, S, T) :-
     series(X),
-    language(X, L),
-    genre(X, G),
-    duration(X, D),
-    seasons(X, S),
-    status(X, T).
+    t_language(X, L),
+    t_genre(X, G),
+    t_duration(X, D),
+    t_seasons(X, S),
+    t_status(X, T).

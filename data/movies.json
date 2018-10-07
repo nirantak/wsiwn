@@ -1368,7 +1368,7 @@
     "Year": "2014",
     "imdbID": "tt2911666",
     "imdbRating": "7.3",
-    "imdbVotes": "396,427"
+    "imdbVotes": "400,630"
   },
   "Johnny English Strikes Again": {
     "Actors": "Olga Kurylenko, Emma Thompson, Rowan Atkinson, Jake Lacy",
@@ -2062,6 +2062,38 @@
     "imdbRating": "5.7",
     "imdbVotes": "72,008"
   },
+  "Pariyerum Perumal": {
+    "Actors": "Anandhi, Yogi Babu, Kathir",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "India",
+    "DVD": "N/A",
+    "Director": "Mari Selvaraj",
+    "Genre": "Drama",
+    "Language": "Tamil",
+    "Metascore": "N/A",
+    "Plot": "Pariyerum Perumal, an idealistic youngster, enrolls at the law college optimistic of the future that lies ahead of him. However, a chain of events ensue that wake him up to the realities of the world he lives in.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ3YmQ2MTctZjQyMi00MGI3LWJhMGQtODI5ZjVmZDFlOGViXkEyXkFqcGdeQXVyODk4ODEyMjk@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.6/10"
+      }
+    ],
+    "Released": "N/A",
+    "Response": "True",
+    "Runtime": "154 min",
+    "Title": "Pariyerum Perumal",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Mari Selvaraj",
+    "Year": "2018",
+    "imdbID": "tt8176054",
+    "imdbRating": "9.6",
+    "imdbVotes": "690"
+  },
   "Pirates of the Caribbean: The Curse of the Black Pearl": {
     "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
     "Awards": "Nominated for 5 Oscars. Another 36 wins & 96 nominations.",
@@ -2688,7 +2720,7 @@
     "Year": "2012",
     "imdbID": "tt0848228",
     "imdbRating": "8.1",
-    "imdbVotes": "1,122,811"
+    "imdbVotes": "1,127,047"
   },
   "The Dark Knight": {
     "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
@@ -3277,6 +3309,33 @@
     "imdbID": "tt2975578",
     "imdbRating": "6.5",
     "imdbVotes": "120,668"
+  },
+  "The Seven Deadly Sins: Prisoners of the Sky": {
+    "Actors": "N/A",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Japan",
+    "DVD": "N/A",
+    "Director": "Noriyuki Abe",
+    "Genre": "Animation, Action, Fantasy",
+    "Language": "Japanese",
+    "Metascore": "N/A",
+    "Plot": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWUxNWQ5ZDAtMjhhYS00ZGQ1LTg0ZjktZWU3YmI0ZDc4ZWM5XkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [],
+    "Released": "18 Aug 2018",
+    "Response": "True",
+    "Runtime": "99 min",
+    "Title": "The Seven Deadly Sins: Prisoners of the Sky",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "N/A",
+    "Year": "2018",
+    "imdbID": "tt9089294",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A"
   },
   "The Shawshank Redemption": {
     "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
