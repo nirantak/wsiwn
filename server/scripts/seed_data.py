@@ -5,9 +5,10 @@ from typing import Dict, List, Set, Tuple
 
 import requests
 
-OMDB_API_KEY = os.environ.get("OMDB_API_KEY")
+from server import PROJECT_ROOT
+
+OMDB_API_KEY = os.environ["OMDB_API_KEY"]
 OMDB_URL = "https://omdbapi.com"
-PROJECT_ROOT: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def get_media_info(movies: Set[str], tv: Set[str]) -> Tuple[List[Dict], List[Dict]]:
@@ -110,7 +111,7 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
             m_language({title}, {m['Language'].split(',')[0].strip().lower()}).
             m_genre({title}, {m['Genre'].split(',')[0].strip().lower()}).
             m_duration({title}, {dur}).
-            m_year({title}, {m['Year']}).
+            m_year({title}, {m['Year'].lower()}).
             """
         )
         facts_movies.add(q)
@@ -136,7 +137,7 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
             t_language({title}, {t['Language'].split(',')[0].strip().lower()}).
             t_genre({title}, {t['Genre'].split(',')[0].strip().lower()}).
             t_duration({title}, {dur}).
-            t_seasons({title}, {t['totalSeasons']}).
+            t_seasons({title}, {t['totalSeasons'].lower()}).
             t_status({title}, {'airing' if t['Year'].endswith(dash) else 'ended'}).
             """
         )

@@ -4,9 +4,10 @@ from typing import Set, Tuple
 import requests
 from bs4 import BeautifulSoup
 
-PROJECT_ROOT: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-URL_MOVIES: str = "https://www.themoviedb.org/movie"
-URL_TV: str = "https://www.themoviedb.org/tv"
+from server import PROJECT_ROOT
+
+URL_MOVIES: str = os.environ["URL_MOVIES"]
+URL_TV: str = os.environ["URL_TV"]
 
 
 def get_watchlist(pages: int = 5) -> Tuple[Set[str], Set[str]]:
