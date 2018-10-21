@@ -1,32 +1,27 @@
 {
-  "24": {
-    "Actors": "Kiefer Sutherland, Mary Lynn Rajskub, Carlos Bernard, Dennis Haysbert",
-    "Awards": "Won 2 Golden Globes. Another 68 wins & 205 nominations.",
+  "A Guy, a Girl, and Their Monster": {
+    "Actors": "Phillip Hughes, Matt Zunich, Jenn Daugherty",
+    "Awards": "N/A",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Crime, Drama",
-    "Language": "English, Russian, German, Korean, Arabic, Spanish, Serbian, Mandarin",
+    "Genre": "Comedy",
+    "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Jack Bauer, Director of Field Ops for the Counter-Terrorist Unit of Los Angeles, races against the clock to subvert terrorist plots and save his nation from ultimate disaster.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.4/10"
-      }
-    ],
-    "Released": "06 Nov 2001",
+    "Plot": "N/A",
+    "Poster": "N/A",
+    "Rated": "N/A",
+    "Ratings": [],
+    "Released": "N/A",
     "Response": "True",
-    "Runtime": "44 min",
-    "Title": "24",
+    "Runtime": "N/A",
+    "Title": "A Guy, a Girl, and Their Monster",
     "Type": "series",
-    "Writer": "Robert Cochran, Joel Surnow",
-    "Year": "2001\u20132010",
-    "imdbID": "tt0285331",
-    "imdbRating": "8.4",
-    "imdbVotes": "160,435",
-    "totalSeasons": "8"
+    "Writer": "N/A",
+    "Year": "2013\u2013",
+    "imdbID": "tt3159146",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "totalSeasons": "N/A"
   },
   "Adventure Time": {
     "Actors": "Jeremy Shada, John DiMaggio, Hynden Walch, Niki Yang",
@@ -178,7 +173,7 @@
     "Awards": "5 wins & 14 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Adventure, Crime",
+    "Genre": "Action, Adventure, Crime, Drama, Romance",
     "Language": "English",
     "Metascore": "N/A",
     "Plot": "At a Los Angeles beach, a team of lifeguards led by Lieutenant Mitch Buchannon save lives, deal with personal dramas, fight crime and participate in over the top adventures on a daily basis.",
@@ -199,7 +194,7 @@
     "Year": "1989\u20132001",
     "imdbID": "tt0096542",
     "imdbRating": "5.2",
-    "imdbVotes": "21,558",
+    "imdbVotes": "21,753",
     "totalSeasons": "11"
   },
   "Better Call Saul": {
@@ -231,33 +226,33 @@
     "imdbVotes": "228,893",
     "totalSeasons": "5"
   },
-  "Big Mouth": {
-    "Actors": "Nick Kroll, John Mulaney, Fred Armisen, Jessi Klein",
+  "Black Lightning": {
+    "Actors": "Cress Williams, China Anne McClain, Nafessa Williams, Christine Adams",
     "Awards": "2 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Animation, Comedy, Romance",
+    "Genre": "Action, Drama, Sci-Fi",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Teenage friends find their lives upended by the wonders and horrors of puberty.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTk0ODgzOF5BMl5BanBnXkFtZTgwMzM0NjIzMzI@._V1_SX300.jpg",
-    "Rated": "TV-MA",
+    "Plot": "A crusading school principal gets back into action as the original African-American electrical superhero.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTk5Mzg5OV5BMl5BanBnXkFtZTgwNDgyMjQyNjM@._V1_SX300.jpg",
+    "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.0/10"
+        "Value": "6.4/10"
       }
     ],
-    "Released": "29 Sep 2017",
+    "Released": "16 Jan 2018",
     "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Big Mouth",
+    "Runtime": "43 min",
+    "Title": "Black Lightning",
     "Type": "series",
-    "Writer": "Jennifer Flackett, Andrew Goldberg, Nick Kroll, Mark Levin",
-    "Year": "2017\u2013",
-    "imdbID": "tt6524350",
-    "imdbRating": "8.0",
-    "imdbVotes": "20,754",
+    "Writer": "Salim Akil, Mara Brock Akil",
+    "Year": "2018\u2013",
+    "imdbID": "tt6045840",
+    "imdbRating": "6.4",
+    "imdbVotes": "13,508",
     "totalSeasons": "2"
   },
   "Black Mirror": {
@@ -286,37 +281,66 @@
     "Year": "2011\u2013",
     "imdbID": "tt2085059",
     "imdbRating": "8.9",
-    "imdbVotes": "246,858",
+    "imdbVotes": "256,222",
     "totalSeasons": "4"
   },
-  "Bob's Burgers": {
-    "Actors": "H. Jon Benjamin, Dan Mintz, Eugene Mirman, John Roberts",
-    "Awards": "Won 2 Primetime Emmys. Another 7 wins & 42 nominations.",
+  "Black-ish": {
+    "Actors": "Anthony Anderson, Tracee Ellis Ross, Marcus Scribner, Miles Brown",
+    "Awards": "Won 1 Golden Globe. Another 32 wins & 109 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Animation, Comedy",
+    "Genre": "Comedy",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Bob Belcher, along with his wife and 3 children, try to run their last hope of holding the family together, which is running Bob's dream restaurant.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Plot": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyYmNmZTAtNTUzMy00OTUwLTk2NzktNGE0MmE4OWVkODA3XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_SX300.jpg",
     "Rated": "TV-PG",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.1/10"
+        "Value": "7.1/10"
       }
     ],
-    "Released": "09 Jan 2011",
+    "Released": "24 Sep 2014",
     "Response": "True",
     "Runtime": "22 min",
-    "Title": "Bob's Burgers",
+    "Title": "Black-ish",
     "Type": "series",
-    "Writer": "Loren Bouchard, Jim Dauterive",
-    "Year": "2011\u2013",
-    "imdbID": "tt1561755",
-    "imdbRating": "8.1",
-    "imdbVotes": "52,135",
-    "totalSeasons": "9"
+    "Writer": "Kenya Barris",
+    "Year": "2014\u2013",
+    "imdbID": "tt3487356",
+    "imdbRating": "7.1",
+    "imdbVotes": "15,139",
+    "totalSeasons": "5"
+  },
+  "Blindspot": {
+    "Actors": "Sullivan Stapleton, Jaimie Alexander, Rob Brown, Audrey Esparza",
+    "Awards": "Nominated for 1 Primetime Emmy. Another 1 win & 5 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "Jane Doe is found in Times Square with no memory and mysterious tattoos on her body.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDIyYzUwNjgtNDA1Mi00ZmQ3LThhNWQtN2RjZjczNjRlZmQ3XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Released": "21 Sep 2015",
+    "Response": "True",
+    "Runtime": "42 min",
+    "Title": "Blindspot",
+    "Type": "series",
+    "Writer": "Martin Gero",
+    "Year": "2015\u2013",
+    "imdbID": "tt4474344",
+    "imdbRating": "7.5",
+    "imdbVotes": "56,430",
+    "totalSeasons": "3"
   },
   "Breaking Bad": {
     "Actors": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris",
@@ -344,7 +368,7 @@
     "Year": "2008\u20132013",
     "imdbID": "tt0903747",
     "imdbRating": "9.5",
-    "imdbVotes": "1,116,726",
+    "imdbVotes": "1,124,115",
     "totalSeasons": "5"
   },
   "CSI: Crime Scene Investigation": {
@@ -376,74 +400,45 @@
     "imdbVotes": "70,550",
     "totalSeasons": "16"
   },
-  "Casualty": {
-    "Actors": "Derek Thompson, Suzanne Packer, Ian Bleasdale, Tony Marshall",
-    "Awards": "10 wins & 28 nominations.",
-    "Country": "UK",
-    "Director": "N/A",
-    "Genre": "Drama",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "The everyday lives of the people frequenting the frenetic Accident and Emergency department of Holby City hospital.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTMyMjE3N15BMl5BanBnXkFtZTcwMzg0NzYzMQ@@._V1_SX300.jpg",
-    "Rated": "N/A",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.0/10"
-      }
-    ],
-    "Released": "28 Sep 1998",
-    "Response": "True",
-    "Runtime": "50 min",
-    "Title": "Casualty",
-    "Type": "series",
-    "Writer": "Jeremy Brock, Paul Unwin",
-    "Year": "1986\u2013",
-    "imdbID": "tt0096555",
-    "imdbRating": "6.0",
-    "imdbVotes": "2,104",
-    "totalSeasons": "33"
-  },
-  "Chicago Fire": {
-    "Actors": "Jesse Spencer, Taylor Kinney, Monica Raymund, Yuri Sardarov",
-    "Awards": "4 wins & 19 nominations.",
+  "Charmed": {
+    "Actors": "Holly Marie Combs, Alyssa Milano, Brian Krause, Rose McGowan",
+    "Awards": "5 wins & 17 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Drama",
+    "Genre": "Drama, Fantasy, Mystery",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "The story of firefighters in Chicago, both on a personal and professional level.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiYWVjMjgtMTUzYy00YTFlLWE2OWYtMzY3ZmNmYTE0ODg5XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SX300.jpg",
+    "Plot": "Three sisters discover their destiny, to battle against the forces of evil, using their witchcraft. They are the Charmed Ones.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTIxNmUxMWQtNjc0Yy00NjM2LWFjMTMtNjA2MmEzOTFiMWRmXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.9/10"
+        "Value": "7.1/10"
       }
     ],
-    "Released": "N/A",
+    "Released": "07 Oct 1998",
     "Response": "True",
-    "Runtime": "43 min",
-    "Title": "Chicago Fire",
+    "Runtime": "42 min",
+    "Title": "Charmed",
     "Type": "series",
-    "Writer": "Michael Brandt, Derek Haas",
-    "Year": "2012\u2013",
-    "imdbID": "tt2261391",
-    "imdbRating": "7.9",
-    "imdbVotes": "28,310",
-    "totalSeasons": "7"
+    "Writer": "Constance M. Burge",
+    "Year": "1998\u20132006",
+    "imdbID": "tt0158552",
+    "imdbRating": "7.1",
+    "imdbVotes": "65,673",
+    "totalSeasons": "8"
   },
   "Chicago P.D.": {
     "Actors": "Jason Beghe, Jesse Lee Soffer, Patrick John Flueger, Marina Squerciati",
     "Awards": "1 win & 5 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Crime, Drama",
+    "Genre": "Action, Crime, Drama, Thriller",
     "Language": "English",
     "Metascore": "N/A",
     "Plot": "Follows District 21 of the Chicago Police Department, which is made up of two distinctly different groups: the uniformed cops and the Intelligence Unit.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkYzFmMzctNDMzOS00ZDlkLWIwOGUtYWI1MTkyZDI1MThkXkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
@@ -460,37 +455,8 @@
     "Year": "2014\u2013",
     "imdbID": "tt2805096",
     "imdbRating": "8.1",
-    "imdbVotes": "19,946",
+    "imdbVotes": "20,288",
     "totalSeasons": "6"
-  },
-  "Cops": {
-    "Actors": "Andrew Fincher, Heather Ashley Chase",
-    "Awards": "Nominated for 4 Primetime Emmys. Another 2 wins & 1 nomination.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Action, Crime, Reality-TV",
-    "Language": "English, Spanish, German, Russian",
-    "Metascore": "N/A",
-    "Plot": "Follows real-life law enforcement officers from various regions and departments of the US armed with nothing but with cameras to capture their actions.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyNjM5ODE0NzNeQTJeQWpwZ15BbWU3MDI0OTE1MjE@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.1/10"
-      }
-    ],
-    "Released": "11 Mar 1989",
-    "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Cops",
-    "Type": "series",
-    "Writer": "John Langley, Malcolm Barbour",
-    "Year": "1989\u2013",
-    "imdbID": "tt0096563",
-    "imdbRating": "7.1",
-    "imdbVotes": "4,724",
-    "totalSeasons": "30"
   },
   "Coronation Street": {
     "Actors": "William Roache, Helen Worth, Sally Dynevor, Simon Gregson",
@@ -550,6 +516,35 @@
     "imdbVotes": "130,603",
     "totalSeasons": "14"
   },
+  "Dark Shadows": {
+    "Actors": "Jonathan Frid, Grayson Hall, Alexandra Isles, Nancy Barrett",
+    "Awards": "N/A",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Drama, Fantasy, Horror",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzkwODMyNl5BMl5BanBnXkFtZTYwMTI5ODY5._V1_SX300.jpg",
+    "Rated": "TV-PG",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Released": "27 Jun 1966",
+    "Response": "True",
+    "Runtime": "30 min",
+    "Title": "Dark Shadows",
+    "Type": "series",
+    "Writer": "Dan Curtis",
+    "Year": "1966\u20131971",
+    "imdbID": "tt0059978",
+    "imdbRating": "8.0",
+    "imdbVotes": "3,164",
+    "totalSeasons": "1"
+  },
   "Doctor Who": {
     "Actors": "Matt Smith, David Tennant, Peter Capaldi, Jenna Coleman",
     "Awards": "110 wins & 174 nominations.",
@@ -578,6 +573,64 @@
     "imdbRating": "8.7",
     "imdbVotes": "174,622",
     "totalSeasons": "11"
+  },
+  "Dragon Ball Z": {
+    "Actors": "Doc Harris, Christopher Sabat, Scott McNeil, Sean Schemmel",
+    "Awards": "N/A",
+    "Country": "Japan, USA, Canada",
+    "Director": "N/A",
+    "Genre": "Animation, Action, Adventure",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Rated": "TV-PG",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      }
+    ],
+    "Released": "13 Sep 1996",
+    "Response": "True",
+    "Runtime": "24 min",
+    "Title": "Dragon Ball Z",
+    "Type": "series",
+    "Writer": "N/A",
+    "Year": "1996\u20132003",
+    "imdbID": "tt0214341",
+    "imdbRating": "8.7",
+    "imdbVotes": "96,712",
+    "totalSeasons": "15"
+  },
+  "DuckTales": {
+    "Actors": "Alan Young, Russi Taylor, Chuck McCann, Terence McGovern",
+    "Awards": "1 win & 5 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Animation, Adventure, Comedy",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "The globe-trotting treasure-hunting money-making adventures of billionaire Scrooge McDuck and his nephews.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjNmYTAzZjgtYTE0NC00ZGUwLWEwYTYtMTI0ZTljYjI5MWVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Rated": "TV-G",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Released": "18 Sep 1987",
+    "Response": "True",
+    "Runtime": "23 min",
+    "Title": "DuckTales",
+    "Type": "series",
+    "Writer": "Jymn Magon",
+    "Year": "1987\u20131990",
+    "imdbID": "tt0092345",
+    "imdbRating": "8.1",
+    "imdbVotes": "24,833",
+    "totalSeasons": "4"
   },
   "Dupur Thakurpo": {
     "Actors": "Soumendra Bhattacharya, Anindya Chatterjee, Abhijit Guha, Swastika Mukherjee",
@@ -608,34 +661,34 @@
     "imdbVotes": "28",
     "totalSeasons": "N/A"
   },
-  "Elite": {
-    "Actors": "Omar Ayuso, Miguel Bernardeau, Mina El Hammani, Itzan Escamilla",
-    "Awards": "N/A",
-    "Country": "Spain",
+  "Elementary": {
+    "Actors": "Jonny Lee Miller, Lucy Liu, Aidan Quinn, Jon Michael Hill",
+    "Awards": "Nominated for 2 Primetime Emmys. Another 6 wins & 16 nominations.",
+    "Country": "USA",
     "Director": "N/A",
-    "Genre": "Thriller",
-    "Language": "Spanish",
+    "Genre": "Crime, Drama, Mystery",
+    "Language": "English, Spanish, Chinese, Russian, Pushto, French, Czech, German, Filipino",
     "Metascore": "N/A",
-    "Plot": "Las Encinas is the most exclusive school in the country- where the Elite sends their children to study. In there, three working-class teens have just been admitted after an earthquake ...",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgyOTIwODk3MV5BMl5BanBnXkFtZTgwNTE2MzEzNjM@._V1_SX300.jpg",
-    "Rated": "N/A",
+    "Plot": "A modern take on the cases of Sherlock Holmes, with the detective now living in New York City.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDEyN2U1YTItNDY1Zi00YjljLWI5YzItNWU3YWViYjhiZTgxXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
+    "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.1/10"
+        "Value": "7.9/10"
       }
     ],
-    "Released": "05 Oct 2018",
+    "Released": "27 Sep 2012",
     "Response": "True",
     "Runtime": "60 min",
-    "Title": "Elite",
+    "Title": "Elementary",
     "Type": "series",
-    "Writer": "Dar\u00edo Madrona, Carlos Montero",
-    "Year": "2018\u2013",
-    "imdbID": "tt7134908",
-    "imdbRating": "8.1",
-    "imdbVotes": "344",
-    "totalSeasons": "1"
+    "Writer": "Robert Doherty",
+    "Year": "2012\u2013",
+    "imdbID": "tt2191671",
+    "imdbRating": "7.9",
+    "imdbVotes": "89,193",
+    "totalSeasons": "7"
   },
   "Emmerdale": {
     "Actors": "Lucy Pargeter, Mark Charnock, Elizabeth Estensen, Antony Audenshaw",
@@ -666,35 +719,6 @@
     "imdbVotes": "2,201",
     "totalSeasons": "1"
   },
-  "Fairy Tail": {
-    "Actors": "Tetsuya Kakihara, Aya Hirano, Rie Kugimiya, Brittney Karbowski",
-    "Awards": "4 wins & 8 nominations.",
-    "Country": "Japan",
-    "Director": "N/A",
-    "Genre": "Animation, Action, Adventure",
-    "Language": "Japanese, English",
-    "Metascore": "N/A",
-    "Plot": "Lucy, an aspiring Celestial Wizard, becomes a friend and ally to powerful wizards Natsu, Gray, and Erza, who are part of the (in)famous wizard guild, Fairy Tail.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzZjNmRhNWQtNTAyYy00Yjk2LWE0NzUtMmYyNTU0YTE5NjJiXkEyXkFqcGdeQXVyNjI4OTE5OTM@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.1/10"
-      }
-    ],
-    "Released": "30 Sep 2011",
-    "Response": "True",
-    "Runtime": "24 min",
-    "Title": "Fairy Tail",
-    "Type": "series",
-    "Writer": "Hiro Mashima, Masashi Sogo",
-    "Year": "2009\u2013",
-    "imdbID": "tt1528406",
-    "imdbRating": "8.1",
-    "imdbVotes": "15,472",
-    "totalSeasons": "7"
-  },
   "Family Guy": {
     "Actors": "Seth MacFarlane, Alex Borstein, Seth Green, Mila Kunis",
     "Awards": "Won 7 Primetime Emmys. Another 27 wins & 86 nominations.",
@@ -721,7 +745,7 @@
     "Year": "1998\u2013",
     "imdbID": "tt0182576",
     "imdbRating": "8.2",
-    "imdbVotes": "271,498",
+    "imdbVotes": "272,559",
     "totalSeasons": "17"
   },
   "Fear the Walking Dead": {
@@ -753,35 +777,6 @@
     "imdbVotes": "95,187",
     "totalSeasons": "4"
   },
-  "Fresh Off the Boat": {
-    "Actors": "Randall Park, Constance Wu, Hudson Yang, Forrest Wheeler",
-    "Awards": "4 wins & 17 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Comedy",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A Taiwanese family makes their way in America during the 1990s.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTI5Mzc3MV5BMl5BanBnXkFtZTgwNzMwOTk2MzI@._V1_SX300.jpg",
-    "Rated": "TV-PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.9/10"
-      }
-    ],
-    "Released": "04 Feb 2015",
-    "Response": "True",
-    "Runtime": "22 min",
-    "Title": "Fresh Off the Boat",
-    "Type": "series",
-    "Writer": "Nahnatchka Khan",
-    "Year": "2015\u2013",
-    "imdbID": "tt3551096",
-    "imdbRating": "7.9",
-    "imdbVotes": "17,519",
-    "totalSeasons": "5"
-  },
   "Friends": {
     "Actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc",
     "Awards": "Won 1 Golden Globe. Another 68 wins & 211 nominations.",
@@ -811,41 +806,41 @@
     "imdbVotes": "616,910",
     "totalSeasons": "10"
   },
-  "Futurama": {
-    "Actors": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille",
-    "Awards": "Won 6 Primetime Emmys. Another 24 wins & 56 nominations.",
+  "Full House": {
+    "Actors": "John Stamos, Dave Coulier, Candace Cameron Bure, Jodie Sweetin",
+    "Awards": "16 wins & 20 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Animation, Comedy, Sci-Fi",
+    "Genre": "Comedy, Drama, Family",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Fry, a pizza guy, is accidentally frozen in 1999 and thawed out New Year's Eve 2999.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA2ZDk2ZTUtMWU2Yi00NDVmLTk1ODEtMmFmMjQyNWYzODI0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
-    "Rated": "TV-14",
+    "Plot": "A widowed broadcaster raises his three children with the assistance of us rock 'n' roll brother-in-law and his madcap best friend.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2VhZjA4ZGMtMTM0ZC00MTIyLWFjMzMtOWI4Y2JjN2IyNmYyXkEyXkFqcGdeQXVyNjc4NTExMTk@._V1_SX300.jpg",
+    "Rated": "TV-G",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.5/10"
+        "Value": "6.7/10"
       }
     ],
-    "Released": "28 Mar 1999",
+    "Released": "N/A",
     "Response": "True",
     "Runtime": "22 min",
-    "Title": "Futurama",
+    "Title": "Full House",
     "Type": "series",
-    "Writer": "David X. Cohen, Matt Groening",
-    "Year": "1999\u20132013",
-    "imdbID": "tt0149460",
-    "imdbRating": "8.5",
-    "imdbVotes": "185,085",
-    "totalSeasons": "7"
+    "Writer": "Jeff Franklin",
+    "Year": "1987\u20131995",
+    "imdbID": "tt0092359",
+    "imdbRating": "6.7",
+    "imdbVotes": "47,094",
+    "totalSeasons": "8"
   },
   "Game of Thrones": {
     "Actors": "Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington",
     "Awards": "Won 1 Golden Globe. Another 273 wins & 454 nominations.",
     "Country": "USA, UK",
     "Director": "N/A",
-    "Genre": "Action, Adventure, Drama",
+    "Genre": "Action, Adventure, Drama, Fantasy, Romance",
     "Language": "English",
     "Metascore": "N/A",
     "Plot": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
@@ -866,32 +861,8 @@
     "Year": "2011\u2013",
     "imdbID": "tt0944947",
     "imdbRating": "9.5",
-    "imdbVotes": "1,351,032",
+    "imdbVotes": "1,361,235",
     "totalSeasons": "8"
-  },
-  "Gigantes": {
-    "Actors": "Oscar Alegre, Mariana Anghileri, Leonora Balcarce, H\u00e9ctor Bidonde",
-    "Awards": "N/A",
-    "Country": "Argentina",
-    "Director": "N/A",
-    "Genre": "N/A",
-    "Language": "Spanish",
-    "Metascore": "N/A",
-    "Plot": "N/A",
-    "Poster": "N/A",
-    "Rated": "N/A",
-    "Ratings": [],
-    "Released": "N/A",
-    "Response": "True",
-    "Runtime": "26 min",
-    "Title": "Gigantes",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "2011\u2013",
-    "imdbID": "tt4515372",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A",
-    "totalSeasons": "1"
   },
   "Gotham": {
     "Actors": "Ben McKenzie, Donal Logue, David Mazouz, Cory Michael Smith",
@@ -980,45 +951,74 @@
     "imdbVotes": "58,729",
     "totalSeasons": "9"
   },
-  "Homeland": {
-    "Actors": "Claire Danes, Mandy Patinkin, Rupert Friend, F. Murray Abraham",
-    "Awards": "Won 5 Golden Globes. Another 49 wins & 163 nominations.",
+  "House of Cards": {
+    "Actors": "Robin Wright, Kevin Spacey, Michael Kelly, Derek Cecil",
+    "Awards": "Won 2 Golden Globes. Another 27 wins & 198 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Crime, Drama, Mystery",
+    "Genre": "Drama",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjNiOTA4YTEtYmE0Ni00Mzg4LTg1OTgtNTE0YWE3YTc0MDVhXkEyXkFqcGdeQXVyNjc3OTUzNzM@._V1_SX300.jpg",
+    "Plot": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_SX300.jpg",
     "Rated": "TV-MA",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.4/10"
+        "Value": "8.9/10"
       }
     ],
-    "Released": "02 Oct 2011",
+    "Released": "01 Feb 2013",
     "Response": "True",
-    "Runtime": "55 min",
-    "Title": "Homeland",
+    "Runtime": "51 min",
+    "Title": "House of Cards",
     "Type": "series",
-    "Writer": "Alex Gansa, Howard Gordon",
-    "Year": "2011\u2013",
-    "imdbID": "tt1796960",
-    "imdbRating": "8.4",
-    "imdbVotes": "269,446",
-    "totalSeasons": "8"
+    "Writer": "Beau Willimon",
+    "Year": "2013\u20132018",
+    "imdbID": "tt1856010",
+    "imdbRating": "8.9",
+    "imdbVotes": "409,209",
+    "totalSeasons": "6"
+  },
+  "How I Met Your Mother": {
+    "Actors": "Josh Radnor, Jason Segel, Cobie Smulders, Neil Patrick Harris",
+    "Awards": "Nominated for 2 Golden Globes. Another 25 wins & 90 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Comedy, Romance",
+    "Language": "English, Persian, Chinese",
+    "Metascore": "N/A",
+    "Plot": "A father recounts to his children, through a series of flashbacks, the journey he and his four best friends took leading up to him meeting their mother.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MzAzNTcyNjZeQTJeQWpwZ15BbWU3MDUyMzE1MTk@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      }
+    ],
+    "Released": "19 Sep 2005",
+    "Response": "True",
+    "Runtime": "22 min",
+    "Title": "How I Met Your Mother",
+    "Type": "series",
+    "Writer": "Carter Bays, Craig Thomas",
+    "Year": "2005\u20132014",
+    "imdbID": "tt0460649",
+    "imdbRating": "8.3",
+    "imdbVotes": "519,151",
+    "totalSeasons": "9"
   },
   "How to Get Away with Murder": {
     "Actors": "Viola Davis, Billy Brown, Jack Falahee, Aja Naomi King",
     "Awards": "Nominated for 2 Golden Globes. Another 10 wins & 47 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Crime, Drama, Mystery",
+    "Genre": "Crime, Drama, Mystery, Thriller",
     "Language": "English, Spanish",
     "Metascore": "N/A",
     "Plot": "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmRmNGI0NDQtZTUyMS00NzlhLWE0YzMtZmNkZWE5NzZmZjhjXkEyXkFqcGdeQXVyNjI0NDkwNjE@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzNzM1MDI4NV5BMl5BanBnXkFtZTgwNjk1OTYzNjM@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
@@ -1035,37 +1035,8 @@
     "Year": "2014\u2013",
     "imdbID": "tt3205802",
     "imdbRating": "8.2",
-    "imdbVotes": "93,724",
+    "imdbVotes": "94,694",
     "totalSeasons": "5"
-  },
-  "Into the Dark": {
-    "Actors": "Tom Bateman, Dermot Mulroney, Rebecca Rittenhouse, Tembi Locke",
-    "Awards": "N/A",
-    "Country": "N/A",
-    "Director": "N/A",
-    "Genre": "Horror, Thriller",
-    "Language": "N/A",
-    "Metascore": "N/A",
-    "Plot": "A horror anthology series with each episode inspired by a holiday.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTI2ODNlNGItNzU5ZS00NDI0LTlhZDctMDk4ZjNlZDhlMmQ1XkEyXkFqcGdeQXVyNDgwMDA4OA@@._V1_SX300.jpg",
-    "Rated": "N/A",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.8/10"
-      }
-    ],
-    "Released": "05 Oct 2018",
-    "Response": "True",
-    "Runtime": "90 min",
-    "Title": "Into the Dark",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "2018\u2013",
-    "imdbID": "tt8427140",
-    "imdbRating": "5.8",
-    "imdbVotes": "108",
-    "totalSeasons": "N/A"
   },
   "Istanbullu Gelin": {
     "Actors": "\u00d6zcan Deniz, Asli Enver, G\u00fcven Murat Akpinar, Dilara Aks\u00fcyek",
@@ -1122,66 +1093,8 @@
     "Year": "2005\u2013",
     "imdbID": "tt0472954",
     "imdbRating": "8.8",
-    "imdbVotes": "161,731",
+    "imdbVotes": "163,065",
     "totalSeasons": "14"
-  },
-  "Jeopardy!": {
-    "Actors": "Alex Trebek, Johnny Gilbert",
-    "Awards": "47 wins & 93 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Game-Show",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A returning champion and two challengers test their buzzer skills and their knowledge in a wide range of academic and popular categories.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTE0MjQzNTUyOV5BMl5BanBnXkFtZTcwNDgzMTIzMQ@@._V1_SX300.jpg",
-    "Rated": "TV-G",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.2/10"
-      }
-    ],
-    "Released": "10 Sep 1984",
-    "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Jeopardy!",
-    "Type": "series",
-    "Writer": "Merv Griffin",
-    "Year": "1984\u2013",
-    "imdbID": "tt0159881",
-    "imdbRating": "8.2",
-    "imdbVotes": "4,709",
-    "totalSeasons": "34"
-  },
-  "JoJo's Bizarre Adventure": {
-    "Actors": "Daisuke Ono, Unsh\u00f4 Ishizuka, Matthew Mercer, T\u00f4ru Ohkawa",
-    "Awards": "2 nominations.",
-    "Country": "Japan",
-    "Director": "N/A",
-    "Genre": "Animation, Action, Adventure",
-    "Language": "Japanese",
-    "Metascore": "N/A",
-    "Plot": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc0NDYxZGMtNjg0Ny00ZjNhLWEzZTAtZmU1YjFiNGM5MzNiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_SX300.jpg",
-    "Rated": "TV-MA",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.3/10"
-      }
-    ],
-    "Released": "01 Oct 2012",
-    "Response": "True",
-    "Runtime": "N/A",
-    "Title": "JoJo's Bizarre Adventure",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "2012\u2013",
-    "imdbID": "tt2359704",
-    "imdbRating": "8.3",
-    "imdbVotes": "2,576",
-    "totalSeasons": "4"
   },
   "Karenjit Kaur - The Untold Story of Sunny Leone": {
     "Actors": "Bijay Anand, Raj Arjun, Karamvir Lamba, Sunny Leone",
@@ -1210,7 +1123,7 @@
     "imdbID": "tt6009150",
     "imdbRating": "8.2",
     "imdbVotes": "3,001",
-    "totalSeasons": "1"
+    "totalSeasons": "2"
   },
   "Late Show with David Letterman": {
     "Actors": "David Letterman, Paul Shaffer, Alan Kalter",
@@ -1299,38 +1212,63 @@
     "imdbVotes": "62,903",
     "totalSeasons": "20"
   },
-  "Lost": {
-    "Actors": "Jorge Garcia, Josh Holloway, Yunjin Kim, Evangeline Lilly",
-    "Awards": "Won 1 Golden Globe. Another 105 wins & 376 nominations.",
+  "Lethal Weapon": {
+    "Actors": "Damon Wayans, Keesha Sharp, Clayne Crawford, Kevin Rahm",
+    "Awards": "2 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Adventure, Drama, Fantasy",
-    "Language": "English, Portuguese, Spanish, Arabic, French, Korean, German, Latin, Russian, Japanese",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Language": "English",
     "Metascore": "N/A",
-    "Plot": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Plot": "A slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyNzM1MTczM15BMl5BanBnXkFtZTgwNDg4MzA0NjM@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.4/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "80%"
+        "Value": "8.1/10"
       }
     ],
-    "Released": "22 Sep 2004",
+    "Released": "21 Sep 2016",
     "Response": "True",
     "Runtime": "44 min",
-    "Title": "Lost",
+    "Title": "Lethal Weapon",
     "Type": "series",
-    "Writer": "J.J. Abrams, Jeffrey Lieber, Damon Lindelof",
-    "Year": "2004\u20132010",
-    "imdbID": "tt0411008",
-    "imdbRating": "8.4",
-    "imdbVotes": "436,190",
-    "totalSeasons": "6"
+    "Writer": "Matthew Miller",
+    "Year": "2016\u2013",
+    "imdbID": "tt5164196",
+    "imdbRating": "8.1",
+    "imdbVotes": "28,981",
+    "totalSeasons": "3"
+  },
+  "Lore": {
+    "Actors": "Aaron Mahnke, Ivo Zubaty",
+    "Awards": "N/A",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Documentary, Horror",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "Our collective nightmare mythologies are rooted in real-life horror stories.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MTk1MTQ0OF5BMl5BanBnXkFtZTgwMjYwOTYzNjM@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      }
+    ],
+    "Released": "N/A",
+    "Response": "True",
+    "Runtime": "40 min",
+    "Title": "Lore",
+    "Type": "series",
+    "Writer": "Aaron Mahnke",
+    "Year": "2017\u2013",
+    "imdbID": "tt6130902",
+    "imdbRating": "6.9",
+    "imdbVotes": "2,947",
+    "totalSeasons": "2"
   },
   "Lucifer": {
     "Actors": "Tom Ellis, Lauren German, Kevin Alejandro, D.B. Woodside",
@@ -1390,6 +1328,35 @@
     "imdbVotes": "15,872",
     "totalSeasons": "5"
   },
+  "Making a Murderer": {
+    "Actors": "Dolores Avery, Steven Avery, Ken Kratz, Brendan Dassey",
+    "Awards": "Won 4 Primetime Emmys. Another 9 wins & 11 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Documentary, Crime",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "Filmed over a 10-year period, Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Released": "18 Dec 2015",
+    "Response": "True",
+    "Runtime": "60 min",
+    "Title": "Making a Murderer",
+    "Type": "series",
+    "Writer": "N/A",
+    "Year": "2015\u2013",
+    "imdbID": "tt5189670",
+    "imdbRating": "8.6",
+    "imdbVotes": "67,192",
+    "totalSeasons": "2"
+  },
   "Marvel's Agents of S.H.I.E.L.D.: Academy": {
     "Actors": "Ralph Lammie Jr.",
     "Awards": "N/A",
@@ -1419,34 +1386,63 @@
     "imdbVotes": "236",
     "totalSeasons": "N/A"
   },
-  "Mayday": {
-    "Actors": "Koko Anglo, Matthew Ashforde, Caroline Berry, Daniel Coonan",
-    "Awards": "N/A",
-    "Country": "UK",
+  "Mickey Mouse": {
+    "Actors": "Chris Diamantopoulos, Bill Farmer, Russi Taylor, Tony Anselmo",
+    "Awards": "Won 6 Primetime Emmys. Another 18 wins & 24 nominations.",
+    "Country": "USA",
     "Director": "N/A",
-    "Genre": "Drama, Fantasy, Mystery",
+    "Genre": "Animation, Short, Comedy",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Mayday in a small town steeped in pagan traditions where the crowning of the May Queen is the highlight of the day until suddenly she goes missing.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZjFkOTEtMDJhZS00OWIzLWEyMDYtYTNjNmVkN2ZlY2YxXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SX300.jpg",
-    "Rated": "NOT RATED",
+    "Plot": "Mickey Mouse takes on new adventures finding himself in silly situations in different settings.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTBiZjUzN2UtNTNmNy00MzE4LWFhYzQtM2EwY2UwZDRmYzY4XkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_SX300.jpg",
+    "Rated": "TV-G",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.7/10"
+        "Value": "8.1/10"
       }
     ],
-    "Released": "03 Mar 2013",
+    "Released": "12 Mar 2013",
     "Response": "True",
-    "Runtime": "59 min",
-    "Title": "Mayday",
+    "Runtime": "4 min",
+    "Title": "Mickey Mouse",
     "Type": "series",
     "Writer": "N/A",
-    "Year": "2013",
-    "imdbID": "tt2401919",
-    "imdbRating": "6.7",
-    "imdbVotes": "1,132",
-    "totalSeasons": "1"
+    "Year": "2013\u2013",
+    "imdbID": "tt2768802",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,217",
+    "totalSeasons": "4"
+  },
+  "Mindhunter": {
+    "Actors": "Jonathan Groff, Holt McCallany, Hannah Gross, Anna Torv",
+    "Awards": "1 win & 7 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Crime, Drama, Thriller",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNkZmNmZjMtZWI5OC00MzdiLTgxMjAtZWY2ZTIwMWM2Yzc2XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SX300.jpg",
+    "Rated": "TV-MA",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Released": "13 Oct 2017",
+    "Response": "True",
+    "Runtime": "60 min",
+    "Title": "Mindhunter",
+    "Type": "series",
+    "Writer": "Joe Penhall",
+    "Year": "2017\u2013",
+    "imdbID": "tt5290382",
+    "imdbRating": "8.6",
+    "imdbVotes": "98,302",
+    "totalSeasons": "2"
   },
   "Modern Family": {
     "Actors": "Ed O'Neill, Sof\u00eda Vergara, Julie Bowen, Ty Burrell",
@@ -1477,35 +1473,6 @@
     "imdbVotes": "296,449",
     "totalSeasons": "10"
   },
-  "Mom": {
-    "Actors": "Anna Faris, Allison Janney, Mimi Kennedy, Beth Hall",
-    "Awards": "Nominated for 1 Golden Globe. Another 11 wins & 23 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Comedy, Drama, Romance",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWI0ZjU4MzUtMTdmMy00OWVkLThhNWItNzQ4NDEyNTBiY2ZjXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.2/10"
-      }
-    ],
-    "Released": "23 Sep 2013",
-    "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Mom",
-    "Type": "series",
-    "Writer": "Gemma Baker, Eddie Gorodetsky, Chuck Lorre",
-    "Year": "2013\u2013",
-    "imdbID": "tt2660806",
-    "imdbRating": "7.2",
-    "imdbVotes": "21,590",
-    "totalSeasons": "6"
-  },
   "Money Heist": {
     "Actors": "\u00darsula Corber\u00f3, Itziar Itu\u00f1o, \u00c1lvaro Morte, Paco Tous",
     "Awards": "3 wins & 12 nominations.",
@@ -1535,44 +1502,44 @@
     "imdbVotes": "92,426",
     "totalSeasons": "3"
   },
-  "Mystery Science Theater 3000": {
-    "Actors": "Kevin Murphy, Trace Beaulieu, Jim Mallon, Michael J. Nelson",
-    "Awards": "Nominated for 2 Primetime Emmys. Another 3 wins & 13 nominations.",
-    "Country": "USA",
+  "My Hero Academia": {
+    "Actors": "Daiki Yamashita, Justin Briner, Nobuhiko Okamoto, Kaito Ishikawa",
+    "Awards": "5 wins & 3 nominations.",
+    "Country": "Japan",
     "Director": "N/A",
-    "Genre": "Comedy, Sci-Fi",
-    "Language": "English",
+    "Genre": "Animation, Action, Comedy, Fantasy, Sci-Fi",
+    "Language": "Japanese",
     "Metascore": "N/A",
-    "Plot": "In the not-too-distant future Joel Robinson is held captive by Dr. Forrester and TV's Frank, forced to watch B-Grade movies on the Satellite of Love with the help of his robot friends: Cambot, Gypsy, Tom Servo and Crow T. Robot.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4Nzc0Mzc5M15BMl5BanBnXkFtZTcwMDYzNTYyMQ@@._V1._CR11,6,331,452_SY132_CR4,0,89,132_AL_.jpg_V1_SX300.jpg",
+    "Plot": "A superhero-loving boy without any powers is determined to enroll in a prestigious hero academy and learn what it really means to be a hero.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTc5MjM0MDktMDE2Ni00YzFjLWIyM2QtOTFiYjAzYWRiYmYzXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.5/10"
+        "Value": "8.4/10"
       }
     ],
-    "Released": "24 Nov 1988",
+    "Released": "03 Apr 2016",
     "Response": "True",
-    "Runtime": "92 min",
-    "Title": "Mystery Science Theater 3000",
+    "Runtime": "24 min",
+    "Title": "My Hero Academia",
     "Type": "series",
-    "Writer": "Joel Hodgson",
-    "Year": "1988\u20131999",
-    "imdbID": "tt0094517",
-    "imdbRating": "8.5",
-    "imdbVotes": "21,167",
-    "totalSeasons": "11"
+    "Writer": "N/A",
+    "Year": "2016\u2013",
+    "imdbID": "tt5626028",
+    "imdbRating": "8.4",
+    "imdbVotes": "11,776",
+    "totalSeasons": "3"
   },
   "NCIS": {
     "Actors": "Mark Harmon, David McCallum, Pauley Perrette, Sean Murray",
     "Awards": "Nominated for 3 Primetime Emmys. Another 22 wins & 30 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Comedy, Crime",
+    "Genre": "Action, Comedy, Crime, Drama, Mystery, Thriller",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "The cases of the Naval Criminal Investigative Service's Washington DC Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.",
+    "Plot": "The cases of the Naval Criminal Investigative Service's Washington, D.C. Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmJmNDM4NzAtMWViMy00MDU0LWI5M2YtNzYxY2VlMTBiODM5XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
@@ -1590,7 +1557,7 @@
     "Year": "2003\u2013",
     "imdbID": "tt0364845",
     "imdbRating": "7.9",
-    "imdbVotes": "101,296",
+    "imdbVotes": "101,947",
     "totalSeasons": "16"
   },
   "NCIS: Los Angeles": {
@@ -1622,79 +1589,79 @@
     "imdbVotes": "42,632",
     "totalSeasons": "10"
   },
-  "One Piece": {
-    "Actors": "Mayumi Tanaka, Tony Beck, Laurent Vernin, Akemi Okamura",
-    "Awards": "3 wins & 9 nominations.",
-    "Country": "Japan",
+  "Narcos": {
+    "Actors": "Pedro Pascal, Wagner Moura, Boyd Holbrook, Alberto Ammann",
+    "Awards": "Nominated for 2 Golden Globes. Another 6 wins & 15 nominations.",
+    "Country": "Colombia, USA",
     "Director": "N/A",
-    "Genre": "Animation, Action, Adventure",
-    "Language": "Japanese, English",
+    "Genre": "Biography, Crime, Drama",
+    "Language": "English, Spanish",
     "Metascore": "N/A",
-    "Plot": "Follows the adventures of Monkey D. Luffy and his friends in order to find the greatest treasure ever left by the legendary Pirate, Gol D Roger. The famous mystery treasure named \"One Piece\".",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODFmYzMwYjktOGY0Ny00YzU3LTk3YzgtNjgyNzBlMzRjZWZhXkEyXkFqcGdeQXVyNTk2NDEzNzM@._V1_SX300.jpg",
-    "Rated": "N/A",
+    "Plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "Rated": "TV-MA",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.6/10"
+        "Value": "8.9/10"
       }
     ],
-    "Released": "18 Sep 2004",
+    "Released": "28 Aug 2015",
     "Response": "True",
-    "Runtime": "24 min",
-    "Title": "One Piece",
+    "Runtime": "49 min",
+    "Title": "Narcos",
     "Type": "series",
-    "Writer": "Eiichiro Oda",
-    "Year": "1999\u2013",
-    "imdbID": "tt0388629",
-    "imdbRating": "8.6",
-    "imdbVotes": "52,464",
-    "totalSeasons": "20"
+    "Writer": "Carlo Bernard, Chris Brancato, Doug Miro, Paul Eckstein",
+    "Year": "2015\u20132017",
+    "imdbID": "tt2707408",
+    "imdbRating": "8.9",
+    "imdbVotes": "263,928",
+    "totalSeasons": "4"
   },
-  "Perry Mason": {
-    "Actors": "Raymond Burr, Barbara Hale, William Hopper, Ray Collins",
-    "Awards": "Won 1 Golden Globe. Another 5 wins & 6 nominations.",
+  "Once Upon a Time": {
+    "Actors": "Lana Parrilla, Robert Carlyle, Jared Gilmore, Jennifer Morrison",
+    "Awards": "Nominated for 6 Primetime Emmys. Another 10 wins & 68 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Crime, Drama, Mystery",
+    "Genre": "Adventure, Fantasy, Romance",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "The cases of a master criminal defense attorney, handling the most difficult of cases in the aid of the innocent.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjU4NDIwMV5BMl5BanBnXkFtZTcwODI4MTE2MQ@@._V1._CR1,28,346,470_SY132_CR4,0,89,132_AL_.jpg_V1_SX300.jpg",
+    "Plot": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjBmZmI0ZDktODI2MS00MDU1LTk0NDYtNGE0MDc0OWVkYzcwXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_SX300.jpg",
     "Rated": "TV-PG",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.2/10"
+        "Value": "7.8/10"
       }
     ],
-    "Released": "21 Sep 1957",
+    "Released": "23 Oct 2011",
     "Response": "True",
     "Runtime": "60 min",
-    "Title": "Perry Mason",
+    "Title": "Once Upon a Time",
     "Type": "series",
-    "Writer": "Erle Stanley Gardner",
-    "Year": "1957\u20131966",
-    "imdbID": "tt0050051",
-    "imdbRating": "8.2",
-    "imdbVotes": "3,909",
-    "totalSeasons": "9"
+    "Writer": "Adam Horowitz, Edward Kitsis",
+    "Year": "2011\u20132018",
+    "imdbID": "tt1843230",
+    "imdbRating": "7.8",
+    "imdbVotes": "194,374",
+    "totalSeasons": "7"
   },
   "Pok\u00e9mon": {
-    "Actors": "Unsh\u00f4 Ishizuka, Rica Matsumoto, Ikue \u00d4tani, Megumi Hayashibara",
+    "Actors": "Ikue \u00d4tani, Rica Matsumoto, Rodger Parsons, Shin'ichir\u00f4 Miki",
     "Awards": "N/A",
     "Country": "Japan",
     "Director": "N/A",
-    "Genre": "Animation, Action, Adventure",
-    "Language": "Japanese",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Fantasy",
+    "Language": "Japanese, English",
     "Metascore": "N/A",
-    "Plot": "Follows the adventure of Satoshi with his pokemon, Pikachu and his friends to become the grand champion of the pokemon battle.",
-    "Poster": "http://ia.media-imdb.com/images/M/MV5BMGJkNTU5MDQtMDg2YS00ZjZhLWIxNDYtMmRjZTIyYTZjNTBlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+    "Plot": "Follows the adventure of Satoshi with his Pokemon, Pikachu and his friends to become the Pokemon master.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1YjM2YzAtZWE2Ny00ZWNiLWFkZWItMDJhMzJiNDQwMmI4XkEyXkFqcGdeQXVyNTU1MjgyMjk@._V1_SX300.jpg",
     "Rated": "TV-Y7",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.1/10"
+        "Value": "7.4/10"
       }
     ],
     "Released": "08 Sep 1998",
@@ -1702,41 +1669,12 @@
     "Runtime": "24 min",
     "Title": "Pok\u00e9mon",
     "Type": "series",
-    "Writer": "N/A",
-    "Year": "1997\u20132002",
+    "Writer": "Junichi Masuda, Ken Sugimori, Satoshi Tajiri",
+    "Year": "1997\u20132018",
     "imdbID": "tt0168366",
-    "imdbRating": "7.1",
-    "imdbVotes": "6,884",
+    "imdbRating": "7.4",
+    "imdbVotes": "32,190",
     "totalSeasons": "21"
-  },
-  "Pretty Little Liars": {
-    "Actors": "Troian Bellisario, Ashley Benson, Lucy Hale, Shay Mitchell",
-    "Awards": "41 wins & 39 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Drama, Mystery, Romance",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "Four friends band together against an anonymous foe who threatens to reveal their darkest secrets, while also investigating the disappearance of their best friend.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDYzMzQ2Nl5BMl5BanBnXkFtZTgwMDE3MzU4MTI@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "Released": "08 Jun 2010",
-    "Response": "True",
-    "Runtime": "44 min",
-    "Title": "Pretty Little Liars",
-    "Type": "series",
-    "Writer": "I. Marlene King",
-    "Year": "2010\u20132017",
-    "imdbID": "tt1578873",
-    "imdbRating": "7.5",
-    "imdbVotes": "137,502",
-    "totalSeasons": "7"
   },
   "Prison Break": {
     "Actors": "Dominic Purcell, Wentworth Miller, Robert Knepper, Amaury Nolasco",
@@ -1767,35 +1705,6 @@
     "imdbVotes": "414,538",
     "totalSeasons": "5"
   },
-  "Rebelde": {
-    "Actors": "Anah\u00ed, Dulce Mar\u00eda, Alfonso Herrera, Christopher Von Uckermann",
-    "Awards": "N/A",
-    "Country": "Mexico",
-    "Director": "N/A",
-    "Genre": "Comedy, Drama, Family",
-    "Language": "Spanish",
-    "Metascore": "N/A",
-    "Plot": "Six teenagers with different lives and personalities attend a prominent private school with only one thing in common: their vocation and passion for music.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTIyZDQ3MGMtNjIxMS00YjBiLWE0MGEtOGJhNzZlN2FlOTQ0XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
-    "Rated": "N/A",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.8/10"
-      }
-    ],
-    "Released": "21 Mar 2005",
-    "Response": "True",
-    "Runtime": "60 min",
-    "Title": "Rebelde",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "2004\u20132006",
-    "imdbID": "tt0414766",
-    "imdbRating": "6.8",
-    "imdbVotes": "2,475",
-    "totalSeasons": "3"
-  },
   "Riverdale": {
     "Actors": "K.J. Apa, Lili Reinhart, Camila Mendes, Cole Sprouse",
     "Awards": "9 wins & 4 nominations.",
@@ -1824,64 +1733,6 @@
     "imdbRating": "7.6",
     "imdbVotes": "64,337",
     "totalSeasons": "3"
-  },
-  "Rugrats": {
-    "Actors": "Elizabeth Daily, Kath Soucie, Melanie Chartoff, Cheryl Chase",
-    "Awards": "Nominated for 6 Primetime Emmys. Another 20 wins & 24 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Animation, Adventure, Comedy",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "The cartoon misadventures of four babies and their snotty older cousin as they face the things in life they don't understand.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTVhNjY2MGItNDgyYy00Y2E5LWFlZmMtZTljY2Y1MzI0ZGI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-    "Rated": "TV-G",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.5/10"
-      }
-    ],
-    "Released": "11 Aug 1991",
-    "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Rugrats",
-    "Type": "series",
-    "Writer": "Paul Germain, Gabor Csupo, Arlene Klasky",
-    "Year": "1990\u20132006",
-    "imdbID": "tt0101188",
-    "imdbRating": "7.5",
-    "imdbVotes": "26,980",
-    "totalSeasons": "10"
-  },
-  "SEAL Team": {
-    "Actors": "David Boreanaz, Max Thieriot, Jessica Par\u00e9, Neil Brown Jr.",
-    "Awards": "N/A",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Action, Drama, War",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "The lives of the elite Navy S.E.A.L.s as they train, plan and execute the most dangerous, high-stakes missions our country can ask.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWQxMWI3ZmYtYjQzMC00M2MyLTliN2YtMzgyZTQ2OThhZWQ4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.0/10"
-      }
-    ],
-    "Released": "N/A",
-    "Response": "True",
-    "Runtime": "43 min",
-    "Title": "SEAL Team",
-    "Type": "series",
-    "Writer": "Benjamin Cavell",
-    "Year": "2017\u2013",
-    "imdbID": "tt6473344",
-    "imdbRating": "7.0",
-    "imdbVotes": "7,706",
-    "totalSeasons": "2"
   },
   "Salvation": {
     "Actors": "Santiago Cabrera, Jennifer Finnigan, Charlie Rowe, Jacqueline Byers",
@@ -1941,35 +1792,6 @@
     "imdbVotes": "1,312",
     "totalSeasons": "1"
   },
-  "Sesame Street": {
-    "Actors": "Caroll Spinney, Frank Oz, Jerry Nelson, Jim Henson",
-    "Awards": "Won 6 Primetime Emmys. Another 202 wins & 290 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Animation, Comedy, Family",
-    "Language": "English, Spanish, American Sign Language",
-    "Metascore": "N/A",
-    "Plot": "On a special inner city street, the inhabitants, human and muppet, teach preschool subjects with comedy, cartoons, games, and songs.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1_SX300.jpg",
-    "Rated": "TV-Y",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.2/10"
-      }
-    ],
-    "Released": "21 Jul 1969",
-    "Response": "True",
-    "Runtime": "55 min",
-    "Title": "Sesame Street",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "1969\u2013",
-    "imdbID": "tt0063951",
-    "imdbRating": "8.2",
-    "imdbVotes": "9,997",
-    "totalSeasons": "48"
-  },
   "Shameless": {
     "Actors": "William H. Macy, Emmy Rossum, Ethan Cutkosky, Shanola Hampton",
     "Awards": "Nominated for 2 Golden Globes. Another 14 wins & 58 nominations.",
@@ -1998,6 +1820,64 @@
     "imdbRating": "8.7",
     "imdbVotes": "156,297",
     "totalSeasons": "9"
+  },
+  "Sherlock": {
+    "Actors": "Benedict Cumberbatch, Martin Freeman, Una Stubbs, Rupert Graves",
+    "Awards": "Nominated for 1 Golden Globe. Another 86 wins & 159 nominations.",
+    "Country": "UK, USA",
+    "Director": "N/A",
+    "Genre": "Crime, Drama, Mystery",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      }
+    ],
+    "Released": "24 Oct 2010",
+    "Response": "True",
+    "Runtime": "88 min",
+    "Title": "Sherlock",
+    "Type": "series",
+    "Writer": "Mark Gatiss, Steven Moffat",
+    "Year": "2010\u2013",
+    "imdbID": "tt1475582",
+    "imdbRating": "9.2",
+    "imdbVotes": "661,745",
+    "totalSeasons": "4"
+  },
+  "Smallville": {
+    "Actors": "Tom Welling, Allison Mack, Kristin Kreuk, Michael Rosenbaum",
+    "Awards": "Won 3 Primetime Emmys. Another 30 wins & 155 nominations.",
+    "Country": "USA, Canada",
+    "Director": "N/A",
+    "Genre": "Adventure, Drama, Romance",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A young Clark Kent struggles to find his place in the world as he learns to harness his alien powers for good and deals with the typical troubles of teenage life in Smallville, Kansas.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_SX300.jpg",
+    "Rated": "TV-PG",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Released": "N/A",
+    "Response": "True",
+    "Runtime": "60 min",
+    "Title": "Smallville",
+    "Type": "series",
+    "Writer": "Alfred Gough, Miles Millar",
+    "Year": "2001\u20132011",
+    "imdbID": "tt0279600",
+    "imdbRating": "7.5",
+    "imdbVotes": "105,873",
+    "totalSeasons": "10"
   },
   "South Park": {
     "Actors": "Trey Parker, Matt Stone, Mona Marshall, April Stewart",
@@ -2028,63 +1908,63 @@
     "imdbVotes": "287,548",
     "totalSeasons": "23"
   },
-  "Speechless": {
-    "Actors": "Minnie Driver, John Ross Bowie, Cedric Yarbrough, Mason Cook",
-    "Awards": "1 win & 3 nominations.",
+  "Star Trek: The Next Generation": {
+    "Actors": "Patrick Stewart, Jonathan Frakes, LeVar Burton, Marina Sirtis",
+    "Awards": "Won 18 Primetime Emmys. Another 17 wins & 61 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Comedy",
-    "Language": "English",
+    "Genre": "Action, Adventure, Mystery",
+    "Language": "English, Klingon, French",
     "Metascore": "N/A",
-    "Plot": "The family of a special-needs teen is good at dealing with the challenges he faces - and excellent at creating new ones.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWYyNWU4MWEtNWJhOS00MjZmLWIxM2YtYmMyOWU2MGFhN2E3XkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_SX300.jpg",
+    "Plot": "Set decades after Captain Kirk's five-year mission, a new generation of Starfleet officers set off in a new Enterprise on their own mission to go where no one has gone before.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDViYjAyZWUtNGQxMy00MDUyLTlkZTAtOWNkY2M5ZTk5MTE5XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "Rated": "TV-PG",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.6/10"
+        "Value": "8.6/10"
       }
     ],
-    "Released": "21 Sep 2016",
+    "Released": "26 Sep 1987",
     "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Speechless",
+    "Runtime": "44 min",
+    "Title": "Star Trek: The Next Generation",
     "Type": "series",
-    "Writer": "Scott Silveri",
-    "Year": "2016\u2013",
-    "imdbID": "tt5592146",
-    "imdbRating": "7.6",
-    "imdbVotes": "5,000",
-    "totalSeasons": "2"
+    "Writer": "Gene Roddenberry",
+    "Year": "1987\u20131994",
+    "imdbID": "tt0092455",
+    "imdbRating": "8.6",
+    "imdbVotes": "80,168",
+    "totalSeasons": "7"
   },
-  "Station 19": {
-    "Actors": "Jaina Lee Ortiz, Jason George, Grey Damon, Barrett Doss",
-    "Awards": "N/A",
+  "Stranger Things": {
+    "Actors": "Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown",
+    "Awards": "Nominated for 4 Golden Globes. Another 32 wins & 114 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Action, Drama, Romance",
+    "Genre": "Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "Follows the men and women of a Seattle firehouse.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTExNTk2NzY5MDReQTJeQWpwZ15BbWU4MDQwODE3OTQz._V1_SX300.jpg",
+    "Plot": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjUwMDgzOTg3Nl5BMl5BanBnXkFtZTgwNTI4MDk5MzI@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.9/10"
+        "Value": "8.9/10"
       }
     ],
-    "Released": "22 Mar 2018",
+    "Released": "15 Jul 2016",
     "Response": "True",
-    "Runtime": "60 min",
-    "Title": "Station 19",
+    "Runtime": "51 min",
+    "Title": "Stranger Things",
     "Type": "series",
-    "Writer": "Stacy McKee",
-    "Year": "2018\u2013",
-    "imdbID": "tt7053188",
-    "imdbRating": "5.9",
-    "imdbVotes": "2,647",
-    "totalSeasons": "1"
+    "Writer": "Matt Duffer, Ross Duffer",
+    "Year": "2016\u2013",
+    "imdbID": "tt4574334",
+    "imdbRating": "8.9",
+    "imdbVotes": "521,619",
+    "totalSeasons": "3"
   },
   "Suits": {
     "Actors": "Gabriel Macht, Rick Hoffman, Sarah Rafferty, Patrick J. Adams",
@@ -2114,35 +1994,6 @@
     "imdbRating": "8.6",
     "imdbVotes": "310,576",
     "totalSeasons": "8"
-  },
-  "Sunset Beach": {
-    "Actors": "Clive Robertson, Susan Ward, Sarah Buxton, Lesley-Anne Down",
-    "Awards": "4 wins & 35 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Drama, Romance",
-    "Language": "English, Spanish",
-    "Metascore": "N/A",
-    "Plot": "Having discovered her fianc\u00e9 Tim Truman kissing another woman, Meg Cummings leaves her home in Kansas on their wedding day to start a new life in Sunset Beach, California. Her goal is to ...",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWU5OGEyMDEtMWE0Yi00YjUzLWJmMzktZjYzNTU4ODc0YzczXkEyXkFqcGdeQXVyNDA0MDExNDg@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.9/10"
-      }
-    ],
-    "Released": "06 Jan 1997",
-    "Response": "True",
-    "Runtime": "60 min",
-    "Title": "Sunset Beach",
-    "Type": "series",
-    "Writer": "Josh Griffith, Robert Guza Jr., Charles Pratt Jr.",
-    "Year": "1997\u20131999",
-    "imdbID": "tt0118484",
-    "imdbRating": "6.9",
-    "imdbVotes": "1,923",
-    "totalSeasons": "1"
   },
   "Supergirl": {
     "Actors": "Melissa Benoist, Mehcad Brooks, Chyler Leigh, David Harewood",
@@ -2201,64 +2052,6 @@
     "imdbRating": "8.5",
     "imdbVotes": "335,284",
     "totalSeasons": "14"
-  },
-  "Superstore": {
-    "Actors": "America Ferrera, Ben Feldman, Lauren Ash, Colton Dunn",
-    "Awards": "2 wins & 6 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Comedy",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A look at the lives of employees at a big box store.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxOGY2YTItNjQ3YS00OTQxLTlhNTYtYWViZGRjZTlhZmY3XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SX300.jpg",
-    "Rated": "TV-PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      }
-    ],
-    "Released": "30 Nov 2015",
-    "Response": "True",
-    "Runtime": "22 min",
-    "Title": "Superstore",
-    "Type": "series",
-    "Writer": "Justin Spitzer",
-    "Year": "2015\u2013",
-    "imdbID": "tt4477976",
-    "imdbRating": "7.7",
-    "imdbVotes": "13,224",
-    "totalSeasons": "4"
-  },
-  "Survivor": {
-    "Actors": "Jeff Probst",
-    "Awards": "Won 7 Primetime Emmys. Another 35 wins & 112 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Adventure, Game-Show, Reality-TV",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A reality show where a group of contestants are stranded in a remote location with little more than the clothes on their back. The lone survivor of this contest takes home a million dollars.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjYjcyZTItNTA1Mi00YTVkLWE2Y2MtMmRlMzllODkyYzQ2XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
-    "Rated": "TV-PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.1/10"
-      }
-    ],
-    "Released": "31 May 2000",
-    "Response": "True",
-    "Runtime": "60 min",
-    "Title": "Survivor",
-    "Type": "series",
-    "Writer": "Charlie Parsons",
-    "Year": "2000\u2013",
-    "imdbID": "tt0239195",
-    "imdbRating": "7.1",
-    "imdbVotes": "19,555",
-    "totalSeasons": "36"
   },
   "The 100": {
     "Actors": "Paige Turco, Bob Morley, Marie Avgeropoulos, Henry Ian Cusick",
@@ -2347,6 +2140,64 @@
     "imdbVotes": "144,808",
     "totalSeasons": "5"
   },
+  "The Block": {
+    "Actors": "Scott Cam, Keith Schleiger",
+    "Awards": "4 wins & 8 nominations.",
+    "Country": "Australia",
+    "Director": "N/A",
+    "Genre": "Game-Show, Reality-TV",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "Couples compete to renovate rundown buildings into high-end apartments and sell them at auction for the highest price to receive a prize of $100,000.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y0MzVjMzAtNmRhOS00ODFiLTgxNTgtMWY2ZDQwYzVjM2QwXkEyXkFqcGdeQXVyNzY3MjU3NDc@._V1_SX300.jpg",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      }
+    ],
+    "Released": "25 May 2003",
+    "Response": "True",
+    "Runtime": "60 min",
+    "Title": "The Block",
+    "Type": "series",
+    "Writer": "David Barbour, Julian Cress",
+    "Year": "2003\u2013",
+    "imdbID": "tt0418372",
+    "imdbRating": "6.3",
+    "imdbVotes": "320",
+    "totalSeasons": "13"
+  },
+  "The Expanse": {
+    "Actors": "Steven Strait, Cas Anvar, Dominique Tipper, Wes Chatham",
+    "Awards": "2 wins & 7 nominations.",
+    "Country": "USA, Canada",
+    "Director": "N/A",
+    "Genre": "Drama, Mystery, Sci-Fi",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNzI0NDY2OF5BMl5BanBnXkFtZTgwNDg0MDQyMTI@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      }
+    ],
+    "Released": "23 Nov 2015",
+    "Response": "True",
+    "Runtime": "60 min",
+    "Title": "The Expanse",
+    "Type": "series",
+    "Writer": "Mark Fergus, Hawk Ostby",
+    "Year": "2015\u2013",
+    "imdbID": "tt3230854",
+    "imdbRating": "8.4",
+    "imdbVotes": "60,230",
+    "totalSeasons": "3"
+  },
   "The Flash": {
     "Actors": "Grant Gustin, Candice Patton, Danielle Panabaker, Carlos Valdes",
     "Awards": "Nominated for 1 Primetime Emmy. Another 19 wins & 42 nominations.",
@@ -2374,39 +2225,10 @@
     "imdbID": "tt3107288",
     "imdbRating": "7.9",
     "imdbVotes": "257,158",
-    "totalSeasons": "4"
-  },
-  "The Gifted": {
-    "Actors": "Stephen Moyer, Amy Acker, Sean Teale, Natalie Alyn Lind",
-    "Awards": "N/A",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Action, Drama, Fantasy",
-    "Language": "English, Finnish",
-    "Metascore": "N/A",
-    "Plot": "In a world where mutated humans are treated with distrust and fear, an institute for mutants battles to achieve peaceful co-existence with humanity.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyODM4NjYzOV5BMl5BanBnXkFtZTgwNzYzNzI0NjM@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.6/10"
-      }
-    ],
-    "Released": "02 Oct 2017",
-    "Response": "True",
-    "Runtime": "43 min",
-    "Title": "The Gifted",
-    "Type": "series",
-    "Writer": "Matt Nix",
-    "Year": "2017\u2013",
-    "imdbID": "tt4396630",
-    "imdbRating": "7.6",
-    "imdbVotes": "21,428",
-    "totalSeasons": "2"
+    "totalSeasons": "5"
   },
   "The Good Doctor": {
-    "Actors": "Freddie Highmore, Nicholas Gonzalez, Antonia Thomas, Beau Garrett",
+    "Actors": "Freddie Highmore, Nicholas Gonzalez, Antonia Thomas, Tamlyn Tomita",
     "Awards": "Nominated for 1 Golden Globe. Another 1 nomination.",
     "Country": "USA",
     "Director": "N/A",
@@ -2414,7 +2236,7 @@
     "Language": "English",
     "Metascore": "N/A",
     "Plot": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTkxNGItZDdjNy00MTc5LThhNDktM2Q2YWRkN2RjNTY5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NDc3ODE2M15BMl5BanBnXkFtZTgwNTk1OTYzNjM@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
       {
@@ -2431,7 +2253,7 @@
     "Year": "2017\u2013",
     "imdbID": "tt6470478",
     "imdbRating": "8.4",
-    "imdbVotes": "30,418",
+    "imdbVotes": "32,772",
     "totalSeasons": "2"
   },
   "The Good Place": {
@@ -2463,63 +2285,58 @@
     "imdbVotes": "36,360",
     "totalSeasons": "3"
   },
-  "The Man in the High Castle": {
-    "Actors": "Alexa Davalos, Luke Kleintank, DJ Qualls, Joel de la Fuente",
-    "Awards": "Won 2 Primetime Emmys. Another 4 wins & 31 nominations.",
+  "The Handmaid's Tale": {
+    "Actors": "Elisabeth Moss, Max Minghella, Yvonne Strahovski, Joseph Fiennes",
+    "Awards": "Won 2 Golden Globes. Another 38 wins & 34 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Drama, Sci-Fi, Thriller",
-    "Language": "English, German, Japanese",
+    "Genre": "Drama, Sci-Fi",
+    "Language": "English",
     "Metascore": "N/A",
-    "Plot": "In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzkwNzU0MTYwNV5BMl5BanBnXkFtZTgwMzU4NzAzNjM@._V1_SX300.jpg",
+    "Plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MTI0MDAyM15BMl5BanBnXkFtZTgwMDg5MzYyNTM@._V1_SX300.jpg",
     "Rated": "TV-MA",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.1/10"
+        "Value": "8.6/10"
       }
     ],
-    "Released": "15 Jan 2015",
+    "Released": "26 Apr 2017",
     "Response": "True",
     "Runtime": "60 min",
-    "Title": "The Man in the High Castle",
+    "Title": "The Handmaid's Tale",
     "Type": "series",
-    "Writer": "Frank Spotnitz",
-    "Year": "2015\u2013",
-    "imdbID": "tt1740299",
-    "imdbRating": "8.1",
-    "imdbVotes": "57,947",
-    "totalSeasons": "4"
+    "Writer": "Bruce Miller",
+    "Year": "2017\u2013",
+    "imdbID": "tt5834204",
+    "imdbRating": "8.6",
+    "imdbVotes": "94,200",
+    "totalSeasons": "2"
   },
-  "The One Show": {
-    "Actors": "Alex Jones, Christine Lampard, Adrian Chiles, Matt Baker",
-    "Awards": "1 nomination.",
-    "Country": "UK",
+  "The Haunting of Hill House": {
+    "Actors": "Mckenna Grace, Carla Gugino, Michiel Huisman, Timothy Hutton",
+    "Awards": "N/A",
+    "Country": "USA",
     "Director": "N/A",
-    "Genre": "News",
+    "Genre": "Horror",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "A live magazine programme featuring topical stories and big name studio guests.",
-    "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGQxMDc4NDMtNGQ2Mi00MThiLTk5OTEtMThhNjY1N2VjMTM4XkEyXkFqcGdeQXVyMzU5MDAyOTI@._V1_SX300.jpg",
+    "Plot": "Based on the novel The Haunting of Hill House by Shirley Jackson.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_SX300.jpg",
     "Rated": "N/A",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "4.2/10"
-      }
-    ],
-    "Released": "14 Aug 2006",
+    "Ratings": [],
+    "Released": "12 Oct 2018",
     "Response": "True",
-    "Runtime": "30 min",
-    "Title": "The One Show",
+    "Runtime": "50 min",
+    "Title": "The Haunting of Hill House",
     "Type": "series",
-    "Writer": "N/A",
-    "Year": "2006\u2013",
-    "imdbID": "tt0844203",
-    "imdbRating": "4.2",
-    "imdbVotes": "300",
-    "totalSeasons": "9"
+    "Writer": "Mike Flanagan",
+    "Year": "2018\u2013",
+    "imdbID": "tt6763664",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "totalSeasons": "1"
   },
   "The Simpsons": {
     "Actors": "Dan Castellaneta, Nancy Cartwright, Harry Shearer, Julie Kavner",
@@ -2547,7 +2364,7 @@
     "Year": "1989\u2013",
     "imdbID": "tt0096697",
     "imdbRating": "8.7",
-    "imdbVotes": "315,953",
+    "imdbVotes": "319,774",
     "totalSeasons": "30"
   },
   "The Vampire Diaries": {
@@ -2555,10 +2372,10 @@
     "Awards": "34 wins & 61 nominations.",
     "Country": "USA",
     "Director": "N/A",
-    "Genre": "Drama, Fantasy, Horror",
+    "Genre": "Drama, Fantasy, Horror, Mystery, Romance, Thriller",
     "Language": "English",
     "Metascore": "N/A",
-    "Plot": "A young teen struggles to make a decision between two vampire brothers and their supernatural lives. Soon after she discovers the truth her whole world turns upside down.",
+    "Plot": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BODhiODk3NWEtZmNiYi00N2NlLThlN2YtN2VkYTYyMjQxMWEzXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_SX300.jpg",
     "Rated": "TV-14",
     "Ratings": [
@@ -2576,7 +2393,7 @@
     "Year": "2009\u20132017",
     "imdbID": "tt1405406",
     "imdbRating": "7.7",
-    "imdbVotes": "252,687",
+    "imdbVotes": "254,336",
     "totalSeasons": "8"
   },
   "The Walking Dead": {
@@ -2608,6 +2425,68 @@
     "imdbVotes": "752,951",
     "totalSeasons": "9"
   },
+  "This Is Us": {
+    "Actors": "Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz",
+    "Awards": "Won 1 Golden Globe. Another 25 wins & 61 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Comedy, Drama, Romance",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3MDk3ZWYtNjA1YS00NzFhLWIxMTctOTZhOWVhZjE2Mjk0XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SX300.jpg",
+    "Rated": "TV-14",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      }
+    ],
+    "Released": "20 Sep 2016",
+    "Response": "True",
+    "Runtime": "45 min",
+    "Title": "This Is Us",
+    "Type": "series",
+    "Writer": "Dan Fogelman",
+    "Year": "2016\u2013",
+    "imdbID": "tt5555260",
+    "imdbRating": "8.8",
+    "imdbVotes": "63,857",
+    "totalSeasons": "3"
+  },
+  "Titans": {
+    "Actors": "Brenton Thwaites, Anna Diop, Teagan Croft, Ryan Potter",
+    "Awards": "N/A",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Action, Adventure, Drama, Fantasy, Sci-Fi",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDc4Mjc4N15BMl5BanBnXkFtZTgwNjcyNTM0NjM@._V1_SX300.jpg",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "50%"
+      }
+    ],
+    "Released": "12 Oct 2018",
+    "Response": "True",
+    "Runtime": "45 min",
+    "Title": "Titans",
+    "Type": "series",
+    "Writer": "Greg Berlanti, Akiva Goldsman, Geoff Johns",
+    "Year": "2018\u2013",
+    "imdbID": "tt1043813",
+    "imdbRating": "7.9",
+    "imdbVotes": "3,017",
+    "totalSeasons": "1"
+  },
   "Tom and Jerry": {
     "Actors": "N/A",
     "Awards": "N/A",
@@ -2637,6 +2516,35 @@
     "imdbVotes": "28,298",
     "totalSeasons": "N/A"
   },
+  "Twin Peaks": {
+    "Actors": "Kyle MacLachlan, Michael Ontkean, M\u00e4dchen Amick, Dana Ashbrook",
+    "Awards": "Won 3 Golden Globes. Another 12 wins & 44 nominations.",
+    "Country": "USA",
+    "Director": "N/A",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Language": "English, Icelandic, Afrikaans, Norwegian",
+    "Metascore": "N/A",
+    "Plot": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTExNzk2NjcxNTNeQTJeQWpwZ15BbWU4MDcxOTczOTIx._V1_SX300.jpg",
+    "Rated": "TV-MA",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      }
+    ],
+    "Released": "08 Apr 1990",
+    "Response": "True",
+    "Runtime": "47 min",
+    "Title": "Twin Peaks",
+    "Type": "series",
+    "Writer": "Mark Frost, David Lynch",
+    "Year": "1990\u20131991",
+    "imdbID": "tt0098936",
+    "imdbRating": "8.8",
+    "imdbVotes": "145,947",
+    "totalSeasons": "2"
+  },
   "Two and a Half Men": {
     "Actors": "Jon Cryer, Angus T. Jones, Conchata Ferrell, Charlie Sheen",
     "Awards": "Nominated for 2 Golden Globes. Another 29 wins & 70 nominations.",
@@ -2665,35 +2573,6 @@
     "imdbRating": "7.1",
     "imdbVotes": "219,654",
     "totalSeasons": "12"
-  },
-  "Van Helsing": {
-    "Actors": "Kelly Overton, Jonathan Scarfe, Vincent Gale, Rukiya Bernard",
-    "Awards": "1 win & 8 nominations.",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Action, Drama, Fantasy",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "Vanessa Helsing, distant relative of famous vampire hunter Abraham Van Helsing, is resurrected only to find that vampires have taken over the world.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MTgxNjMwNF5BMl5BanBnXkFtZTgwMjU3OTA0OTE@._V1_SX300.jpg",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.0/10"
-      }
-    ],
-    "Released": "23 Sep 2016",
-    "Response": "True",
-    "Runtime": "60 min",
-    "Title": "Van Helsing",
-    "Type": "series",
-    "Writer": "N/A",
-    "Year": "2016\u2013",
-    "imdbID": "tt5197820",
-    "imdbRating": "6.0",
-    "imdbVotes": "11,169",
-    "totalSeasons": "3"
   },
   "Vikings": {
     "Actors": "Gustaf Skarsg\u00e5rd, Katheryn Winnick, Alexander Ludwig, Travis Fimmel",
@@ -2752,35 +2631,6 @@
     "imdbRating": "8.9",
     "imdbVotes": "307,642",
     "totalSeasons": "3"
-  },
-  "Young Sheldon": {
-    "Actors": "Iain Armitage, Zoe Perry, Lance Barber, Montana Jordan",
-    "Awards": "N/A",
-    "Country": "USA",
-    "Director": "N/A",
-    "Genre": "Comedy",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory (2007).",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
-    "Rated": "TV-PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.1/10"
-      }
-    ],
-    "Released": "25 Sep 2017",
-    "Response": "True",
-    "Runtime": "30 min",
-    "Title": "Young Sheldon",
-    "Type": "series",
-    "Writer": "Chuck Lorre, Steven Molaro",
-    "Year": "2017\u2013",
-    "imdbID": "tt6226232",
-    "imdbRating": "7.1",
-    "imdbVotes": "17,109",
-    "totalSeasons": "2"
   },
   "Z Nation": {
     "Actors": "Russell Hodgkinson, Nat Zang, Keith Allan, Kellita Smith",

@@ -5,8 +5,9 @@ from typing import Dict, List, Set, Tuple
 
 import requests
 
-from server import PROJECT_ROOT
-
+PROJECT_ROOT: str = os.path.abspath(
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+)
 OMDB_API_KEY = os.environ["OMDB_API_KEY"]
 OMDB_URL = "https://omdbapi.com"
 
@@ -54,7 +55,7 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
 
     query_movie: str = dedent(
         """
-        movie(X, Z) :-
+        movies(X, Z) :-
             film(X),
             (   m_language(X, Z)
             ;   m_genre(X, Z)
@@ -62,7 +63,7 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
             ;   m_year(X, Z)
             ).
 
-        movie(X, L, G, D, Y) :-
+        movies(X, L, G, D, Y) :-
             film(X),
             m_language(X, L),
             m_genre(X, G),

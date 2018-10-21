@@ -1,4 +1,5 @@
 import os
+from typing import Set
 
 from flask import Flask, abort, jsonify, make_response, render_template, request
 from pyswip import Prolog
@@ -18,6 +19,8 @@ swipl = Prolog()
 swipl.consult(os.path.join(config.PROJECT_ROOT, "prolog/movies.pl"))
 swipl.consult(os.path.join(config.PROJECT_ROOT, "prolog/tv.pl"))
 
+categories: Set[str] = {"movies", "tv"}
+
 
 @app.errorhandler(400)
 def bad_request(error):
@@ -28,7 +31,7 @@ def bad_request(error):
 @app.errorhandler(404)
 def not_found(error):
     """404 Error - Resource not found"""
-    return make_response(jsonify({"error": "Not found"}), 404)
+    return make_response(jsonify({"error": "URI Not found"}), 404)
 
 
 @app.route("/")
@@ -37,12 +40,17 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/movies", methods=["GET", "POST"])
-def find_movie():
+@app.route("/api/<category>", methods=["GET", "POST"])
+def watchlist(category: str):
     """
-    GET Request  - Find list of movies matching the query string
-    POST Request - Find list of movies matching all given input parameters
+    category     - One of {movies, tv}
+    GET Request  - Find list of movies/tv matching the query string
+    POST Request - Find list of movies/tv matching all given input parameters
     """
+    category = category.lower()
+    if category not in categories:
+        abort(404)
+
     if request.method == "GET":
         if not request.args or "query" not in request.args:
             abort(400)
@@ -51,31 +59,8 @@ def find_movie():
         if not query.isidentifier() and not query.isdecimal():
             abort(400)
 
-        movies = search(swipl, "movie", query)
-        return jsonify({"movies": movies}), 200
-
-    if request.method == "POST":
-        return jsonify({}), 200
-
-    return jsonify({"error": "Method Not Allowed"}), 405
-
-
-@app.route("/tv", methods=["GET", "POST"])
-def find_tv():
-    """
-    GET Request  - Find list of TV shows matching the query string
-    POST Request - Find list of TV shows matching all given input parameters
-    """
-    if request.method == "GET":
-        if not request.args or "query" not in request.args:
-            abort(400)
-
-        query: str = request.args.get("query").lower()
-        if not query.isidentifier() and not query.isdecimal():
-            abort(400)
-
-        tv = search(swipl, "tv", query)
-        return jsonify({"tv": tv}), 200
+        res = search(swipl, category, query)
+        return jsonify({category: res}), 200
 
     if request.method == "POST":
         return jsonify({}), 200

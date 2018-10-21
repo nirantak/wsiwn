@@ -4,8 +4,9 @@ from typing import Set, Tuple
 import requests
 from bs4 import BeautifulSoup
 
-from server import PROJECT_ROOT
-
+PROJECT_ROOT: str = os.path.abspath(
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+)
 URL_MOVIES: str = os.environ["URL_MOVIES"]
 URL_TV: str = os.environ["URL_TV"]
 
