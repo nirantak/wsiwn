@@ -51,6 +51,7 @@ def watchlist(category: str):
     if category not in categories:
         abort(404)
 
+    # Basic keyword search on GET request
     if request.method == "GET":
         if not request.args or "query" not in request.args:
             abort(400)
@@ -62,6 +63,7 @@ def watchlist(category: str):
         res = search(swipl, category, query)
         return jsonify({category: res}), 200
 
+    # Advanced search on POST request
     if request.method == "POST":
         return jsonify({}), 200
 

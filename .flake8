@@ -3,7 +3,7 @@
 count = True
 max-line-length = 88
 statistics = True
-verbose = 2
+verbose = 1
 
 exclude =
 	.git,
