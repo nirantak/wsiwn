@@ -661,4 +661,3 @@ tv(X, L, G, D, S, T) :-
     t_duration(X, D),
     t_seasons(X, S),
     t_status(X, T).
-

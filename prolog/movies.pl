@@ -585,4 +585,3 @@ movies(X, L, G, D, Y) :-
     m_genre(X, G),
     m_duration(X, D),
     m_year(X, Y).
-

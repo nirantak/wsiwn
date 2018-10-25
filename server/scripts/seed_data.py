@@ -69,8 +69,9 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
             m_genre(X, G),
             m_duration(X, D),
             m_year(X, Y).
-    """
+        """
     )
+
     query_tv: str = dedent(
         """
         tv(X, Z) :-
@@ -89,14 +90,14 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
             t_duration(X, D),
             t_seasons(X, S),
             t_status(X, T).
-    """
+        """
     )
 
     for m in movies:
         title = f"\"{m['Title']}\""
         try:
             runtime = int(m["Runtime"].split()[0]) / 60
-        except ValueError as e:
+        except ValueError:
             dur = "avg"
         else:
             if runtime <= 1.5:
@@ -122,7 +123,7 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
         title = f"\"{t['Title']}\""
         try:
             runtime = int(t["Runtime"].split()[0])
-        except ValueError as e:
+        except ValueError:
             dur = "avg"
         else:
             if runtime <= 30:

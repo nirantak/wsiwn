@@ -1,11 +1,11 @@
 import os
-from typing import Set
+from typing import Dict, Set
 
 from flask import Flask, abort, jsonify, make_response, render_template, request
 from pyswip import Prolog
 
 from server import config
-from server.prolog import search
+from server.prolog import advance_search, search
 
 app = Flask(
     __name__,
@@ -61,11 +61,24 @@ def watchlist(category: str):
             abort(400)
 
         res = search(swipl, category, query)
-        return jsonify({category: res}), 200
+        return jsonify({category: res, "count": len(res)}), 200
 
     # Advanced search on POST request
     if request.method == "POST":
-        return jsonify({}), 200
+        query: Dict[str, str] = {}
+
+        query["language"] = request.form.get("language")
+        query["genre"] = request.form.get("genre")
+        query["duration"] = request.form.get("duration")
+        query["year"] = request.form.get("year")
+        query["seasons"] = request.form.get("seasons")
+        query["status"] = request.form.get("status")
+
+        if not any(query.values()):
+            abort(400)
+
+        res = advance_search(swipl, category, query)
+        return jsonify({category: res, "count": len(res)}), 200
 
     return jsonify({"error": "Method Not Allowed"}), 405
 
