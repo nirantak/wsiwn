@@ -9,22 +9,20 @@
     - [Local Installation](#local-installation)
     - [Technology Stack](#technology-stack)
     - [Working](#working)
+    - [REST API Endpoints](#rest-api-endpoints)
 
 ## Local Installation
 
 - Install Python 3.7 from [here](https://www.python.org/downloads/release/python-370/)
 - Install SWI-Prolog from [here](http://www.swi-prolog.org/Download.html)
-- Install [Pipenv](https://pipenv.readthedocs.io/en/latest/)
-
-    ```shell
-    $ pip install -U pipenv
-    ```
 
 - Install environment
 
     ```shell
+    $ pip install -U pip pipenv
     $ git clone https://github.com/nirantak/wsiwn.git && cd wsiwn
     $ pipenv install --dev
+    $ pipenv run pre-commit install
     ```
 
 - Start Project
@@ -54,14 +52,14 @@
 
         where
 
-        - X: Output variable
-        - Z: Input Search term
-        - L: Language
-        - G: Genre
-        - D: Duration (short, avg, long)
-        - Y: Year
-        - S: Number of Seasons
-        - T: Status (ended, airing)
+        - X: Output variable (byte string)
+        - Z: Input Search term (str)
+        - L: Language (str)
+        - G: Genre (str)
+        - D: Duration {short, avg, long}
+        - Y: Year (int)
+        - S: Number of Seasons (int)
+        - T: Status {ended, airing}
 
 ## Technology Stack
 
@@ -75,3 +73,14 @@
 - [Web Scraping](https://github.com/nirantak/wsiwn/blob/master/scripts/scraper.py) - Scrape a website to get top 100 movies and TV shows sorted by popularity. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/data/movies_list.txt), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/data/tv_list.txt).
 - [Fetch Data](https://github.com/nirantak/wsiwn/blob/master/scripts/seed_data.py) - Fetch information from OMDB API about each record from previous step. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/data/movies.json), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/data/tv.json).
 - Write [Prolog Statements](https://github.com/nirantak/wsiwn/blob/master/scripts/seed_data.py#L47) - Write Prolog facts for each record from the previous step and add search queries. Results are here: [Movies](https://github.com/nirantak/wsiwn/blob/master/prolog/movies.pl), [TV Shows](https://github.com/nirantak/wsiwn/blob/master/prolog/tv.pl).
+
+## REST API Endpoints
+
+---
+| Method[name] | URI | Description |
+| ----- | ----- | ----- |
+| GET[movies] | /api/movies?query=string | Display Movies matching query string |
+| GET[tv] | /api/tv?query=string | Display TV shows matching query string |
+| POST[movies] | /api/movies | Search Movies with params (at least 1): [language(str), genre(str), duration{short, avg, long}, year(int)] |
+| POST[tv] | /api/tv | Search TV shows with params (at least 1): [language(str), genre(str), duration{short, avg, long}, seasons(int), status{airing, ended}] |
+---
