@@ -12,7 +12,7 @@
 	"files.associations": {
 		"*.lock": "json",
 		"Pipfile": "toml",
-		".env": "shellscript",
+		"*.env": "shellscript",
 		".envrc": "shellscript",
 		"*.dat": "CSV (pipe)",
 		".slugignore": "ignore",
