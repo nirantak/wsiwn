@@ -4,13 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [requires]
-python_full_version = "3.7.1"
+python_full_version = "3.7.2"
 
 [scripts]
 format = "black . --verbose"
-lint = "flake8 --max-line-length=88 --statistics --count"
-start = "gunicorn -w 4 -b 127.0.0.1:5000 server.wsiwn:app --log-level debug --access-logfile - --log-file - --reload"
-prod = "gunicorn -w 4 server.wsiwn:app --log-level warning --log-file -"
+lint = "flake8 --statistics --count"
+start = "gunicorn -w 3 -b 127.0.0.1:5000 server.run:app --log-level debug --access-logfile - --log-file - --reload"
+prod = "gunicorn -w 3 server.run:app --log-level warning --log-file -"
 dev = "flask run"
 
 [packages]
@@ -20,7 +20,6 @@ Flask = "*"
 gunicorn = "*"
 pyswip = "*"
 requests = "*"
-whitenoise = "*"
 
 [dev-packages]
 "flake8" = "*"

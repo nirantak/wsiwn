@@ -146,13 +146,13 @@ def write_prolog(movies: List[Dict], tv: List[Dict]) -> int:
         facts_tv.add(q)
         count += 1
 
-    with open(os.path.join(PROJECT_ROOT, "prolog/movies.pl"), "w") as fm:
+    with open(os.path.join(PROJECT_ROOT, "server/prolog/movies.pl"), "w") as fm:
         fm.write(":- style_check(- (discontiguous)).\n")
         for m in facts_movies:
             fm.write(m)
         fm.write(f"\n{query_movie}\n")
 
-    with open(os.path.join(PROJECT_ROOT, "prolog/tv.pl"), "w") as ft:
+    with open(os.path.join(PROJECT_ROOT, "server/prolog/tv.pl"), "w") as ft:
         ft.write(":- style_check(- (discontiguous)).\n")
         for t in facts_tv:
             ft.write(t)
@@ -165,11 +165,11 @@ if __name__ == "__main__":
     movies = set()
     tv = set()
 
-    with open(os.path.join(PROJECT_ROOT, "data/movies_list.txt"), "r") as fm:
+    with open(os.path.join(PROJECT_ROOT, "server/data/movies.txt"), "r") as fm:
         m = fm.readlines()
         movies = {x.strip() for x in m}
 
-    with open(os.path.join(PROJECT_ROOT, "data/tv_list.txt"), "r") as ft:
+    with open(os.path.join(PROJECT_ROOT, "server/data/tv.txt"), "r") as ft:
         t = ft.readlines()
         tv = {x.strip() for x in t}
 
@@ -177,10 +177,10 @@ if __name__ == "__main__":
     m_json = {m["Title"]: m for m in data_movies}
     t_json = {t["Title"]: t for t in data_tv}
 
-    with open(os.path.join(PROJECT_ROOT, "data/movies.json"), "w") as fm:
+    with open(os.path.join(PROJECT_ROOT, "server/data/movies.json"), "w") as fm:
         json.dump(m_json, fm, indent=2, sort_keys=True)
 
-    with open(os.path.join(PROJECT_ROOT, "data/tv.json"), "w") as ft:
+    with open(os.path.join(PROJECT_ROOT, "server/data/tv.json"), "w") as ft:
         json.dump(t_json, ft, indent=2, sort_keys=True)
 
     count = write_prolog(data_movies, data_tv)

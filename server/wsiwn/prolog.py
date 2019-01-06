@@ -62,9 +62,6 @@ def advance_search(
         return "Invalid category!"
 
     result: Iterable[Dict[str, Any]] = swipl.query(q)
-    # result = [
-    #     i["X"].decode(encoding="utf-8", errors="backslashreplace") for i in list(q)
-    # ]
 
     res = [
         dict(

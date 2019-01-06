@@ -41,11 +41,11 @@ def get_watchlist(pages: int = 5) -> Tuple[Set[str], Set[str]]:
 if __name__ == "__main__":
     movies, tv = get_watchlist(6)
 
-    with open(os.path.join(PROJECT_ROOT, "data/movies_list.txt"), "w") as fm:
+    with open(os.path.join(PROJECT_ROOT, "server/data/movies.txt"), "w") as fm:
         for m in movies:
             fm.write(f"{m}\n")
 
-    with open(os.path.join(PROJECT_ROOT, "data/tv_list.txt"), "w") as ft:
+    with open(os.path.join(PROJECT_ROOT, "server/data/tv.txt"), "w") as ft:
         for t in tv:
             ft.write(f"{t}\n")
 
