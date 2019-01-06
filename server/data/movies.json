@@ -6,7 +6,7 @@
     "Country": "USA",
     "DVD": "10 Jul 2018",
     "Director": "John Krasinski",
-    "Genre": "Drama, Horror, Sci-Fi",
+    "Genre": "Drama, Horror, Mystery, Sci-Fi, Thriller",
     "Language": "English, American Sign Language",
     "Metascore": "82",
     "Plot": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
@@ -16,7 +16,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.7/10"
+        "Value": "7.6/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -36,31 +36,31 @@
     "Writer": "Bryan Woods (screenplay by), Scott Beck (screenplay by), John Krasinski (screenplay by), Bryan Woods (story by), Scott Beck (story by)",
     "Year": "2018",
     "imdbID": "tt6644200",
-    "imdbRating": "7.7",
-    "imdbVotes": "213,655"
+    "imdbRating": "7.6",
+    "imdbVotes": "234,855"
   },
   "A Simple Favor": {
     "Actors": "Anna Kendrick, Ian Ho, Joshua Satine, Glenda Braganza",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "N/A",
+    "Country": "USA, Canada",
+    "DVD": "18 Dec 2018",
     "Director": "Paul Feig",
-    "Genre": "Comedy, Crime, Drama",
+    "Genre": "Comedy, Crime, Drama, Mystery, Thriller",
     "Language": "English",
     "Metascore": "67",
-    "Plot": "A woman seeks to uncover the truth behind the disappearance of her best friend.",
+    "Plot": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZjFiMGNiNmItMzNiNi00Mjc1LTg1N2YtNWE2NTE5N2VlZTQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "Production": "Lionsgate",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.2/10"
+        "Value": "7.1/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "84%"
+        "Value": "85%"
       },
       {
         "Source": "Metacritic",
@@ -76,15 +76,15 @@
     "Writer": "Jessica Sharzer (screenplay by), Darcey Bell (based upon the novel by)",
     "Year": "2018",
     "imdbID": "tt7040874",
-    "imdbRating": "7.2",
-    "imdbVotes": "16,475"
+    "imdbRating": "7.1",
+    "imdbVotes": "26,934"
   },
   "A Star Is Born": {
     "Actors": "Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay",
     "Awards": "1 nomination.",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "19 Feb 2019",
     "Director": "Bradley Cooper",
     "Genre": "Drama, Music, Romance",
     "Language": "English",
@@ -96,11 +96,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.4/10"
+        "Value": "8.1/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "94%"
+        "Value": "90%"
       },
       {
         "Source": "Metacritic",
@@ -116,47 +116,55 @@
     "Writer": "Eric Roth (screenplay by), Bradley Cooper (screenplay by), Will Fetters (screenplay by), Moss Hart (based on the 1954 screenplay by), John Gregory Dunne (based on the 1976 screenplay by), Joan Didion (based on the 1976 screenplay by), Frank Pierson (based on the 1976 screenplay by), William A. Wellman (based on a story by), Robert Carson (based on a story by)",
     "Year": "2018",
     "imdbID": "tt1517451",
-    "imdbRating": "8.4",
-    "imdbVotes": "50,058"
+    "imdbRating": "8.1",
+    "imdbVotes": "118,052"
   },
-  "Aan Devathai": {
-    "Actors": "Ilavarasu, Kasthuri, Kavin, Arandhangi Nisha",
+  "A-X-L": {
+    "Actors": "Alex Neustaedter, Becky G, Alex MacNicoll, Dominic Rains",
     "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "India",
+    "BoxOffice": "$2,147",
+    "Country": "USA",
     "DVD": "N/A",
-    "Director": "Thamira",
-    "Genre": "Action, Drama",
-    "Language": "Tamil",
-    "Metascore": "N/A",
-    "Plot": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWI1M2EyYzktYjNiNy00NWM3LTgzODctMmU3MTdlNzNkZjdjXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SX300.jpg",
-    "Production": "N/A",
-    "Rated": "N/A",
+    "Director": "Oliver Daly",
+    "Genre": "Action, Adventure, Family, Sci-Fi",
+    "Language": "English",
+    "Metascore": "29",
+    "Plot": "A.X.L. is a top-secret, robotic dog who develops a special friendship with Miles and will go to any length to protect his new companion.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Production": "Cranium Entertainment",
+    "Rated": "PG",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.7/10"
+        "Value": "5.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "67%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
       }
     ],
-    "Released": "12 Oct 2018",
+    "Released": "24 Aug 2018",
     "Response": "True",
-    "Runtime": "134 min",
-    "Title": "Aan Devathai",
+    "Runtime": "98 min",
+    "Title": "A-X-L",
     "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Thamira",
+    "Website": "http://milesthemovie.com/",
+    "Writer": "Oliver Daly",
     "Year": "2018",
-    "imdbID": "tt7019912",
-    "imdbRating": "7.7",
-    "imdbVotes": "7"
+    "imdbID": "tt5709188",
+    "imdbRating": "5.1",
+    "imdbVotes": "3,621"
   },
   "Alpha": {
     "Actors": "Kodi Smit-McPhee, J\u00f3hannes Haukur J\u00f3hannesson, Marcin Kowalczyk, Jens Hult\u00e9n",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "13 Nov 2018",
     "Director": "Albert Hughes",
     "Genre": "Adventure, Drama, Family",
     "Language": "English",
@@ -168,11 +176,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.0/10"
+        "Value": "6.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "81%"
+        "Value": "79%"
       },
       {
         "Source": "Metacritic",
@@ -188,18 +196,18 @@
     "Writer": "Daniele Sebastian Wiedenhaupt (screenplay by), Albert Hughes (story by)",
     "Year": "2018",
     "imdbID": "tt4244998",
-    "imdbRating": "7.0",
-    "imdbVotes": "10,427"
+    "imdbRating": "6.7",
+    "imdbVotes": "30,899"
   },
   "Ant-Man and the Wasp": {
     "Actors": "Paul Rudd, Evangeline Lilly, Michael Pe\u00f1a, Walton Goggins",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "02 Oct 2018",
+    "DVD": "16 Oct 2018",
     "Director": "Peyton Reed",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Language": "English",
+    "Genre": "Action, Adventure, Comedy, Sci-Fi",
+    "Language": "English, Spanish",
     "Metascore": "70",
     "Plot": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
@@ -208,7 +216,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.3/10"
+        "Value": "7.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -228,48 +236,88 @@
     "Writer": "Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, Stan Lee (based on the Marvel Comics by), Larry Lieber (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)",
     "Year": "2018",
     "imdbID": "tt5095030",
-    "imdbRating": "7.3",
-    "imdbVotes": "105,062"
+    "imdbRating": "7.2",
+    "imdbVotes": "177,330"
   },
-  "Apostle": {
-    "Actors": "Dan Stevens, Richard Elfyn, Paul Higgins, Bill Milner",
+  "Aquaman": {
+    "Actors": "Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "UK, USA",
-    "DVD": "12 Oct 2018",
-    "Director": "Gareth Evans",
-    "Genre": "Fantasy, Horror, Mystery, Thriller",
+    "Country": "Australia, USA",
+    "DVD": "N/A",
+    "Director": "James Wan",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
     "Language": "English",
-    "Metascore": "62",
-    "Plot": "In 1905, a drifter on a dangerous mission to rescue his kidnapped sister tangles with a sinister religious cult on an isolated island.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NDk0NjI4MV5BMl5BanBnXkFtZTgwNjUyNzMwNjM@._V1_SX300.jpg",
-    "Production": "N/A",
+    "Metascore": "53",
+    "Plot": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
+    "Production": "Warner Bros. Pictures",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.5/10"
+        "Value": "7.9/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "76%"
+        "Value": "70%"
       },
       {
         "Source": "Metacritic",
-        "Value": "62/100"
+        "Value": "53/100"
       }
     ],
-    "Released": "12 Oct 2018",
+    "Released": "21 Dec 2018",
     "Response": "True",
-    "Runtime": "130 min",
-    "Title": "Apostle",
+    "Runtime": "143 min",
+    "Title": "Aquaman",
     "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Gareth Evans",
+    "Website": "http://www.aquamanmovie.com/",
+    "Writer": "David Leslie Johnson-McGoldrick (screenplay by), Will Beall (screenplay by), Geoff Johns (story by), James Wan (story by), Will Beall (story by), Mort Weisinger (Aquaman created by), Paul Norris (Aquaman created by)",
     "Year": "2018",
-    "imdbID": "tt6217306",
-    "imdbRating": "6.5",
-    "imdbVotes": "8,483"
+    "imdbID": "tt1477834",
+    "imdbRating": "7.9",
+    "imdbVotes": "24,893"
+  },
+  "Assassination Nation": {
+    "Actors": "Odessa Young, Hari Nef, Suki Waterhouse, Abra",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "18 Dec 2018",
+    "Director": "Sam Levinson",
+    "Genre": "Comedy, Crime, Drama, Thriller",
+    "Language": "English",
+    "Metascore": "56",
+    "Plot": "After a malicious data hack exposes the secrets of the perpetually American town of Salem, chaos decends and four girls must fight to survive, while coping with the hack themselves.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NTIwNDc3Ml5BMl5BanBnXkFtZTgwOTExNDM5NTM@._V1_SX300.jpg",
+    "Production": "NEON",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Released": "21 Sep 2018",
+    "Response": "True",
+    "Runtime": "108 min",
+    "Title": "Assassination Nation",
+    "Type": "movie",
+    "Website": "http://www.assassinationnationmovie.com",
+    "Writer": "Sam Levinson",
+    "Year": "2018",
+    "imdbID": "tt6205872",
+    "imdbRating": "6.1",
+    "imdbVotes": "2,634"
   },
   "Avengers: Age of Ultron": {
     "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
@@ -309,7 +357,7 @@
     "Year": "2015",
     "imdbID": "tt2395427",
     "imdbRating": "7.4",
-    "imdbVotes": "608,504"
+    "imdbVotes": "619,549"
   },
   "Avengers: Infinity War": {
     "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
@@ -328,7 +376,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.6/10"
+        "Value": "8.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -348,40 +396,88 @@
     "Writer": "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
     "Year": "2018",
     "imdbID": "tt4154756",
-    "imdbRating": "8.6",
-    "imdbVotes": "505,383"
+    "imdbRating": "8.5",
+    "imdbVotes": "550,743"
   },
   "Bad Times at the El Royale": {
-    "Actors": "Chris Hemsworth, Dakota Johnson, Jon Hamm, Nick Offerman",
+    "Actors": "Jeff Bridges, Cynthia Erivo, Dakota Johnson, Jon Hamm",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "18 Dec 2018",
     "Director": "Drew Goddard",
-    "Genre": "Mystery, Thriller",
+    "Genre": "Crime, Drama, Mystery, Thriller",
     "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "Seven strangers, each with a secret to bury, meet at Lake Tahoe's El Royale, a rundown hotel with a dark past. Over the course of one fateful night, everyone will have a last shot at redemption - before everything goes to hell.",
+    "Metascore": "60",
+    "Plot": "Circa 1969, several strangers, most with a secret to bury, meet by chance at Lake Tahoe's El Royale, a rundown hotel with a dark past. Over the course of one night, everyone will show their true colors - before everything goes to hell.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_SX300.jpg",
     "Production": "20th Century Fox",
     "Rated": "N/A",
     "Ratings": [
       {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
         "Source": "Rotten Tomatoes",
-        "Value": "77%"
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
       }
     ],
-    "Released": "05 Oct 2018",
+    "Released": "12 Oct 2018",
     "Response": "True",
-    "Runtime": "N/A",
+    "Runtime": "141 min",
     "Title": "Bad Times at the El Royale",
     "Type": "movie",
     "Website": "http://www.ElRoyaleMovie.com",
     "Writer": "Drew Goddard",
     "Year": "2018",
     "imdbID": "tt6628394",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A"
+    "imdbRating": "7.3",
+    "imdbVotes": "33,865"
+  },
+  "Bird Box": {
+    "Actors": "Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "21 Dec 2018",
+    "Director": "Susanne Bier",
+    "Genre": "Drama, Horror, Sci-Fi, Thriller",
+    "Language": "English",
+    "Metascore": "53",
+    "Plot": "A woman and a pair of children are blindfolded and make their way through a dystopian setting.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "65%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Released": "21 Dec 2018",
+    "Response": "True",
+    "Runtime": "124 min",
+    "Title": "Bird Box",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Eric Heisserer (screenplay), Josh Malerman (novel)",
+    "Year": "2018",
+    "imdbID": "tt2737304",
+    "imdbRating": "6.4",
+    "imdbVotes": "773"
   },
   "BlacKkKlansman": {
     "Actors": "Alec Baldwin, John David Washington, Isiah Whitlock Jr., Robert John Burke",
@@ -390,7 +486,7 @@
     "Country": "USA",
     "DVD": "N/A",
     "Director": "Spike Lee",
-    "Genre": "Biography, Comedy, Crime, Drama",
+    "Genre": "Biography, Crime, Drama",
     "Language": "English",
     "Metascore": "83",
     "Plot": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events.",
@@ -400,7 +496,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.8/10"
+        "Value": "7.6/10"
       },
       {
         "Source": "Metacritic",
@@ -416,8 +512,75 @@
     "Writer": "Charlie Wachtel, David Rabinowitz, Kevin Willmott, Spike Lee, Ron Stallworth (based on the book by)",
     "Year": "2018",
     "imdbID": "tt7349662",
-    "imdbRating": "7.8",
-    "imdbVotes": "36,959"
+    "imdbRating": "7.6",
+    "imdbVotes": "70,541"
+  },
+  "Black '47": {
+    "Actors": "Hugo Weaving, James Frecheville, Stephen Rea, Freddie Fox",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Ireland, Luxembourg",
+    "DVD": "05 Feb 2019",
+    "Director": "Lance Daly",
+    "Genre": "Action, Drama",
+    "Language": "English, Irish",
+    "Metascore": "65",
+    "Plot": "Set in Ireland during the Great Famine, the drama follows an Irish Ranger who has been fighting for the British Army abroad, as he abandons his post to reunite with his family. Despite ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzAwOGYtMjFkMC00YTQwLTllNWEtYmU5NzM2NWExNzI4XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Production": "IFC Films",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Released": "28 Sep 2018",
+    "Response": "True",
+    "Runtime": "100 min",
+    "Title": "Black '47",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Lance Daly, P.J. Dillon (story by), P.J. Dillon, Eugene O'Brien (additional material), Pierce Ryan (story by), Pierce Ryan",
+    "Year": "2018",
+    "imdbID": "tt3208026",
+    "imdbRating": "6.9",
+    "imdbVotes": "4,856"
+  },
+  "Black Mirror: Bandersnatch": {
+    "Actors": "Asim Chaudhry, Alice Lowe, Will Poulter, Fionn Whitehead",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "28 Dec 2018",
+    "Director": "David Slade",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A young programmer makes a fantasy novel into a game. Soon, reality and virtual world are mixed and start to create confusion.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc3NjY2NDA5OV5BMl5BanBnXkFtZTgwNTI0MDQwNzM@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "N/A",
+    "Ratings": [],
+    "Released": "28 Dec 2018",
+    "Response": "True",
+    "Runtime": "90 min",
+    "Title": "Black Mirror: Bandersnatch",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "N/A",
+    "Year": "2018",
+    "imdbID": "tt9495224",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A"
   },
   "Black Panther": {
     "Actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",
@@ -457,7 +620,123 @@
     "Year": "2018",
     "imdbID": "tt1825683",
     "imdbRating": "7.4",
-    "imdbVotes": "401,608"
+    "imdbVotes": "430,289"
+  },
+  "Blade Runner 2049": {
+    "Actors": "Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+    "Awards": "Won 2 Oscars. Another 81 wins & 131 nominations.",
+    "BoxOffice": "$91,800,042",
+    "Country": "USA, UK, Hungary, Canada",
+    "DVD": "16 Jan 2018",
+    "Director": "Denis Villeneuve",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Language": "English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",
+    "Metascore": "81",
+    "Plot": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+    "Production": "Warner Bros. Pictures",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Released": "06 Oct 2017",
+    "Response": "True",
+    "Runtime": "164 min",
+    "Title": "Blade Runner 2049",
+    "Type": "movie",
+    "Website": "http://bladerunnermovie.com",
+    "Writer": "Hampton Fancher (screenplay by), Michael Green (screenplay by), Hampton Fancher (story by), Philip K. Dick (based on characters from the novel \"Do Androids Dream of Electric Sheep?\" by)",
+    "Year": "2017",
+    "imdbID": "tt1856101",
+    "imdbRating": "8.0",
+    "imdbVotes": "347,986"
+  },
+  "Bohemian Rhapsody": {
+    "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "UK, USA",
+    "DVD": "N/A",
+    "Director": "Bryan Singer",
+    "Genre": "Biography, Drama, Music",
+    "Language": "English",
+    "Metascore": "48",
+    "Plot": "The story of the legendary rock music band Queen and its lead singer Freddie Mercury.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg2NjIxMDUyNF5BMl5BanBnXkFtZTgwMzEzNTE1NTM@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Released": "02 Nov 2018",
+    "Response": "True",
+    "Runtime": "134 min",
+    "Title": "Bohemian Rhapsody",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Anthony McCarten (story by), Peter Morgan (story by), Anthony McCarten (screenplay by)",
+    "Year": "2018",
+    "imdbID": "tt1727824",
+    "imdbRating": "8.3",
+    "imdbVotes": "161,058"
+  },
+  "Bumblebee": {
+    "Actors": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena, Jason Drucker",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "N/A",
+    "Director": "Travis Knight",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Language": "English",
+    "Metascore": "66",
+    "Plot": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3NzE5OTE1Nl5BMl5BanBnXkFtZTgwNzQwNjM3NjM@._V1_SX300.jpg",
+    "Production": "Paramount Pictures",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Released": "21 Dec 2018",
+    "Response": "True",
+    "Runtime": "114 min",
+    "Title": "Bumblebee",
+    "Type": "movie",
+    "Website": "http://www.BumblebeeMovie.com",
+    "Writer": "Christina Hodson, Christina Hodson (story by)",
+    "Year": "2018",
+    "imdbID": "tt4701182",
+    "imdbRating": "7.3",
+    "imdbVotes": "12,974"
   },
   "Captain America: Civil War": {
     "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",
@@ -497,87 +776,79 @@
     "Year": "2016",
     "imdbID": "tt3498820",
     "imdbRating": "7.8",
-    "imdbVotes": "526,979"
+    "imdbVotes": "538,908"
   },
-  "Coco": {
-    "Actors": "Anthony Gonzalez, Gael Garc\u00eda Bernal, Benjamin Bratt, Alanna Ubach",
-    "Awards": "Won 2 Oscars. Another 86 wins & 28 nominations.",
-    "BoxOffice": "&pound;208,487,719",
-    "Country": "USA",
-    "DVD": "27 Feb 2018",
-    "Director": "Lee Unkrich, Adrian Molina(co-director)",
-    "Genre": "Animation, Adventure, Comedy",
-    "Language": "English, Spanish",
-    "Metascore": "81",
-    "Plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
-    "Production": "Disney/Pixar",
-    "Rated": "PG",
+  "Crayon Shin-chan: Burst Serving! Kung Fu Boys - Ramen Rebellion": {
+    "Actors": "Akiko Yajima",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Japan",
+    "DVD": "N/A",
+    "Director": "Wataru Takahashi",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",
+    "Language": "Japanese",
+    "Metascore": "N/A",
+    "Plot": "Shin-chan and the Kasukabe Defense Group are planning to perform an absolutely no-stunt Kung Fu challenge on the stage in Aiya Town, also known as the Chinatown of Kasukabe city.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEwMTVkYmMtY2E0Ny00MWY1LTgwN2YtZmE2OGExYmQyYWQyXkEyXkFqcGdeQXVyODMxNzcyNDI@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.4/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "97%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "81/100"
+        "Value": "6.8/10"
       }
     ],
-    "Released": "22 Nov 2017",
+    "Released": "13 Apr 2018",
     "Response": "True",
-    "Runtime": "105 min",
-    "Title": "Coco",
+    "Runtime": "104 min",
+    "Title": "Crayon Shin-chan: Burst Serving! Kung Fu Boys - Ramen Rebellion",
     "Type": "movie",
     "Website": "N/A",
-    "Writer": "Lee Unkrich (original story by), Jason Katz (original story by), Matthew Aldrich (original story by), Adrian Molina (original story by), Adrian Molina (screenplay by), Matthew Aldrich (screenplay by)",
-    "Year": "2017",
-    "imdbID": "tt2380307",
-    "imdbRating": "8.4",
-    "imdbVotes": "221,294"
+    "Writer": "Kimiko Ueno",
+    "Year": "2018",
+    "imdbID": "tt7994070",
+    "imdbRating": "6.8",
+    "imdbVotes": "56"
   },
-  "Crazy Rich Asians": {
-    "Actors": "Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan",
+  "Creed II": {
+    "Actors": "Michael B. Jordan, Sylvester Stallone, Tessa Thompson, Phylicia Rashad",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
     "DVD": "N/A",
-    "Director": "Jon M. Chu",
-    "Genre": "Comedy, Romance",
-    "Language": "English, Mandarin, Cantonese, Hokkien, Tamil, French",
-    "Metascore": "74",
-    "Plot": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "PG-13",
+    "Director": "Steven Caple Jr.",
+    "Genre": "Drama, Sport",
+    "Language": "English, Russian",
+    "Metascore": "67",
+    "Plot": "Under the tutelage of Rocky Balboa, heavyweight contender Adonis Creed faces off against Viktor Drago, son of Ivan Drago.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMjUwNjQ5N15BMl5BanBnXkFtZTgwNjk4MzI4NjM@._V1_SX300.jpg",
+    "Production": "MGM",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.5/10"
+        "Value": "7.8/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "93%"
+        "Value": "83%"
       },
       {
         "Source": "Metacritic",
-        "Value": "74/100"
+        "Value": "67/100"
       }
     ],
-    "Released": "15 Aug 2018",
+    "Released": "21 Nov 2018",
     "Response": "True",
-    "Runtime": "120 min",
-    "Title": "Crazy Rich Asians",
+    "Runtime": "130 min",
+    "Title": "Creed II",
     "Type": "movie",
-    "Website": "http://www.crazyrichasiansmovie.com/",
-    "Writer": "Peter Chiarelli (screenplay by), Adele Lim (screenplay by), Kevin Kwan (based on the novel \"Crazy Rich Asians\" by)",
+    "Website": "http://www.creedthemovie.com/",
+    "Writer": "Cheo Hodari Coker (story by), Ryan Coogler (characters), Sascha Penn (story by), Sylvester Stallone (screenplay by), Juel Taylor (screenplay by), Juel Taylor",
     "Year": "2018",
-    "imdbID": "tt3104988",
-    "imdbRating": "7.5",
-    "imdbVotes": "28,726"
+    "imdbID": "tt6343314",
+    "imdbRating": "7.8",
+    "imdbVotes": "19,886"
   },
   "Deadpool 2": {
     "Actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",
@@ -586,8 +857,8 @@
     "Country": "USA",
     "DVD": "21 Aug 2018",
     "Director": "David Leitch",
-    "Genre": "Action, Adventure, Comedy",
-    "Language": "English",
+    "Genre": "Action, Adventure, Comedy, Sci-Fi",
+    "Language": "English, Cantonese, Spanish, Russian",
     "Metascore": "66",
     "Plot": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_SX300.jpg",
@@ -596,11 +867,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.9/10"
+        "Value": "7.8/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "82%"
+        "Value": "83%"
       },
       {
         "Source": "Metacritic",
@@ -616,116 +887,40 @@
     "Writer": "Rhett Reese, Paul Wernick, Ryan Reynolds",
     "Year": "2018",
     "imdbID": "tt5463162",
-    "imdbRating": "7.9",
-    "imdbVotes": "274,266"
+    "imdbRating": "7.8",
+    "imdbVotes": "311,435"
   },
-  "Detective Conan: Zero the Enforcer": {
-    "Actors": "T\u00f4ru Furuya, Megumi Hayashibara, Rikiya Koyama, Ken'ichi Ogata",
+  "Dragon Ball Super: Broly": {
+    "Actors": "Sean Schemmel, Christopher Sabat, Vic Mignogna, Chris Ayres",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "Japan",
     "DVD": "N/A",
-    "Director": "Yuzuru Tachikawa",
-    "Genre": "Animation, Action, Adventure",
+    "Director": "Tatsuya Nagamine",
+    "Genre": "Animation, Action, Fantasy",
     "Language": "Japanese",
     "Metascore": "N/A",
-    "Plot": "Detective Conan investigates an explosion that occurs on the opening day of a large Tokyo resort and convention center.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzMDA3MDYtNTNlMS00YTc3LTlkYmItYjViMjZjY2U1YzNmXkEyXkFqcGdeQXVyMjY2OTU0MTg@._V1_SX300.jpg",
+    "Plot": "Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they've faced before.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0YzM2NzMtOGM1OC00MzlkLWI1NDEtYTI2MGZkZGJlYWQ0XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX300.jpg",
     "Production": "N/A",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.4/10"
+        "Value": "9.2/10"
       }
     ],
-    "Released": "13 Apr 2018",
+    "Released": "16 Jan 2019",
     "Response": "True",
-    "Runtime": "115 min",
-    "Title": "Detective Conan: Zero the Enforcer",
+    "Runtime": "100 min",
+    "Title": "Dragon Ball Super: Broly",
     "Type": "movie",
     "Website": "N/A",
-    "Writer": "Gosho Aoyama (creator)",
+    "Writer": "Akira Toriyama (character creator), Akira Toriyama (screenplay)",
     "Year": "2018",
-    "imdbID": "tt7880466",
-    "imdbRating": "6.4",
-    "imdbVotes": "267"
-  },
-  "Eighth Grade": {
-    "Actors": "Elsie Fisher, Josh Hamilton, Emily Robinson, Jake Ryan",
-    "Awards": "1 nomination.",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "25 Sep 2018",
-    "Director": "Bo Burnham",
-    "Genre": "Comedy, Drama",
-    "Language": "English",
-    "Metascore": "89",
-    "Plot": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzVlYzgxYjAtYzhhZi00MDc1LTlkZDMtMTRhZWI0MTg5YTRjXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SX300.jpg",
-    "Production": "A24",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "99%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "89/100"
-      }
-    ],
-    "Released": "03 Aug 2018",
-    "Response": "True",
-    "Runtime": "93 min",
-    "Title": "Eighth Grade",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Bo Burnham",
-    "Year": "2018",
-    "imdbID": "tt7014006",
-    "imdbRating": "7.7",
-    "imdbVotes": "15,896"
-  },
-  "Escape Plan 2: Hades": {
-    "Actors": "Sylvester Stallone, Dave Bautista, Xiaoming Huang, Jesse Metcalfe",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "China, USA",
-    "DVD": "29 Jun 2018",
-    "Director": "Steven C. Miller",
-    "Genre": "Action, Thriller",
-    "Language": "English, Arabic",
-    "Metascore": "N/A",
-    "Plot": "Years after he fought his way out of an inescapable prison, Ray Breslin has organized a new top-notch security force. But when one of his team members goes missing, Breslin must return to the hell he once escaped from.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjA0MjUyMF5BMl5BanBnXkFtZTgwMTEzNDQ1NTM@._V1_SX300.jpg",
-    "Production": "Summit Entertainment",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "3.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "10%"
-      }
-    ],
-    "Released": "29 Jun 2018",
-    "Response": "True",
-    "Runtime": "96 min",
-    "Title": "Escape Plan 2: Hades",
-    "Type": "movie",
-    "Website": "https://www.escapeplan2.movie/",
-    "Writer": "Miles Chapman, Miles Chapman (based on characters created by)",
-    "Year": "2018",
-    "imdbID": "tt6513656",
-    "imdbRating": "3.8",
-    "imdbVotes": "13,887"
+    "imdbID": "tt7961060",
+    "imdbRating": "9.2",
+    "imdbVotes": "2,425"
   },
   "Fantastic Beasts and Where to Find Them": {
     "Actors": "Eddie Redmayne, Sam Redford, Scott Goldman, Tim Bentinck",
@@ -744,7 +939,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "7.3/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -764,94 +959,54 @@
     "Writer": "J.K. Rowling",
     "Year": "2016",
     "imdbID": "tt3183660",
-    "imdbRating": "7.4",
-    "imdbVotes": "317,343"
+    "imdbRating": "7.3",
+    "imdbVotes": "344,744"
   },
-  "Fifty Shades Freed": {
-    "Actors": "Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford",
+  "Fantastic Beasts: The Crimes of Grindelwald": {
+    "Actors": "Johnny Depp, Kevin Guthrie, Carmen Ejogo, Wolf Roth",
     "Awards": "N/A",
-    "BoxOffice": "$95,599,460",
-    "Country": "USA",
-    "DVD": "08 May 2018",
-    "Director": "James Foley",
-    "Genre": "Drama, Romance, Thriller",
-    "Language": "English",
-    "Metascore": "31",
-    "Plot": "Anastasia and Christian get married, but Jack Hyde continues to threaten their relationship.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SX300.jpg",
-    "Production": "Universal Pictures",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "4.4/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "12%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "31/100"
-      }
-    ],
-    "Released": "09 Feb 2018",
-    "Response": "True",
-    "Runtime": "105 min",
-    "Title": "Fifty Shades Freed",
-    "Type": "movie",
-    "Website": "http://www.fiftyshadesmovie.com/",
-    "Writer": "Niall Leonard (screenplay by), E.L. James (based on the novel by)",
-    "Year": "2018",
-    "imdbID": "tt4477536",
-    "imdbRating": "4.4",
-    "imdbVotes": "34,923"
-  },
-  "Fight Club": {
-    "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
-    "Awards": "Nominated for 1 Oscar. Another 10 wins & 34 nominations.",
     "BoxOffice": "N/A",
-    "Country": "USA, Germany",
-    "DVD": "06 Jun 2000",
-    "Director": "David Fincher",
-    "Genre": "Drama",
-    "Language": "English",
-    "Metascore": "66",
-    "Plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "Production": "20th Century Fox",
-    "Rated": "R",
+    "Country": "UK, USA",
+    "DVD": "N/A",
+    "Director": "David Yates",
+    "Genre": "Adventure, Family, Fantasy",
+    "Language": "French, English",
+    "Metascore": "53",
+    "Plot": "The second installment of the \"Fantastic Beasts\" series featuring the adventures of Magizoologist Newt Scamander.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjFiMGUzMTAtNDAwMC00ZjRhLTk0OTUtMmJiMzM5ZmVjODQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Production": "Warner Bros. Pictures",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.8/10"
+        "Value": "6.9/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "79%"
+        "Value": "38%"
       },
       {
         "Source": "Metacritic",
-        "Value": "66/100"
+        "Value": "53/100"
       }
     ],
-    "Released": "15 Oct 1999",
+    "Released": "16 Nov 2018",
     "Response": "True",
-    "Runtime": "139 min",
-    "Title": "Fight Club",
+    "Runtime": "134 min",
+    "Title": "Fantastic Beasts: The Crimes of Grindelwald",
     "Type": "movie",
-    "Website": "http://www.foxmovies.com/fightclub/",
-    "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
-    "Year": "1999",
-    "imdbID": "tt0137523",
-    "imdbRating": "8.8",
-    "imdbVotes": "1,605,005"
+    "Website": "https://www.facebook.com/fantasticbeastsmovie/",
+    "Writer": "J.K. Rowling, J.K. Rowling (based upon characters created by)",
+    "Year": "2018",
+    "imdbID": "tt4123430",
+    "imdbRating": "6.9",
+    "imdbVotes": "85,401"
   },
   "First Man": {
     "Actors": "Ryan Gosling, Claire Foy, Jason Clarke, Kyle Chandler",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
+    "Country": "USA, Japan",
     "DVD": "N/A",
     "Director": "Damien Chazelle",
     "Genre": "Biography, Drama, History",
@@ -864,7 +1019,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.7/10"
+        "Value": "7.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -884,8 +1039,8 @@
     "Writer": "Josh Singer (screenplay by), James R. Hansen (based on the book by)",
     "Year": "2018",
     "imdbID": "tt1213641",
-    "imdbRating": "7.7",
-    "imdbVotes": "23,428"
+    "imdbRating": "7.5",
+    "imdbVotes": "66,076"
   },
   "Gone Girl": {
     "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",
@@ -894,11 +1049,11 @@
     "Country": "USA",
     "DVD": "13 Jan 2015",
     "Director": "David Fincher",
-    "Genre": "Crime, Drama, Mystery",
+    "Genre": "Crime, Drama, Mystery, Thriller",
     "Language": "English",
     "Metascore": "79",
     "Plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjgwY2E1N2QtNDJkMi00YzE4LThiYTItYWI5YmE4NWMzMGFhXkEyXkFqcGdeQXVyMjU3OTA4NzQ@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
     "Production": "20th Century Fox",
     "Rated": "R",
     "Ratings": [
@@ -925,39 +1080,47 @@
     "Year": "2014",
     "imdbID": "tt2267998",
     "imdbRating": "8.1",
-    "imdbVotes": "721,543"
+    "imdbVotes": "730,152"
   },
   "Goosebumps 2: Haunted Halloween": {
-    "Actors": "Jack Black, Wendi McLendon-Covey, Madison Iseman, Ken Jeong",
+    "Actors": "Wendi McLendon-Covey, Madison Iseman, Jeremy Ray Taylor, Caleel Harris",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "Australia, USA",
-    "DVD": "N/A",
+    "Country": "USA, UK",
+    "DVD": "25 Dec 2018",
     "Director": "Ari Sandel",
-    "Genre": "Adventure, Comedy, Family",
+    "Genre": "Adventure, Comedy, Family, Fantasy, Horror",
     "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "Halloween comes to life in a comedy adventure based on R.L. Stine's 400-million-selling series of books.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzNTM5MDA2MV5BMl5BanBnXkFtZTgwMTA0Mzk4NTM@._V1_SX300.jpg",
+    "Metascore": "53",
+    "Plot": "Two young friends find a magic book that brings a ventriloquist's dummy to life.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzgxMDQ2MDUyMF5BMl5BanBnXkFtZTgwNzgyMjQyNjM@._V1_SX300.jpg",
     "Production": "Columbia Pictures",
     "Rated": "N/A",
     "Ratings": [
       {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
         "Source": "Rotten Tomatoes",
-        "Value": "44%"
+        "Value": "47%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
       }
     ],
     "Released": "12 Oct 2018",
     "Response": "True",
-    "Runtime": "N/A",
+    "Runtime": "90 min",
     "Title": "Goosebumps 2: Haunted Halloween",
     "Type": "movie",
     "Website": "http://www.goosebumps.movie/",
-    "Writer": "Rob Lieber (screenplay by), Rob Lieber (story by), Darren Lemke (story by), R.L. Stine (based on the \"Goosebumps\" books written by)",
+    "Writer": "Rob Lieber (screenplay by), Rob Lieber (story by), Darren Lemke (story by), R.L. Stine (based on the Scholastic Goosebumps Books written by)",
     "Year": "2018",
     "imdbID": "tt5664636",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A"
+    "imdbRating": "5.7",
+    "imdbVotes": "6,034"
   },
   "Guardians of the Galaxy": {
     "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",
@@ -997,7 +1160,7 @@
     "Year": "2014",
     "imdbID": "tt2015381",
     "imdbRating": "8.1",
-    "imdbVotes": "879,528"
+    "imdbVotes": "895,861"
   },
   "Guardians of the Galaxy Vol. 2": {
     "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",
@@ -1037,7 +1200,7 @@
     "Year": "2017",
     "imdbID": "tt3896198",
     "imdbRating": "7.7",
-    "imdbVotes": "416,247"
+    "imdbVotes": "431,166"
   },
   "Halloween": {
     "Actors": "Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles",
@@ -1048,8 +1211,8 @@
     "Director": "John Carpenter",
     "Genre": "Horror, Thriller",
     "Language": "English",
-    "Metascore": "78",
-    "Plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.",
+    "Metascore": "81",
+    "Plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "Production": "Compass International Pictures",
     "Rated": "R",
@@ -1060,11 +1223,11 @@
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "93%"
+        "Value": "95%"
       },
       {
         "Source": "Metacritic",
-        "Value": "78/100"
+        "Value": "81/100"
       }
     ],
     "Released": "27 Oct 1978",
@@ -1077,47 +1240,47 @@
     "Year": "1978",
     "imdbID": "tt0077651",
     "imdbRating": "7.8",
-    "imdbVotes": "185,331"
+    "imdbVotes": "199,623"
   },
-  "Harry Potter and the Order of the Phoenix": {
-    "Actors": "Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin",
-    "Awards": "Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.",
-    "BoxOffice": "$291,980,108",
-    "Country": "UK, USA",
-    "DVD": "11 Nov 2007",
-    "Director": "David Yates",
-    "Genre": "Adventure, Family, Fantasy, Mystery",
+  "Hell Fest": {
+    "Actors": "Amy Forsyth, Reign Edwards, Bex Taylor-Klaus, Christian James",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "08 Jan 2019",
+    "Director": "Gregory Plotkin",
+    "Genre": "Horror",
     "Language": "English",
-    "Metascore": "71",
-    "Plot": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "PG-13",
+    "Metascore": "26",
+    "Plot": "A masked serial killer turns a horror-themed amusement park into his own personal playground, terrorizing a group of friends while the rest of the patrons believe that it is all part of the show.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2MTNjOGUtZDk3OS00OGJkLWIyZWYtZGQxMmI5MTRkNzcxXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX300.jpg",
+    "Production": "Tucker Tooley Entertainment",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.5/10"
+        "Value": "5.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "78%"
+        "Value": "40%"
       },
       {
         "Source": "Metacritic",
-        "Value": "71/100"
+        "Value": "26/100"
       }
     ],
-    "Released": "11 Jul 2007",
+    "Released": "28 Sep 2018",
     "Response": "True",
-    "Runtime": "138 min",
-    "Title": "Harry Potter and the Order of the Phoenix",
+    "Runtime": "89 min",
+    "Title": "Hell Fest",
     "Type": "movie",
-    "Website": "http://www.harrypotterorderofthephoenix.com/",
-    "Writer": "Michael Goldenberg (screenplay), J.K. Rowling (novel)",
-    "Year": "2007",
-    "imdbID": "tt0373889",
-    "imdbRating": "7.5",
-    "imdbVotes": "428,362"
+    "Website": "N/A",
+    "Writer": "Seth M. Sherwood (screenplay by), Blair Butler (screenplay by), William Penick (story by), Christopher Sey (story by), Akela Cooper (screenplay by)",
+    "Year": "2018",
+    "imdbID": "tt1999890",
+    "imdbRating": "5.7",
+    "imdbVotes": "3,305"
   },
   "Hereditary": {
     "Actors": "Alex Wolff, Gabriel Byrne, Toni Collette, Milly Shapiro",
@@ -1126,7 +1289,7 @@
     "Country": "USA",
     "DVD": "04 Sep 2018",
     "Director": "Ari Aster",
-    "Genre": "Drama, Horror, Mystery",
+    "Genre": "Drama, Horror, Mystery, Thriller",
     "Language": "English",
     "Metascore": "87",
     "Plot": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.",
@@ -1157,98 +1320,18 @@
     "Year": "2018",
     "imdbID": "tt7784604",
     "imdbRating": "7.3",
-    "imdbVotes": "87,468"
-  },
-  "Hotel Artemis": {
-    "Actors": "Jodie Foster, Sterling K. Brown, Sofia Boutella, Jeff Goldblum",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "UK, USA",
-    "DVD": "09 Oct 2018",
-    "Director": "Drew Pearce",
-    "Genre": "Action, Crime, Sci-Fi, Thriller",
-    "Language": "English, French",
-    "Metascore": "58",
-    "Plot": "Set in riot-torn, near-future Los Angeles, 'Hotel Artemis' follows the Nurse, who runs a secret, members-only emergency room for criminals.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDhhNWE3NmQtY2Y1OC00MzQ4LWJhNjktZWEzNjEzMTE3YWIyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
-    "Production": "Global Road Entertainment",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.1/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "58%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "58/100"
-      }
-    ],
-    "Released": "08 Jun 2018",
-    "Response": "True",
-    "Runtime": "94 min",
-    "Title": "Hotel Artemis",
-    "Type": "movie",
-    "Website": "http://hotelartemismovie.com/",
-    "Writer": "Drew Pearce",
-    "Year": "2018",
-    "imdbID": "tt5834262",
-    "imdbRating": "6.1",
-    "imdbVotes": "13,963"
-  },
-  "Hotel Transylvania 3: Summer Vacation": {
-    "Actors": "Adam Sandler, Andy Samberg, Selena Gomez, Kevin James",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "25 Sep 2018",
-    "Director": "Genndy Tartakovsky",
-    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
-    "Language": "English",
-    "Metascore": "54",
-    "Plot": "Count Dracula and company participate in a cruise for sea-loving monsters, unaware that their boat is being commandeered by the monster-hating Van Helsing family.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_SX300.jpg",
-    "Production": "Columbia Pictures / Sony Pictures Animation",
-    "Rated": "PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.3/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "59%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "54/100"
-      }
-    ],
-    "Released": "13 Jul 2018",
-    "Response": "True",
-    "Runtime": "97 min",
-    "Title": "Hotel Transylvania 3: Summer Vacation",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Michael McCullers, Genndy Tartakovsky, Todd Durham (based on characters created by)",
-    "Year": "2018",
-    "imdbID": "tt5220122",
-    "imdbRating": "6.3",
-    "imdbVotes": "22,099"
+    "imdbVotes": "107,726"
   },
   "Hunter Killer": {
     "Actors": "Ethan Baird, Jacob Scipio, Dempsey Bovell, Corey Johnson",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "China, UK, USA",
-    "DVD": "N/A",
+    "Country": "UK, China, USA",
+    "DVD": "29 Jan 2019",
     "Director": "Donovan Marsh",
     "Genre": "Action, Thriller",
-    "Language": "English",
-    "Metascore": "N/A",
+    "Language": "Russian, English",
+    "Metascore": "43",
     "Plot": "An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BYjRkNzQ0NmYtZmQyMS00Yzk5LWEzZjQtYzhlOTRlMzVjMzA3XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
     "Production": "Summit Premiere",
@@ -1256,60 +1339,28 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "37%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
       }
     ],
     "Released": "26 Oct 2018",
     "Response": "True",
-    "Runtime": "121 min",
+    "Runtime": "122 min",
     "Title": "Hunter Killer",
     "Type": "movie",
     "Website": "https://hunterkiller.movie/",
     "Writer": "Arne Schmidt (screenplay by), Jamie Moss (screenplay by), George Wallace (based on the novel \"Firing Point\" written by), Don Keith (based on the novel \"Firing Point\" written by)",
     "Year": "2018",
     "imdbID": "tt1846589",
-    "imdbRating": "7.4",
-    "imdbVotes": "90"
-  },
-  "Inception": {
-    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
-    "Awards": "Won 4 Oscars. Another 152 wins & 204 nominations.",
-    "BoxOffice": "$292,568,851",
-    "Country": "USA, UK",
-    "DVD": "07 Dec 2010",
-    "Director": "Christopher Nolan",
-    "Genre": "Action, Adventure, Sci-Fi, Thriller",
-    "Language": "English, Japanese, French",
-    "Metascore": "74",
-    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "86%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "74/100"
-      }
-    ],
-    "Released": "16 Jul 2010",
-    "Response": "True",
-    "Runtime": "148 min",
-    "Title": "Inception",
-    "Type": "movie",
-    "Website": "http://inceptionmovie.warnerbros.com/",
-    "Writer": "Christopher Nolan",
-    "Year": "2010",
-    "imdbID": "tt1375666",
-    "imdbRating": "8.8",
-    "imdbVotes": "1,755,015"
+    "imdbRating": "6.8",
+    "imdbVotes": "10,685"
   },
   "Incredibles 2": {
     "Actors": "Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner",
@@ -1318,17 +1369,17 @@
     "Country": "USA",
     "DVD": "23 Oct 2018",
     "Director": "Brad Bird",
-    "Genre": "Animation, Action, Adventure",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Sci-Fi",
     "Language": "English",
     "Metascore": "80",
-    "Plot": "Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.",
+    "Plot": "The Incredibles hero family takes on a new mission, which involves a change in family roles: Bob Parr (Mr Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
     "Production": "Disney/Pixar",
     "Rated": "PG",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.1/10"
+        "Value": "7.8/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -1348,59 +1399,51 @@
     "Writer": "Brad Bird",
     "Year": "2018",
     "imdbID": "tt3606756",
-    "imdbRating": "8.1",
-    "imdbVotes": "102,393"
+    "imdbRating": "7.8",
+    "imdbVotes": "159,661"
   },
-  "John Wick": {
-    "Actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",
-    "Awards": "5 wins & 8 nominations.",
+  "Infected": {
+    "Actors": "Michael Madsen, William Forsythe, Christy Carlson Romano, Tom DeNucci",
+    "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "China, USA",
-    "DVD": "03 Feb 2015",
-    "Director": "Chad Stahelski, David Leitch",
-    "Genre": "Action, Crime, Thriller",
-    "Language": "English, Russian, Hungarian",
-    "Metascore": "68",
-    "Plot": "An ex-hitman comes out of retirement to track down the gangsters that killed his dog and took everything from him.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
-    "Production": "LionsGate Entertainment",
+    "Country": "USA",
+    "DVD": "08 Apr 2013",
+    "Director": "Glenn Ciano",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Language": "N/A",
+    "Metascore": "N/A",
+    "Plot": "A blood virus infects a small group of hunters turning a father & son trip into a fight for survival.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNTE0NDQ4N15BMl5BanBnXkFtZTcwNzk0NzEyOQ@@._V1_SX300.jpg",
+    "Production": "N/A",
     "Rated": "R",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.3/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "86%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "68/100"
+        "Value": "2.9/10"
       }
     ],
-    "Released": "24 Oct 2014",
+    "Released": "03 Oct 2014",
     "Response": "True",
-    "Runtime": "101 min",
-    "Title": "John Wick",
+    "Runtime": "95 min",
+    "Title": "Infected",
     "Type": "movie",
-    "Website": "http://johnwickthemovie.com/",
-    "Writer": "Derek Kolstad",
-    "Year": "2014",
-    "imdbID": "tt2911666",
-    "imdbRating": "7.3",
-    "imdbVotes": "400,630"
+    "Website": "N/A",
+    "Writer": "Glenn Ciano (screenplay), Glenn Ciano (story), Rob Rotondo (screenplay)",
+    "Year": "2013",
+    "imdbID": "tt1622991",
+    "imdbRating": "2.9",
+    "imdbVotes": "1,010"
   },
   "Johnny English Strikes Again": {
-    "Actors": "Olga Kurylenko, Rowan Atkinson, Emma Thompson, Charles Dance",
+    "Actors": "Kevin Eldon, Emma Thompson, Adam James, Rowan Atkinson",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "UK, France, USA",
-    "DVD": "N/A",
+    "DVD": "08 Jan 2019",
     "Director": "David Kerr",
     "Genre": "Action, Adventure, Comedy",
     "Language": "English",
-    "Metascore": "35",
+    "Metascore": "39",
     "Plot": "After a cyber-attack reveals the identity of all of the active undercover agents in Britain, Johnny English is forced to come out of retirement to find the mastermind hacker.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_SX300.jpg",
     "Production": "Universal Pictures",
@@ -1408,28 +1451,28 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.6/10"
+        "Value": "6.4/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "37%"
+        "Value": "34%"
       },
       {
         "Source": "Metacritic",
-        "Value": "35/100"
+        "Value": "39/100"
       }
     ],
     "Released": "26 Oct 2018",
     "Response": "True",
-    "Runtime": "88 min",
+    "Runtime": "89 min",
     "Title": "Johnny English Strikes Again",
     "Type": "movie",
     "Website": "http://www.johnnyenglishmovie.com/",
     "Writer": "William Davies (screenplay by)",
     "Year": "2018",
     "imdbID": "tt6921996",
-    "imdbRating": "6.6",
-    "imdbVotes": "9,960"
+    "imdbRating": "6.4",
+    "imdbVotes": "20,524"
   },
   "Jurassic World: Fallen Kingdom": {
     "Actors": "Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith",
@@ -1448,11 +1491,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.3/10"
+        "Value": "6.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "49%"
+        "Value": "48%"
       },
       {
         "Source": "Metacritic",
@@ -1468,14 +1511,14 @@
     "Writer": "Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)",
     "Year": "2018",
     "imdbID": "tt4881806",
-    "imdbRating": "6.3",
-    "imdbVotes": "151,709"
+    "imdbRating": "6.2",
+    "imdbVotes": "187,929"
   },
   "Justice League": {
     "Actors": "Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot",
     "Awards": "1 win & 6 nominations.",
     "BoxOffice": "$227,032,490",
-    "Country": "UK, Canada, USA",
+    "Country": "USA, Canada, UK",
     "DVD": "13 Mar 2018",
     "Director": "Zack Snyder",
     "Genre": "Action, Adventure, Fantasy, Sci-Fi",
@@ -1488,7 +1531,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.6/10"
+        "Value": "6.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -1508,280 +1551,144 @@
     "Writer": "Jerry Siegel (Superman created by), Joe Shuster (Superman created by), Chris Terrio (story by), Zack Snyder (story by), Chris Terrio (screenplay by), Joss Whedon (screenplay by), Gardner Fox (Justice League of America created by), Bob Kane (Batman created by), Bill Finger (Batman created by), William Moulton Marston (Wonder Woman created by), Jack Kirby (Fourth World created by)",
     "Year": "2017",
     "imdbID": "tt0974015",
-    "imdbRating": "6.6",
-    "imdbVotes": "288,827"
+    "imdbRating": "6.5",
+    "imdbVotes": "302,372"
   },
-  "Kalpana": {
-    "Actors": "Upendra, Raai Laxmi, Sai Kumar, Shruti",
-    "Awards": "1 nomination.",
+  "Kung Fu League": {
+    "Actors": "Ashin, Kwok-Kwan Chan, Madina Memet, Andy On",
+    "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "India",
+    "Country": "Hong Kong",
     "DVD": "N/A",
-    "Director": "Ramanarayanan",
-    "Genre": "Comedy, Horror",
-    "Language": "Kannada",
+    "Director": "Jeffrey Lau",
+    "Genre": "N/A",
+    "Language": "Cantonese, Mandarin",
     "Metascore": "N/A",
-    "Plot": "Raghava is a fun-loving youngster who enjoys playing cricket with his friends. But at night he is afraid of ghosts and is always confined to his home under the care of his mother (Umashri)....",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDc0OTJlNWEtYWMxNS00Mzc2LTgzYjItYWM0M2MzZDUwYTg1XkEyXkFqcGdeQXVyMjI0OTEyMTg@._V1_SX300.jpg",
+    "Plot": "Fei Ying Xiong, an indigent comic book artist, is romantically interested in Bao'er, but the head manager of their company, who also has a interest in Bao'er, prevents that from happening. ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA1Y2UzODEtM2Q5Zi00NWUzLTgzY2EtNmEwYmJhNzVkNmYzXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_SX300.jpg",
     "Production": "N/A",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.1/10"
+        "Value": "5.8/10"
       }
     ],
-    "Released": "28 Sep 2012",
+    "Released": "01 Nov 2018",
     "Response": "True",
-    "Runtime": "165 min",
-    "Title": "Kalpana",
+    "Runtime": "102 min",
+    "Title": "Kung Fu League",
     "Type": "movie",
     "Website": "N/A",
-    "Writer": "Lawrence Raghavendra",
-    "Year": "2012",
-    "imdbID": "tt3178816",
-    "imdbRating": "6.1",
-    "imdbVotes": "49"
+    "Writer": "N/A",
+    "Year": "2018",
+    "imdbID": "tt9204408",
+    "imdbRating": "5.8",
+    "imdbVotes": "59"
   },
-  "Leave No Trace": {
-    "Actors": "Thomasin McKenzie, Ben Foster, Jeffery Rifflard, Derek John Drescher",
+  "Look Away": {
+    "Actors": "India Eisley, Jason Isaacs, Mira Sorvino, Penelope Mitchell",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA, Canada",
-    "DVD": "25 Sep 2018",
-    "Director": "Debra Granik",
-    "Genre": "Drama",
+    "Country": "USA",
+    "DVD": "12 Oct 2018",
+    "Director": "Assaf Bernstein",
+    "Genre": "Thriller",
     "Language": "English",
-    "Metascore": "88",
-    "Plot": "A father and his thirteen year-old daughter are living an ideal existence in a vast urban park in Portland, Oregon, when a small mistake derails their lives forever.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3OTI1MTU0OV5BMl5BanBnXkFtZTgwNTg1MzkzNTM@._V1_SX300.jpg",
-    "Production": "Bleecker Street",
-    "Rated": "PG",
+    "Metascore": "N/A",
+    "Plot": "LOOK AWAY is a psychological thriller that tells the story of Maria, an alienated high-school student whose life is turned upside down when she switches places with her sinister mirror image.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzOTY0MDI3MTdeQTJeQWpwZ15BbWU4MDk5NDAyNDYz._V1_SX300.jpg",
+    "Production": "Vertical Entertainment",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "0%"
+      }
+    ],
+    "Released": "02 Nov 2018",
+    "Response": "True",
+    "Runtime": "103 min",
+    "Title": "Look Away",
+    "Type": "movie",
+    "Website": "https://www.lookawaymovie.com/",
+    "Writer": "Assaf Bernstein",
+    "Year": "2018",
+    "imdbID": "tt5834760",
+    "imdbRating": "6.3",
+    "imdbVotes": "3,471"
+  },
+  "Mary Poppins Returns": {
+    "Actors": "Emily Blunt, Lin-Manuel Miranda, Ben Whishaw, Emily Mortimer",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "N/A",
+    "Director": "Rob Marshall",
+    "Genre": "Comedy, Family, Fantasy, Musical",
+    "Language": "English",
+    "Metascore": "65",
+    "Plot": "Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0MjEzOTQ1NF5BMl5BanBnXkFtZTgwODg4ODc5NjM@._V1_SX300.jpg",
+    "Production": "Walt Disney Pictures",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       },
       {
-        "Source": "Rotten Tomatoes",
-        "Value": "100%"
-      },
-      {
         "Source": "Metacritic",
-        "Value": "88/100"
+        "Value": "65/100"
       }
     ],
-    "Released": "29 Jun 2018",
+    "Released": "19 Dec 2018",
     "Response": "True",
-    "Runtime": "109 min",
-    "Title": "Leave No Trace",
+    "Runtime": "130 min",
+    "Title": "Mary Poppins Returns",
     "Type": "movie",
-    "Website": "https://www.bleeckerstreetmedia.com/leavenotrace",
-    "Writer": "Debra Granik (screenplay by), Anne Rosellini (screenplay by), Peter Rock (based on the novel \"My Abandonment\" by)",
+    "Website": "http://movies.disney.com/mary-poppins-returns",
+    "Writer": "David Magee (screenplay by), David Magee (screen story by), Rob Marshall (screen story by), John DeLuca (screen story by), P.L. Travers (based upon the \"Mary Poppins\" stories by)",
     "Year": "2018",
-    "imdbID": "tt3892172",
+    "imdbID": "tt5028340",
     "imdbRating": "7.3",
-    "imdbVotes": "11,554"
+    "imdbVotes": "16,095"
   },
-  "London Fields": {
-    "Actors": "Gemma Chan, Amber Heard, Cara Delevingne, Jason Isaacs",
+  "Master Z: Ip Man Legacy": {
+    "Actors": "Jin Zhang, Dave Bautista, Michelle Yeoh, Tony Jaa",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "UK, USA",
+    "Country": "Hong Kong, China",
     "DVD": "N/A",
-    "Director": "Mathew Cullen",
-    "Genre": "Crime, Mystery, Thriller",
-    "Language": "English",
-    "Metascore": "28",
-    "Plot": "Clairvoyant femme fatale Nicola Six has been living with a dark premonition of her impending death by murder. She begins a tangled love affair with three uniquely different men: one of whom she knows will be her murderer.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjMwYWNiN2EtMWNkMS00MDU5LThiMGMtOTk5NTQzMjQ4OTkwXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SX300.jpg",
+    "Director": "Woo-Ping Yuen",
+    "Genre": "Action",
+    "Language": "Cantonese, Mandarin, English",
+    "Metascore": "N/A",
+    "Plot": "While keeping a low profile after his defeat from Ip Man, Cheung Tin Chi gets into trouble after getting in a fight with a powerful foreigner.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTczNmZmZjUtNmQ1NS00OTc1LThkYTUtYjE4MmQyZGI2ZjA2XkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_SX300.jpg",
     "Production": "N/A",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.5/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "0%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "28/100"
+        "Value": "7.7/10"
       }
     ],
-    "Released": "26 Oct 2018",
+    "Released": "N/A",
     "Response": "True",
-    "Runtime": "118 min",
-    "Title": "London Fields",
+    "Runtime": "N/A",
+    "Title": "Master Z: Ip Man Legacy",
     "Type": "movie",
     "Website": "N/A",
-    "Writer": "Martin Amis (novel), Roberta Hanley",
+    "Writer": "Tai-lee Chan, Edmond Wong",
     "Year": "2018",
-    "imdbID": "tt1273221",
-    "imdbRating": "5.5",
-    "imdbVotes": "121"
-  },
-  "Mad Max: Fury Road": {
-    "Actors": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne",
-    "Awards": "Won 6 Oscars. Another 232 wins & 219 nominations.",
-    "BoxOffice": "$129,483,877",
-    "Country": "Australia, USA",
-    "DVD": "01 Sep 2015",
-    "Director": "George Miller",
-    "Genre": "Action, Adventure, Sci-Fi, Thriller",
-    "Language": "English, Russian",
-    "Metascore": "90",
-    "Plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Production": "Warner Bros.",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.1/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "97%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "90/100"
-      }
-    ],
-    "Released": "15 May 2015",
-    "Response": "True",
-    "Runtime": "120 min",
-    "Title": "Mad Max: Fury Road",
-    "Type": "movie",
-    "Website": "http://www.madmaxmovie.com/",
-    "Writer": "George Miller, Brendan McCarthy, Nick Lathouris",
-    "Year": "2015",
-    "imdbID": "tt1392190",
-    "imdbRating": "8.1",
-    "imdbVotes": "739,165"
-  },
-  "Mamma Mia! Here We Go Again": {
-    "Actors": "Amanda Seyfried, Andy Garcia, Celia Imrie, Lily James",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "UK, USA",
-    "DVD": "09 Oct 2018",
-    "Director": "Ol Parker",
-    "Genre": "Comedy, Musical, Romance",
-    "Language": "English, French, Greek",
-    "Metascore": "60",
-    "Plot": "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother's past.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMTM3OTI1NV5BMl5BanBnXkFtZTgwNDk5NTY0NTM@._V1_SX300.jpg",
-    "Production": "Universal Pictures",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.1/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "80%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "60/100"
-      }
-    ],
-    "Released": "20 Jul 2018",
-    "Response": "True",
-    "Runtime": "114 min",
-    "Title": "Mamma Mia! Here We Go Again",
-    "Type": "movie",
-    "Website": "https://www.mammamiamovie.com/",
-    "Writer": "Ol Parker, Richard Curtis (story by), Ol Parker (story by), Catherine Johnson (story by), Catherine Johnson (based on the original musical by), Judy Craymer (originally conceived by), ABBA (based on the songs of)",
-    "Year": "2018",
-    "imdbID": "tt6911608",
-    "imdbRating": "7.1",
-    "imdbVotes": "36,069"
-  },
-  "Mandy": {
-    "Actors": "Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "Belgium, USA",
-    "DVD": "30 Oct 2018",
-    "Director": "Panos Cosmatos",
-    "Genre": "Action, Horror, Thriller",
-    "Language": "English",
-    "Metascore": "82",
-    "Plot": "Mandy is set in the primal wilderness of 1983 where Red Miller, a broken and haunted man, hunts an unhinged religious sect who slaughtered the love of his life.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Production": "RLJE Films",
-    "Rated": "NOT RATED",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "94%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "82/100"
-      }
-    ],
-    "Released": "14 Sep 2018",
-    "Response": "True",
-    "Runtime": "121 min",
-    "Title": "Mandy",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Panos Cosmatos, Aaron Stewart-Ahn, Panos Cosmatos (story by), Chris 'Casper' Kelly (Cheddar Goblin ad)",
-    "Year": "2018",
-    "imdbID": "tt6998518",
-    "imdbRating": "6.8",
-    "imdbVotes": "13,722"
-  },
-  "Maquia: When the Promised Flower Blooms": {
-    "Actors": "Manaka Iwami, Miyu Irino, Y\u00f4ko Hikasa, Hiroaki Hirata",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "Japan",
-    "DVD": "N/A",
-    "Director": "Mari Okada",
-    "Genre": "Animation, Drama, Fantasy",
-    "Language": "Japanese",
-    "Metascore": "72",
-    "Plot": "An immortal girl and a normal boy meet and become friends, sharing a bond that lasts throughout the years.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWI0MzZkMTEtZTBlZC00MTE0LWJmYmQtZDhhYmY1ZjAxNDBlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_SX300.jpg",
-    "Production": "Eleven Arts",
-    "Rated": "N/A",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.2/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "100%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "72/100"
-      }
-    ],
-    "Released": "24 Feb 2018",
-    "Response": "True",
-    "Runtime": "115 min",
-    "Title": "Maquia: When the Promised Flower Blooms",
-    "Type": "movie",
-    "Website": "https://www.elevenarts.net/animedistrbution/maquia",
-    "Writer": "Mari Okada",
-    "Year": "2018",
-    "imdbID": "tt7339826",
-    "imdbRating": "7.2",
-    "imdbVotes": "476"
+    "imdbID": "tt7262882",
+    "imdbRating": "7.7",
+    "imdbVotes": "26"
   },
   "Mile 22": {
     "Actors": "Mark Wahlberg, Lauren Cohan, Iko Uwais, John Malkovich",
@@ -1791,9 +1698,9 @@
     "DVD": "30 Oct 2018",
     "Director": "Peter Berg",
     "Genre": "Action, Adventure, Crime, Thriller",
-    "Language": "English, Russian, Indonesian",
+    "Language": "English, Russian, Indonesian, Filipino",
     "Metascore": "38",
-    "Plot": "An elite American intelligence officer, aided by a top-secret tactical command unit, tries to smuggle a mysterious police officer with sensitive information out of the country.",
+    "Plot": "An elite American intelligence officer, aided by a top-secret tactical command unit, tries to smuggle a mysterious police officer with sensitive information out of Indonesia.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SX300.jpg",
     "Production": "STXfilms",
     "Rated": "R",
@@ -1804,7 +1711,7 @@
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "25%"
+        "Value": "23%"
       },
       {
         "Source": "Metacritic",
@@ -1821,26 +1728,26 @@
     "Year": "2018",
     "imdbID": "tt4560436",
     "imdbRating": "6.1",
-    "imdbVotes": "10,402"
+    "imdbVotes": "35,962"
   },
   "Mission: Impossible - Fallout": {
     "Actors": "Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA, China",
-    "DVD": "N/A",
+    "Country": "USA, China, France, Norway",
+    "DVD": "04 Dec 2018",
     "Director": "Christopher McQuarrie",
     "Genre": "Action, Adventure, Thriller",
     "Language": "English, French",
     "Metascore": "86",
     "Plot": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDY5MTU0NV5BMl5BanBnXkFtZTgwNDI3MDE1NTM@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
     "Production": "Paramount Pictures",
     "Rated": "PG-13",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.0/10"
+        "Value": "7.9/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -1860,23 +1767,23 @@
     "Writer": "Christopher McQuarrie, Bruce Geller (based on the television series created by)",
     "Year": "2018",
     "imdbID": "tt4912910",
-    "imdbRating": "8.0",
-    "imdbVotes": "137,802"
+    "imdbRating": "7.9",
+    "imdbVotes": "176,736"
   },
-  "Now You See Me 2": {
-    "Actors": "Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Dave Franco",
-    "Awards": "4 nominations.",
-    "BoxOffice": "$65,030,563",
-    "Country": "France, USA",
-    "DVD": "06 Sep 2016",
-    "Director": "Jon M. Chu",
-    "Genre": "Action, Adventure, Comedy, Crime, Mystery, Thriller",
-    "Language": "English, Mandarin, Cantonese",
-    "Metascore": "46",
-    "Plot": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ0NDgwODQ3NV5BMl5BanBnXkFtZTgwOTYxNjc2ODE@._V1_SX300.jpg",
-    "Production": "Lionsgate",
-    "Rated": "PG-13",
+  "Mortal Engines": {
+    "Actors": "Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "New Zealand, USA",
+    "DVD": "N/A",
+    "Director": "Christian Rivers",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi, Thriller",
+    "Language": "English",
+    "Metascore": "45",
+    "Plot": "In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_SX300.jpg",
+    "Production": "Universal Pictures",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1884,24 +1791,104 @@
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "35%"
+        "Value": "37%"
       },
       {
         "Source": "Metacritic",
-        "Value": "46/100"
+        "Value": "45/100"
       }
     ],
-    "Released": "10 Jun 2016",
+    "Released": "14 Dec 2018",
     "Response": "True",
-    "Runtime": "129 min",
-    "Title": "Now You See Me 2",
+    "Runtime": "128 min",
+    "Title": "Mortal Engines",
     "Type": "movie",
-    "Website": "http://www.nowyouseeme.movie/",
-    "Writer": "Ed Solomon (screenplay by), Ed Solomon (story by), Peter Chiarelli (story by), Boaz Yakin (based on characters created by), Edward Ricourt (based on characters created by)",
-    "Year": "2016",
-    "imdbID": "tt3110958",
+    "Website": "https://www.mortalengines.com/",
+    "Writer": "Fran Walsh (screenplay by), Philippa Boyens (screenplay by), Peter Jackson (screenplay by), Philip Reeve (based on the book by)",
+    "Year": "2018",
+    "imdbID": "tt1571234",
     "imdbRating": "6.5",
-    "imdbVotes": "198,905"
+    "imdbVotes": "11,120"
+  },
+  "Mowgli: Legend of the Jungle": {
+    "Actors": "Christian Bale, Cate Blanchett, Benedict Cumberbatch, Naomie Harris",
+    "Awards": "1 win.",
+    "BoxOffice": "N/A",
+    "Country": "UK, USA",
+    "DVD": "07 Dec 2018",
+    "Director": "Andy Serkis",
+    "Genre": "Adventure, Drama",
+    "Language": "English, Hindi",
+    "Metascore": "53",
+    "Plot": "A human child raised by wolves must face off against a menacing tiger named Shere Khan, as well as his own origins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "53%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Released": "07 Dec 2018",
+    "Response": "True",
+    "Runtime": "104 min",
+    "Title": "Mowgli: Legend of the Jungle",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Callie Kloves (screenplay by), Rudyard Kipling (based on the stories of)",
+    "Year": "2018",
+    "imdbID": "tt2388771",
+    "imdbRating": "6.7",
+    "imdbVotes": "13,814"
+  },
+  "Night School": {
+    "Actors": "Kevin Hart, Tiffany Haddish, Rob Riggle, Romany Malco",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "11 Dec 2018",
+    "Director": "Malcolm D. Lee",
+    "Genre": "Comedy",
+    "Language": "English, French, Spanish",
+    "Metascore": "43",
+    "Plot": "A group of troublemakers are forced to attend night school in hope that they'll pass the GED exam to finish high school.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzEyYzg5N2YtZmYzZC00OTg0LWE3ZmYtNDZhMGFkOTBjOTYxXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg",
+    "Production": "Universal Pictures",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "29%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Released": "28 Sep 2018",
+    "Response": "True",
+    "Runtime": "111 min",
+    "Title": "Night School",
+    "Type": "movie",
+    "Website": "https://www.nightschoolmovie.com/",
+    "Writer": "Kevin Hart, Harry Ratchford, Joey Wells, Matthew Kellard, Nicholas Stoller, John Hamburg",
+    "Year": "2018",
+    "imdbID": "tt6781982",
+    "imdbRating": "5.6",
+    "imdbVotes": "12,565"
   },
   "Ocean's Eight": {
     "Actors": "Sandra Bullock, Griffin Dunne, Deidre Goodwin, Daniella Rabbani",
@@ -1910,8 +1897,8 @@
     "Country": "USA",
     "DVD": "11 Sep 2018",
     "Director": "Gary Ross",
-    "Genre": "Action, Comedy, Crime",
-    "Language": "English, German, French, Chinese",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Language": "English, Hindi, French, German, Chinese",
     "Metascore": "61",
     "Plot": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_SX300.jpg",
@@ -1920,11 +1907,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.3/10"
+        "Value": "6.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "67%"
+        "Value": "68%"
       },
       {
         "Source": "Metacritic",
@@ -1940,88 +1927,88 @@
     "Writer": "Gary Ross (screenplay by), Olivia Milch (screenplay by), Gary Ross (story by), George Clayton Johnson (based upon characters created by), Jack Golden Russell (based upon characters created by)",
     "Year": "2018",
     "imdbID": "tt5164214",
-    "imdbRating": "6.3",
-    "imdbVotes": "87,773"
+    "imdbRating": "6.2",
+    "imdbVotes": "108,252"
   },
-  "Operation Finale": {
-    "Actors": "Oscar Isaac, Ben Kingsley, M\u00e9lanie Laurent, Lior Raz",
+  "Overlord": {
+    "Actors": "Jovan Adepo, Wyatt Russell, Mathilde Ollivier, Pilou Asb\u00e6k",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
+    "Country": "USA, Canada",
     "DVD": "N/A",
-    "Director": "Chris Weitz",
-    "Genre": "Biography, Drama, History",
-    "Language": "English, Spanish",
-    "Metascore": "58",
-    "Plot": "A team of secret agents set out to track down the Nazi officer who masterminded the Holocaust.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE1YjI2MjctZTY2Zi00NDBhLWIzYmMtNzMzMDgwZjE4MzUxXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
-    "Production": "MGM",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.6/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "59%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "58/100"
-      }
-    ],
-    "Released": "29 Aug 2018",
-    "Response": "True",
-    "Runtime": "122 min",
-    "Title": "Operation Finale",
-    "Type": "movie",
-    "Website": "https://operationfinalefilm.com/",
-    "Writer": "Matthew Orton",
-    "Year": "2018",
-    "imdbID": "tt5208252",
-    "imdbRating": "6.6",
-    "imdbVotes": "2,814"
-  },
-  "Papillon": {
-    "Actors": "Steve McQueen, Dustin Hoffman, Victor Jory, Don Gordon",
-    "Awards": "Nominated for 1 Oscar. Another 2 wins & 1 nomination.",
-    "BoxOffice": "N/A",
-    "Country": "France, USA",
-    "DVD": "14 Dec 1999",
-    "Director": "Franklin J. Schaffner",
-    "Genre": "Biography, Crime, Drama",
-    "Language": "English, Spanish",
-    "Metascore": "58",
-    "Plot": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRjZjQ0NzAtYmZlNS00Zjc1LTk1YWItMDY5YzQxMzA4MTAzXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
-    "Production": "Twentieth Century Fox Home Entertainment",
+    "Director": "Julius Avery",
+    "Genre": "Action, Adventure, Horror, Mystery, Sci-Fi, War",
+    "Language": "English, Russian, French, German",
+    "Metascore": "60",
+    "Plot": "A small group of American soldiers find horror behind enemy lines on the eve of D-Day.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0NTI1MTU2M15BMl5BanBnXkFtZTgwNTg4MDIzNjM@._V1_SX300.jpg",
+    "Production": "Paramount Pictures",
     "Rated": "R",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.0/10"
+        "Value": "7.1/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "83%"
+        "Value": "81%"
       },
       {
         "Source": "Metacritic",
-        "Value": "58/100"
+        "Value": "60/100"
       }
     ],
-    "Released": "19 Dec 1973",
+    "Released": "09 Nov 2018",
     "Response": "True",
-    "Runtime": "151 min",
-    "Title": "Papillon",
+    "Runtime": "110 min",
+    "Title": "Overlord",
     "Type": "movie",
     "Website": "N/A",
-    "Writer": "Dalton Trumbo (screenplay), Lorenzo Semple Jr. (screenplay), Henri Charri\u00e8re (book)",
-    "Year": "1973",
-    "imdbID": "tt0070511",
-    "imdbRating": "8.0",
-    "imdbVotes": "108,331"
+    "Writer": "Billy Ray (screenplay by), Mark L. Smith (screenplay by), Billy Ray (story by)",
+    "Year": "2018",
+    "imdbID": "tt4530422",
+    "imdbRating": "7.1",
+    "imdbVotes": "17,817"
+  },
+  "Peppermint": {
+    "Actors": "Jennifer Garner, John Gallagher Jr., John Ortiz, Juan Pablo Raba",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Hong Kong, USA",
+    "DVD": "11 Dec 2018",
+    "Director": "Pierre Morel",
+    "Genre": "Action, Drama, Thriller",
+    "Language": "English, Spanish",
+    "Metascore": "29",
+    "Plot": "Five years after her husband and daughter are killed in a senseless act of violence, a woman comes back from self-imposed exile to seek revenge against those responsible and the system that let them go free.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWVlMjQ3MjItOWE3YS00YTYwLWE0ZDMtZWMyZWY1NzkxNWIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Production": "STXfilms",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "12%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "29/100"
+      }
+    ],
+    "Released": "07 Sep 2018",
+    "Response": "True",
+    "Runtime": "101 min",
+    "Title": "Peppermint",
+    "Type": "movie",
+    "Website": "https://www.peppermint.movie/",
+    "Writer": "Chad St. John",
+    "Year": "2018",
+    "imdbID": "tt6850820",
+    "imdbRating": "6.5",
+    "imdbVotes": "14,873"
   },
   "Pirates of the Caribbean: The Curse of the Black Pearl": {
     "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
@@ -2061,87 +2048,47 @@
     "Year": "2003",
     "imdbID": "tt0325980",
     "imdbRating": "8.0",
-    "imdbVotes": "935,446"
+    "imdbVotes": "944,014"
   },
-  "Pulp Fiction": {
-    "Actors": "Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta",
-    "Awards": "Won 1 Oscar. Another 62 wins & 69 nominations.",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "19 May 1998",
-    "Director": "Quentin Tarantino",
-    "Genre": "Crime, Drama",
-    "Language": "English, Spanish, French",
-    "Metascore": "94",
-    "Plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "Production": "Miramax Films",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.9/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "94%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "94/100"
-      }
-    ],
-    "Released": "14 Oct 1994",
-    "Response": "True",
-    "Runtime": "154 min",
-    "Title": "Pulp Fiction",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Quentin Tarantino (stories), Roger Avary (stories), Quentin Tarantino",
-    "Year": "1994",
-    "imdbID": "tt0110912",
-    "imdbRating": "8.9",
-    "imdbVotes": "1,565,763"
-  },
-  "Rampage": {
-    "Actors": "Dwayne Johnson, Naomie Harris, Malin Akerman, Jeffrey Dean Morgan",
+  "Ralph Breaks the Internet": {
+    "Actors": "John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "26 Jun 2018",
-    "Director": "Brad Peyton",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Language": "English, American Sign Language",
-    "Metascore": "45",
-    "Plot": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "PG-13",
+    "DVD": "N/A",
+    "Director": "Phil Johnston, Rich Moore",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Language": "English",
+    "Metascore": "71",
+    "Plot": "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SX300.jpg",
+    "Production": "Walt Disney Animation Studios",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.2/10"
+        "Value": "7.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "53%"
+        "Value": "88%"
       },
       {
         "Source": "Metacritic",
-        "Value": "45/100"
+        "Value": "71/100"
       }
     ],
-    "Released": "13 Apr 2018",
+    "Released": "21 Nov 2018",
     "Response": "True",
-    "Runtime": "107 min",
-    "Title": "Rampage",
+    "Runtime": "112 min",
+    "Title": "Ralph Breaks the Internet",
     "Type": "movie",
-    "Website": "http://www.rampagethemovie.com/home",
-    "Writer": "Ryan Engle (screenplay by), Carlton Cuse (screenplay by), Ryan J. Condal (screenplay by), Adam Sztykiel (screenplay by), Ryan Engle (story by)",
+    "Website": "http://movies.disney.com/ralph-breaks-the-internet-wreck-it-ralph-2",
+    "Writer": "Phil Johnston (screenplay by), Pamela Ribon (screenplay by), Rich Moore (story by), Phil Johnston (story by), Jim Reardon (story by), Pamela Ribon (story by), Josie Trinidad (story by), Kelly Younger (Additional Story Material by)",
     "Year": "2018",
-    "imdbID": "tt2231461",
-    "imdbRating": "6.2",
-    "imdbVotes": "84,992"
+    "imdbID": "tt5848272",
+    "imdbRating": "7.5",
+    "imdbVotes": "20,743"
   },
   "Ready Player One": {
     "Actors": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe",
@@ -2160,7 +2107,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.6/10"
+        "Value": "7.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -2180,15 +2127,155 @@
     "Writer": "Zak Penn (screenplay by), Ernest Cline (screenplay by), Ernest Cline (based on the novel by)",
     "Year": "2018",
     "imdbID": "tt1677720",
-    "imdbRating": "7.6",
-    "imdbVotes": "226,448"
+    "imdbRating": "7.5",
+    "imdbVotes": "261,013"
+  },
+  "Replicas": {
+    "Actors": "Alice Eve, Keanu Reeves, Emily Alyn Lind, Emjay Anthony",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "UK, China, Puerto Rico, USA",
+    "DVD": "N/A",
+    "Director": "Jeffrey Nachmanoff",
+    "Genre": "Crime, Mystery, Sci-Fi, Thriller",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "A scientist becomes obsessed with bringing back his family members who died in a traffic accident.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGQxYTZlYzQtNjk3NS00MjVhLTkxZTYtMDk2ODlkMGJkYzBhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_SX300.jpg",
+    "Production": "Entertainment Studios Motion Pictures",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      }
+    ],
+    "Released": "11 Jan 2019",
+    "Response": "True",
+    "Runtime": "107 min",
+    "Title": "Replicas",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Chad St. John (screenplay by), Stephen Hamel (story by)",
+    "Year": "2018",
+    "imdbID": "tt4154916",
+    "imdbRating": "5.6",
+    "imdbVotes": "3,395"
+  },
+  "Robin Hood": {
+    "Actors": "Russell Crowe, Cate Blanchett, Max von Sydow, William Hurt",
+    "Awards": "1 win & 14 nominations.",
+    "BoxOffice": "$105,219,735",
+    "Country": "USA, UK",
+    "DVD": "21 Sep 2010",
+    "Director": "Ridley Scott",
+    "Genre": "Action, Adventure, Drama, History, Romance",
+    "Language": "English, French, Ukrainian",
+    "Metascore": "53",
+    "Plot": "In 12th century England, Robin and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NzcwMzEwOF5BMl5BanBnXkFtZTcwNjg5MTgwMw@@._V1_SX300.jpg",
+    "Production": "Universal",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "43%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "53/100"
+      }
+    ],
+    "Released": "14 May 2010",
+    "Response": "True",
+    "Runtime": "140 min",
+    "Title": "Robin Hood",
+    "Type": "movie",
+    "Website": "http://www.robinhoodthemovie.com/",
+    "Writer": "Brian Helgeland (screenplay), Brian Helgeland (story), Ethan Reiff (story), Cyrus Voris (story)",
+    "Year": "2010",
+    "imdbID": "tt0955308",
+    "imdbRating": "6.7",
+    "imdbVotes": "235,037"
+  },
+  "Roma": {
+    "Actors": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Mexico, USA",
+    "DVD": "N/A",
+    "Director": "Alfonso Cuar\u00f3n",
+    "Genre": "Drama",
+    "Language": "Spanish, English, Norwegian, Japanese",
+    "Metascore": "96",
+    "Plot": "A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Released": "21 Nov 2018",
+    "Response": "True",
+    "Runtime": "135 min",
+    "Title": "Roma",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Alfonso Cuar\u00f3n",
+    "Year": "2018",
+    "imdbID": "tt6155172",
+    "imdbRating": "8.2",
+    "imdbVotes": "30,951"
+  },
+  "Rust Creek": {
+    "Actors": "Hermione Corfield, Denise Dal Vera, Jeremy Glazer, Laura Guzman",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "04 Jan 2019",
+    "Director": "Jen McGowan",
+    "Genre": "Drama, Thriller",
+    "Language": "English",
+    "Metascore": "N/A",
+    "Plot": "An overachieving college student gets lost on her way to a job interview. A wrong turn leaves her stranded deep in the Kentucky forest. The woman must defend herself against the harsh ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjkyZTU5OWQtOTZiMy00NzdmLWE4ODgtNmRkZTE2MTZmYWI3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Production": "IFC Midnight",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Released": "01 Jan 2019",
+    "Response": "True",
+    "Runtime": "N/A",
+    "Title": "Rust Creek",
+    "Type": "movie",
+    "Website": "http://www.ifcfilms.com/films/rust-creek",
+    "Writer": "Julie Lipson, Stu Pollard (story by)",
+    "Year": "2018",
+    "imdbID": "tt6610158",
+    "imdbRating": "8.1",
+    "imdbVotes": "18"
   },
   "Searching": {
     "Actors": "John Cho, Sara Sohn, Alex Jayne Go, Megan Liu",
     "Awards": "1 win & 1 nomination.",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "N/A",
+    "Country": "USA, Russia",
+    "DVD": "27 Nov 2018",
     "Director": "Aneesh Chaganty",
     "Genre": "Drama, Mystery, Thriller",
     "Language": "English",
@@ -2200,11 +2287,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.9/10"
+        "Value": "7.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "93%"
+        "Value": "92%"
       },
       {
         "Source": "Metacritic",
@@ -2220,57 +2307,17 @@
     "Writer": "Aneesh Chaganty, Sev Ohanian",
     "Year": "2018",
     "imdbID": "tt7668870",
-    "imdbRating": "7.9",
-    "imdbVotes": "21,053"
-  },
-  "Sicario": {
-    "Actors": "Emily Blunt, Benicio Del Toro, Josh Brolin, Victor Garber",
-    "Awards": "Nominated for 3 Oscars. Another 15 wins & 150 nominations.",
-    "BoxOffice": "N/A",
-    "Country": "USA, Mexico",
-    "DVD": "05 Jan 2016",
-    "Director": "Denis Villeneuve",
-    "Genre": "Action, Crime, Drama",
-    "Language": "English, Spanish",
-    "Metascore": "82",
-    "Plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg",
-    "Production": "Lionsgate",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.6/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "92%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "82/100"
-      }
-    ],
-    "Released": "02 Oct 2015",
-    "Response": "True",
-    "Runtime": "121 min",
-    "Title": "Sicario",
-    "Type": "movie",
-    "Website": "https://www.facebook.com/SicarioMovie",
-    "Writer": "Taylor Sheridan",
-    "Year": "2015",
-    "imdbID": "tt3397884",
-    "imdbRating": "7.6",
-    "imdbVotes": "306,221"
+    "imdbRating": "7.7",
+    "imdbVotes": "53,936"
   },
   "Sicario: Day of the Soldado": {
     "Actors": "Benicio Del Toro, Josh Brolin, Isabela Moner, Jeffrey Donovan",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA, Mexico",
+    "Country": "USA",
     "DVD": "18 Sep 2018",
     "Director": "Stefano Sollima",
-    "Genre": "Action, Crime, Drama",
+    "Genre": "Action, Crime, Drama, Thriller",
     "Language": "English, Spanish, American Sign Language",
     "Metascore": "61",
     "Plot": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
@@ -2280,7 +2327,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.2/10"
+        "Value": "7.1/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -2300,8 +2347,40 @@
     "Writer": "Taylor Sheridan",
     "Year": "2018",
     "imdbID": "tt5052474",
-    "imdbRating": "7.2",
-    "imdbVotes": "48,834"
+    "imdbRating": "7.1",
+    "imdbVotes": "76,641"
+  },
+  "Silukkuvarupatti Singam": {
+    "Actors": "Vishnu Vishal, Regina Cassandra, Oviya, Yogi Babu",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "India",
+    "DVD": "N/A",
+    "Director": "Chella",
+    "Genre": "N/A",
+    "Language": "Tamil",
+    "Metascore": "N/A",
+    "Plot": "A rowdy on the run is mistakenly jailed by a cop after a pub brawl.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjA1YzU2YmQtODA5My00MDFmLWJkZGMtM2JjZmI5MTZjNzg5XkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Released": "21 Dec 2018",
+    "Response": "True",
+    "Runtime": "134 min",
+    "Title": "Silukkuvarupatti Singam",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Chella Ayyavu",
+    "Year": "2018",
+    "imdbID": "tt7853260",
+    "imdbRating": "7.5",
+    "imdbVotes": "45"
   },
   "Skyscraper": {
     "Actors": "Dwayne Johnson, Neve Campbell, Chin Han, Roland M\u00f8ller",
@@ -2310,10 +2389,10 @@
     "Country": "USA",
     "DVD": "25 Sep 2018",
     "Director": "Rawson Marshall Thurber",
-    "Genre": "Action, Thriller",
+    "Genre": "Action, Adventure, Crime, Thriller",
     "Language": "English, Cantonese, Mandarin",
     "Metascore": "51",
-    "Plot": "A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family are trapped inside by criminals.",
+    "Plot": "A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
     "Production": "Universal Pictures",
     "Rated": "PG-13",
@@ -2341,58 +2420,18 @@
     "Year": "2018",
     "imdbID": "tt5758778",
     "imdbRating": "5.9",
-    "imdbVotes": "42,588"
-  },
-  "Slender Man": {
-    "Actors": "Joey King, Julia Goldani Telles, Jaz Sinclair, Annalise Basso",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "N/A",
-    "Director": "Sylvain White",
-    "Genre": "Horror, Mystery, Thriller",
-    "Language": "English",
-    "Metascore": "30",
-    "Plot": "In a small town in Massachusetts, a group of friends, fascinated by the internet lore of the Slender Man, attempt to prove that he doesn't actually exist - until one of them mysteriously goes missing.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0MzcwMDAyNl5BMl5BanBnXkFtZTgwMzc4ODg0NDM@._V1_SX300.jpg",
-    "Production": "Screen Gems",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "3.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "7%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "30/100"
-      }
-    ],
-    "Released": "10 Aug 2018",
-    "Response": "True",
-    "Runtime": "93 min",
-    "Title": "Slender Man",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "David Birke, Victor Surge (based on a character by)",
-    "Year": "2018",
-    "imdbID": "tt5690360",
-    "imdbRating": "3.0",
-    "imdbVotes": "7,402"
+    "imdbVotes": "65,775"
   },
   "Smallfoot": {
     "Actors": "Channing Tatum, James Corden, Zendaya, Common",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "11 Dec 2018",
     "Director": "Karey Kirkpatrick, Jason Reisig(co-director)",
-    "Genre": "Animation, Adventure, Comedy",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
     "Language": "English",
-    "Metascore": "59",
+    "Metascore": "60",
     "Plot": "A Yeti is convinced that the elusive creatures known as \"humans\" really do exist.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzI1NjY4MV5BMl5BanBnXkFtZTgwNDIxNTIyNDM@._V1_SX300.jpg",
     "Production": "Warner Bros. Pictures",
@@ -2400,15 +2439,15 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.8/10"
+        "Value": "6.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "73%"
+        "Value": "76%"
       },
       {
         "Source": "Metacritic",
-        "Value": "59/100"
+        "Value": "60/100"
       }
     ],
     "Released": "28 Sep 2018",
@@ -2420,8 +2459,8 @@
     "Writer": "Karey Kirkpatrick (screenplay by), Clare Sera (screenplay by), John Requa (screen story by), Glenn Ficarra (screen story by), Karey Kirkpatrick (screen story by), Sergio Pablos (based on the book \"Yeti Tracks\" by), Sergio Pablos",
     "Year": "2018",
     "imdbID": "tt6182908",
-    "imdbRating": "6.8",
-    "imdbVotes": "1,541"
+    "imdbRating": "6.7",
+    "imdbVotes": "14,502"
   },
   "Solo: A Star Wars Story": {
     "Actors": "Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke",
@@ -2430,7 +2469,7 @@
     "Country": "USA",
     "DVD": "14 Sep 2018",
     "Director": "Ron Howard",
-    "Genre": "Action, Adventure, Fantasy",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
     "Language": "English",
     "Metascore": "62",
     "Plot": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
@@ -2461,47 +2500,47 @@
     "Year": "2018",
     "imdbID": "tt3778644",
     "imdbRating": "7.0",
-    "imdbVotes": "149,586"
+    "imdbVotes": "188,095"
   },
-  "Sorry to Bother You": {
-    "Actors": "Lakeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick",
-    "Awards": "1 nomination.",
+  "Speed Kills": {
+    "Actors": "Katheryn Winnick, John Travolta, Jennifer Esposito, James Remar",
+    "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "09 Oct 2018",
-    "Director": "Boots Riley",
-    "Genre": "Comedy, Fantasy, Sci-Fi",
+    "Country": "Puerto Rico",
+    "DVD": "15 Jan 2019",
+    "Director": "Jodi Scurfield",
+    "Genre": "Crime, Drama, Thriller",
     "Language": "English",
-    "Metascore": "81",
-    "Plot": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwMmI4YzUtZGI2Mi00M2MwLWIyMmMtZWYzMWZmNzAyNmYwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Production": "Annapurna Pictures",
-    "Rated": "R",
+    "Metascore": "19",
+    "Plot": "Speedboat racing champion and multimillionaire, Ben Aronoff, leads a double life that lands him in trouble with the law and drug lords.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmY0ZDhmOWItMDM4MS00NTkzLWE2MDItYjFhNzhlZmViOTAyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+    "Production": "Saban Films",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "3.9/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "94%"
+        "Value": "0%"
       },
       {
         "Source": "Metacritic",
-        "Value": "81/100"
+        "Value": "19/100"
       }
     ],
-    "Released": "13 Jul 2018",
+    "Released": "16 Aug 2018",
     "Response": "True",
-    "Runtime": "111 min",
-    "Title": "Sorry to Bother You",
+    "Runtime": "102 min",
+    "Title": "Speed Kills",
     "Type": "movie",
-    "Website": "http://sorrytobotheryou.movie/",
-    "Writer": "Boots Riley",
+    "Website": "N/A",
+    "Writer": "David Aaron Cohen (screenplay by), John Luessenhop (screenplay by), Paul Castro (story by), John Luessenhop (story by), David Aaron Cohen (story by), Arthur Jay Harris (based upon the book \"Speed Kills\" by)",
     "Year": "2018",
-    "imdbID": "tt5688932",
-    "imdbRating": "7.4",
-    "imdbVotes": "9,162"
+    "imdbID": "tt6749318",
+    "imdbRating": "3.9",
+    "imdbVotes": "700"
   },
   "Spider-Man: Homecoming": {
     "Actors": "Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",
@@ -2541,7 +2580,47 @@
     "Year": "2017",
     "imdbID": "tt2250912",
     "imdbRating": "7.5",
-    "imdbVotes": "360,460"
+    "imdbVotes": "374,123"
+  },
+  "Spider-Man: Into the Spider-Verse": {
+    "Actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "N/A",
+    "Director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Sci-Fi",
+    "Language": "English, Spanish",
+    "Metascore": "87",
+    "Plot": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from another dimensions to stop a threat for all realities.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+    "Production": "Sony Pictures",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Released": "14 Dec 2018",
+    "Response": "True",
+    "Runtime": "117 min",
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Type": "movie",
+    "Website": "http://www.intothespiderverse.movie/",
+    "Writer": "Phil Lord (screenplay by), Rodney Rothman (screenplay by), Phil Lord (story by), Dan Slott (creator \"Spider-Verse\"), Meghan Malloy (Story Consultant)",
+    "Year": "2018",
+    "imdbID": "tt4633694",
+    "imdbRating": "8.7",
+    "imdbVotes": "43,599"
   },
   "Split": {
     "Actors": "James McAvoy, Anya Taylor-Joy, Betty Buckley, Haley Lu Richardson",
@@ -2581,127 +2660,74 @@
     "Year": "2016",
     "imdbID": "tt4972582",
     "imdbRating": "7.3",
-    "imdbVotes": "286,249"
+    "imdbVotes": "298,101"
   },
-  "Star Wars: Episode IV - A New Hope": {
-    "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
-    "Awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
-    "BoxOffice": "N/A",
+  "Star Wars: The Last Jedi": {
+    "Actors": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley",
+    "Awards": "Nominated for 4 Oscars. Another 12 wins & 71 nominations.",
+    "BoxOffice": "$619,117,636",
     "Country": "USA",
-    "DVD": "21 Sep 2004",
-    "Director": "George Lucas",
+    "DVD": "27 Mar 2018",
+    "Director": "Rian Johnson",
     "Genre": "Action, Adventure, Fantasy, Sci-Fi",
     "Language": "English",
-    "Metascore": "90",
-    "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "Production": "20th Century Fox",
-    "Rated": "PG",
+    "Metascore": "85",
+    "Plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+    "Production": "Walt Disney Pictures",
+    "Rated": "PG-13",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "8.6/10"
+        "Value": "7.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "93%"
+        "Value": "91%"
       },
       {
         "Source": "Metacritic",
-        "Value": "90/100"
+        "Value": "85/100"
       }
     ],
-    "Released": "25 May 1977",
+    "Released": "15 Dec 2017",
     "Response": "True",
-    "Runtime": "121 min",
-    "Title": "Star Wars: Episode IV - A New Hope",
+    "Runtime": "152 min",
+    "Title": "Star Wars: The Last Jedi",
     "Type": "movie",
-    "Website": "http://www.starwars.com/episode-iv/",
-    "Writer": "George Lucas",
-    "Year": "1977",
-    "imdbID": "tt0076759",
-    "imdbRating": "8.6",
-    "imdbVotes": "1,077,767"
+    "Website": "http://www.starwars.com/the-last-jedi/",
+    "Writer": "Rian Johnson, George Lucas (based on characters created by)",
+    "Year": "2017",
+    "imdbID": "tt2527336",
+    "imdbRating": "7.2",
+    "imdbVotes": "429,745"
   },
-  "Tag": {
-    "Actors": "Ed Helms, Lil Rel Howery, Jon Hamm, Annabelle Wallis",
+  "T-34": {
+    "Actors": "Alexander Petrov, Vinzenz Kiefer, Irina Starshenbaum, Robinson Reichel",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "28 Aug 2018",
-    "Director": "Jeff Tomsic",
-    "Genre": "Comedy",
-    "Language": "English",
-    "Metascore": "56",
-    "Plot": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NDM3NjkwNF5BMl5BanBnXkFtZTgwNTk5MzkzNTM@._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.6/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "55%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "56/100"
-      }
-    ],
-    "Released": "15 Jun 2018",
-    "Response": "True",
-    "Runtime": "100 min",
-    "Title": "Tag",
-    "Type": "movie",
-    "Website": "http://www.tagthemovie.com/",
-    "Writer": "Rob McKittrick (screenplay by), Mark Steilen (screenplay by), Mark Steilen (screen story by), Russell Adams (based on the Wall Street Journal article entitled \"It Takes Planning,  Caution to Avoid Being It\" by)",
-    "Year": "2018",
-    "imdbID": "tt2854926",
-    "imdbRating": "6.6",
-    "imdbVotes": "48,481"
-  },
-  "Teen Titans Go! To the Movies": {
-    "Actors": "Greg Cipes, Scott Menville, Khary Payton, Tara Strong",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "USA",
+    "Country": "Russia",
     "DVD": "N/A",
-    "Director": "Aaron Horvath, Peter Rida Michail",
-    "Genre": "Animation, Action, Comedy",
-    "Language": "English",
-    "Metascore": "69",
-    "Plot": "A villain's maniacal plan for world domination sidetracks five teenage superheroes who dream of Hollywood stardom.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NDMwMDE2N15BMl5BanBnXkFtZTgwNDQ1Mjg5NTM@._V1_SX300.jpg",
-    "Production": "Warner Bros. Pictures",
-    "Rated": "PG",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.8/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "90%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "69/100"
-      }
-    ],
-    "Released": "27 Jul 2018",
+    "Director": "Aleksey Sidorov",
+    "Genre": "N/A",
+    "Language": "Russian",
+    "Metascore": "N/A",
+    "Plot": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGU2ZGQ5ZmYtMGI1NC00MDMxLTg3MTgtNWQ3ZDU5NmI2YzkwXkEyXkFqcGdeQXVyMTA1OTU2MTA@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [],
+    "Released": "27 Dec 2018",
     "Response": "True",
-    "Runtime": "84 min",
-    "Title": "Teen Titans Go! To the Movies",
+    "Runtime": "N/A",
+    "Title": "T-34",
     "Type": "movie",
-    "Website": "http://www.teentitansgo-movie.com/",
-    "Writer": "Michael Jelenic, Aaron Horvath, Jerry Siegel (Superman created by), Joe Shuster (Superman created by), Marv Wolfman (based on characters created by), George P\u00e9rez (based on characters created by), Arnold Drake (based on characters created by), Bob Kane (Batman and Robin created by), Bill Finger (Batman and Robin created by), William Moulton Marston (Wonder Woman created by)",
+    "Website": "N/A",
+    "Writer": "Aleksey Sidorov",
     "Year": "2018",
-    "imdbID": "tt7424200",
-    "imdbRating": "6.8",
-    "imdbVotes": "5,512"
+    "imdbID": "tt8820590",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A"
   },
   "The Avengers": {
     "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
@@ -2741,7 +2767,7 @@
     "Year": "2012",
     "imdbID": "tt0848228",
     "imdbRating": "8.1",
-    "imdbVotes": "1,127,047"
+    "imdbVotes": "1,136,922"
   },
   "The Dark Knight": {
     "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
@@ -2750,7 +2776,7 @@
     "Country": "USA, UK",
     "DVD": "09 Dec 2008",
     "Director": "Christopher Nolan",
-    "Genre": "Action, Crime, Drama",
+    "Genre": "Action, Crime, Drama, Thriller",
     "Language": "English, Mandarin",
     "Metascore": "84",
     "Plot": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
@@ -2781,54 +2807,54 @@
     "Year": "2008",
     "imdbID": "tt0468569",
     "imdbRating": "9.0",
-    "imdbVotes": "1,969,949"
+    "imdbVotes": "1,990,170"
   },
-  "The Darkest Minds": {
-    "Actors": "Amandla Stenberg, Mandy Moore, Bradley Whitford, Harris Dickinson",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "30 Oct 2018",
-    "Director": "Jennifer Yuh Nelson",
-    "Genre": "Sci-Fi, Thriller",
-    "Language": "English",
-    "Metascore": "39",
-    "Plot": "Imprisoned by an adult world that now fears everyone under 18, a group of teens form a resistance group to fight back and reclaim control of their future.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-    "Production": "20th Century Fox",
+  "The Dark Knight Rises": {
+    "Actors": "Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 38 wins & 102 nominations.",
+    "BoxOffice": "$448,130,642",
+    "Country": "UK, USA",
+    "DVD": "03 Dec 2012",
+    "Director": "Christopher Nolan",
+    "Genre": "Action, Thriller",
+    "Language": "English, Arabic",
+    "Metascore": "78",
+    "Plot": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+    "Production": "Warner Bros. Pictures",
     "Rated": "PG-13",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.5/10"
+        "Value": "8.4/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "17%"
+        "Value": "87%"
       },
       {
         "Source": "Metacritic",
-        "Value": "39/100"
+        "Value": "78/100"
       }
     ],
-    "Released": "03 Aug 2018",
+    "Released": "20 Jul 2012",
     "Response": "True",
-    "Runtime": "104 min",
-    "Title": "The Darkest Minds",
+    "Runtime": "164 min",
+    "Title": "The Dark Knight Rises",
     "Type": "movie",
-    "Website": "http://TheDarkestMinds.com",
-    "Writer": "Chad Hodge (screenplay by), Alexandra Bracken (based upon the novel by)",
-    "Year": "2018",
-    "imdbID": "tt4073790",
-    "imdbRating": "5.5",
-    "imdbVotes": "7,190"
+    "Website": "http://www.thedarkknightrises.com/",
+    "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+    "Year": "2012",
+    "imdbID": "tt1345836",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,352,041"
   },
   "The Equalizer 2": {
     "Actors": "Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "11 Dec 2018",
     "Director": "Antoine Fuqua",
     "Genre": "Action, Crime, Thriller",
     "Language": "English, French, Turkish, Hebrew",
@@ -2840,7 +2866,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.0/10"
+        "Value": "6.8/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -2860,67 +2886,134 @@
     "Writer": "Richard Wenk, Michael Sloan (based on the television series created by), Richard Lindheim (based on the television series created by)",
     "Year": "2018",
     "imdbID": "tt3766354",
-    "imdbRating": "7.0",
-    "imdbVotes": "27,371"
+    "imdbRating": "6.8",
+    "imdbVotes": "73,947"
   },
-  "The First Purge": {
-    "Actors": "Y'lan Noel, Lex Scott Davis, Joivan Wade, Mugga",
+  "The Favourite": {
+    "Actors": "Olivia Colman, Rachel Weisz, Emma Delves, Faye Daveney",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "18 Sep 2018",
-    "Director": "Gerard McMurray",
-    "Genre": "Action, Horror, Sci-Fi",
-    "Language": "English, French",
-    "Metascore": "54",
-    "Plot": "America's third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
-    "Production": "Universal Pictures",
+    "Country": "Ireland, UK, USA",
+    "DVD": "N/A",
+    "Director": "Yorgos Lanthimos",
+    "Genre": "Biography, Comedy, Drama, History",
+    "Language": "English",
+    "Metascore": "91",
+    "Plot": "In early 18th century England, a frail Queen Anne (Colman) occupies the throne and her close friend Lady Sarah (Weisz) governs the country in her stead. When a new servant Abigail (Stone) arrives, her charm endears her to Sarah.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SX300.jpg",
+    "Production": "Fox Searchlight Pictures, Film4 and Waypoint",
     "Rated": "R",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.1/10"
+        "Value": "8.3/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "53%"
+        "Value": "94%"
       },
       {
         "Source": "Metacritic",
-        "Value": "54/100"
+        "Value": "91/100"
       }
     ],
-    "Released": "04 Jul 2018",
+    "Released": "23 Nov 2018",
     "Response": "True",
-    "Runtime": "98 min",
-    "Title": "The First Purge",
+    "Runtime": "119 min",
+    "Title": "The Favourite",
     "Type": "movie",
-    "Website": "http://www.thefirstpurge.com",
-    "Writer": "James DeMonaco",
+    "Website": "http://www.foxsearchlight.com/thefavourite/",
+    "Writer": "Deborah Davis, Tony McNamara",
     "Year": "2018",
-    "imdbID": "tt6133466",
-    "imdbRating": "5.1",
-    "imdbVotes": "21,907"
+    "imdbID": "tt5083738",
+    "imdbRating": "8.3",
+    "imdbVotes": "5,382"
   },
-  "The Hobbit: The Battle of the Five Armies": {
-    "Actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
-    "Awards": "Nominated for 1 Oscar. Another 7 wins & 51 nominations.",
-    "BoxOffice": "$187,747,747",
-    "Country": "New Zealand, USA",
-    "DVD": "24 Mar 2015",
-    "Director": "Peter Jackson",
-    "Genre": "Adventure, Fantasy",
+  "The Grinch": {
+    "Actors": "Benedict Cumberbatch, Cameron Seely, Rashida Jones, Pharrell Williams",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "France, China, Japan, USA",
+    "DVD": "N/A",
+    "Director": "Yarrow Cheney, Scott Mosier",
+    "Genre": "Animation, Comedy, Family, Fantasy, Musical",
     "Language": "English",
-    "Metascore": "59",
-    "Plot": "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SX300.jpg",
-    "Production": "Warner Bros.",
-    "Rated": "PG-13",
+    "Metascore": "51",
+    "Plot": "A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Production": "Universal Pictures",
+    "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "58%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "51/100"
+      }
+    ],
+    "Released": "09 Nov 2018",
+    "Response": "True",
+    "Runtime": "86 min",
+    "Title": "The Grinch",
+    "Type": "movie",
+    "Website": "http://www.grinchmovie.com/",
+    "Writer": "Michael LeSieur (screenplay by), Tommy Swerdlow (screenplay by), Dr. Seuss (based on the book \"How The Grinch Stole Christmas\" by)",
+    "Year": "2018",
+    "imdbID": "tt2709692",
+    "imdbRating": "6.4",
+    "imdbVotes": "13,164"
+  },
+  "The Hopeful Romantic": {
+    "Actors": "Pepe Herrera, Ritz Azul, Johnny Revilla, DJ Durano",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Philippines",
+    "DVD": "N/A",
+    "Director": "Topel Lee",
+    "Genre": "Comedy, Romance",
+    "Language": "Filipino, Tagalog",
+    "Metascore": "N/A",
+    "Plot": "When a timid man named Jess meets a mysterious woman named Veronica, his life is suddenly turned upside down.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTFhZmMyMGYtNjYyMy00ZGQxLTk4NjctOGI1NGU4NWZiZmI1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "N/A",
+    "Ratings": [],
+    "Released": "12 Sep 2018",
+    "Response": "True",
+    "Runtime": "106 min",
+    "Title": "The Hopeful Romantic",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Easy Ferrer (screenplay), Joma Labayen (screenplay)",
+    "Year": "2018",
+    "imdbID": "tt9006040",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A"
+  },
+  "The House That Jack Built": {
+    "Actors": "Matt Dillon, Bruno Ganz, Uma Thurman, Siobhan Fallon Hogan",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Denmark, France, Germany, Sweden",
+    "DVD": "14 Dec 2018",
+    "Director": "Lars von Trier",
+    "Genre": "Comedy, Drama, Horror, Thriller",
+    "Language": "English, German, Italian",
+    "Metascore": "40",
+    "Plot": "The story follows Jack, a highly intelligent serial killer, over the course of twelve years, and depicts the murders that really develop his inner madman.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4Y2E5ODktODI5ZS00ZGVkLTgyZTEtNWY1ZjNiZTFjOTE3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Production": "IFC Films",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -2928,29 +3021,29 @@
       },
       {
         "Source": "Metacritic",
-        "Value": "59/100"
+        "Value": "40/100"
       }
     ],
-    "Released": "17 Dec 2014",
+    "Released": "14 Dec 2018",
     "Response": "True",
-    "Runtime": "144 min",
-    "Title": "The Hobbit: The Battle of the Five Armies",
+    "Runtime": "152 min",
+    "Title": "The House That Jack Built",
     "Type": "movie",
-    "Website": "http://www.thehobbit.com/",
-    "Writer": "Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Guillermo del Toro (screenplay), J.R.R. Tolkien (novel)",
-    "Year": "2014",
-    "imdbID": "tt2310332",
-    "imdbRating": "7.4",
-    "imdbVotes": "421,503"
+    "Website": "https://www.curzonartificialeye.com/the-house-that-jack-built/",
+    "Writer": "Lars von Trier (screenplay), Jenle Hallund (story by)",
+    "Year": "2018",
+    "imdbID": "tt4003440",
+    "imdbRating": "7.2",
+    "imdbVotes": "7,493"
   },
   "The House with a Clock in Its Walls": {
     "Actors": "Jack Black, Cate Blanchett, Owen Vaccaro, Kyle MacLachlan",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "N/A",
+    "Country": "USA, India, Canada",
+    "DVD": "18 Dec 2018",
     "Director": "Eli Roth",
-    "Genre": "Comedy, Family, Fantasy",
+    "Genre": "Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi, Thriller",
     "Language": "English",
     "Metascore": "57",
     "Plot": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
@@ -2960,11 +3053,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.3/10"
+        "Value": "6.1/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "68%"
+        "Value": "67%"
       },
       {
         "Source": "Metacritic",
@@ -2980,124 +3073,8 @@
     "Writer": "Eric Kripke (screenplay by), John Bellairs (based on the novel by)",
     "Year": "2018",
     "imdbID": "tt2119543",
-    "imdbRating": "6.3",
-    "imdbVotes": "6,309"
-  },
-  "The Hunger Games: Mockingjay - Part 1": {
-    "Actors": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson",
-    "Awards": "Nominated for 1 Golden Globe. Another 21 wins & 31 nominations.",
-    "BoxOffice": "$295,457,212",
-    "Country": "USA",
-    "DVD": "06 Mar 2015",
-    "Director": "Francis Lawrence",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Language": "English",
-    "Metascore": "64",
-    "Plot": "Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SX300.jpg",
-    "Production": "Lionsgate Films",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "67%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "64/100"
-      }
-    ],
-    "Released": "21 Nov 2014",
-    "Response": "True",
-    "Runtime": "123 min",
-    "Title": "The Hunger Games: Mockingjay - Part 1",
-    "Type": "movie",
-    "Website": "http://www.facebook.com/thehungergamesmovie",
-    "Writer": "Peter Craig (screenplay), Danny Strong (screenplay), Suzanne Collins (adaptation), Suzanne Collins (novel)",
-    "Year": "2014",
-    "imdbID": "tt1951265",
-    "imdbRating": "6.7",
-    "imdbVotes": "362,634"
-  },
-  "The Imitation Game": {
-    "Actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear",
-    "Awards": "Won 1 Oscar. Another 46 wins & 155 nominations.",
-    "BoxOffice": "N/A",
-    "Country": "USA",
-    "DVD": "31 Mar 2015",
-    "Director": "Morten Tyldum",
-    "Genre": "Biography, Drama, Thriller",
-    "Language": "English, German",
-    "Metascore": "73",
-    "Plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_SX300.jpg",
-    "Production": "The Weinstein Company",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "90%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "73/100"
-      }
-    ],
-    "Released": "25 Dec 2014",
-    "Response": "True",
-    "Runtime": "114 min",
-    "Title": "The Imitation Game",
-    "Type": "movie",
-    "Website": "http://theimitationgamemovie.com/",
-    "Writer": "Graham Moore, Andrew Hodges (book)",
-    "Year": "2014",
-    "imdbID": "tt2084970",
-    "imdbRating": "8.0",
-    "imdbVotes": "587,179"
-  },
-  "The Kissing Booth": {
-    "Actors": "Megan du Plessis, Lincoln Pearson, Caitlyn de Abrue, Jack Fokkens",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "UK",
-    "DVD": "11 May 2018",
-    "Director": "Vince Marcello",
-    "Genre": "Comedy, Romance",
-    "Language": "English",
-    "Metascore": "N/A",
-    "Plot": "A high school student is forced to confront her secret crush at a kissing booth.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_SX300.jpg",
-    "Production": "Netflix",
-    "Rated": "TV-14",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.2/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "13%"
-      }
-    ],
-    "Released": "11 May 2018",
-    "Response": "True",
-    "Runtime": "105 min",
-    "Title": "The Kissing Booth",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "Vince Marcello (screenplay), Beth Reekles (novel)",
-    "Year": "2018",
-    "imdbID": "tt3799232",
-    "imdbRating": "6.2",
-    "imdbVotes": "31,117"
+    "imdbRating": "6.1",
+    "imdbVotes": "14,524"
   },
   "The Lord of the Rings: The Fellowship of the Ring": {
     "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker",
@@ -3137,47 +3114,7 @@
     "Year": "2001",
     "imdbID": "tt0120737",
     "imdbRating": "8.8",
-    "imdbVotes": "1,441,532"
-  },
-  "The Lord of the Rings: The Return of the King": {
-    "Actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
-    "Awards": "Won 11 Oscars. Another 197 wins & 122 nominations.",
-    "BoxOffice": "$364,000,000",
-    "Country": "New Zealand, USA",
-    "DVD": "25 May 2004",
-    "Director": "Peter Jackson",
-    "Genre": "Action, Adventure, Drama",
-    "Language": "English, Quenya, Old English, Sindarin",
-    "Metascore": "94",
-    "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "Production": "New Line Cinema",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "8.9/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "93%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "94/100"
-      }
-    ],
-    "Released": "17 Dec 2003",
-    "Response": "True",
-    "Runtime": "201 min",
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Type": "movie",
-    "Website": "http://www.lordoftherings.net/",
-    "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
-    "Year": "2003",
-    "imdbID": "tt0167260",
-    "imdbRating": "8.9",
-    "imdbVotes": "1,424,665"
+    "imdbVotes": "1,466,530"
   },
   "The Maze Runner": {
     "Actors": "Dylan O'Brien, Aml Ameen, Ki Hong Lee, Blake Cooper",
@@ -3186,7 +3123,7 @@
     "Country": "USA, UK",
     "DVD": "16 Dec 2014",
     "Director": "Wes Ball",
-    "Genre": "Action, Mystery, Sci-Fi",
+    "Genre": "Action, Mystery, Sci-Fi, Thriller",
     "Language": "English",
     "Metascore": "57",
     "Plot": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.",
@@ -3217,16 +3154,16 @@
     "Year": "2014",
     "imdbID": "tt1790864",
     "imdbRating": "6.8",
-    "imdbVotes": "372,789"
+    "imdbVotes": "377,229"
   },
   "The Meg": {
     "Actors": "Jason Statham, Bingbing Li, Rainn Wilson, Cliff Curtis",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA, China",
-    "DVD": "N/A",
+    "Country": "China, USA",
+    "DVD": "13 Nov 2018",
     "Director": "Jon Turteltaub",
-    "Genre": "Action, Horror, Sci-Fi",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
     "Language": "English, Mandarin",
     "Metascore": "46",
     "Plot": "After escaping an attack by what he claims was a 70-foot shark, Jonas Taylor must confront his fears to save those trapped in a sunken submersible.",
@@ -3236,11 +3173,11 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.0/10"
+        "Value": "5.7/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "46%"
+        "Value": "45%"
       },
       {
         "Source": "Metacritic",
@@ -3256,27 +3193,67 @@
     "Writer": "Dean Georgaris (screenplay by), Jon Hoeber (screenplay by), Erich Hoeber (screenplay by), Steve Alten (based on the novel \"Meg\" by)",
     "Year": "2018",
     "imdbID": "tt4779682",
-    "imdbRating": "6.0",
-    "imdbVotes": "47,937"
+    "imdbRating": "5.7",
+    "imdbVotes": "89,519"
+  },
+  "The Mule": {
+    "Actors": "Hugo Weaving, Angus Sampson, Leigh Whannell, Ewen Leslie",
+    "Awards": "4 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "Australia",
+    "DVD": "20 Jan 2015",
+    "Director": "Tony Mahony, Angus Sampson(co-director)",
+    "Genre": "Comedy, Crime, Drama",
+    "Language": "English, Thai, Lithuanian",
+    "Metascore": "57",
+    "Plot": "A first time drug mule is caught by law enforcement.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5OTM3Mzk2MF5BMl5BanBnXkFtZTgwMzE1NjcxMzE@._V1_SX300.jpg",
+    "Production": "Xlrator Media",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "57/100"
+      }
+    ],
+    "Released": "21 Nov 2014",
+    "Response": "True",
+    "Runtime": "103 min",
+    "Title": "The Mule",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Leigh Whannell, Angus Sampson, Jaime Browne, Jaime Browne (story)",
+    "Year": "2014",
+    "imdbID": "tt2130270",
+    "imdbRating": "6.3",
+    "imdbVotes": "5,530"
   },
   "The Nun": {
     "Actors": "Demi\u00e1n Bichir, Taissa Farmiga, Jonas Bloquet, Bonnie Aarons",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "04 Dec 2018",
     "Director": "Corin Hardy",
     "Genre": "Horror, Mystery, Thriller",
     "Language": "English, French, Romanian, Latin",
     "Metascore": "46",
     "Plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMDE1NzI3M15BMl5BanBnXkFtZTgwNjg2NjExNjM@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg",
     "Production": "Warner Bros. Pictures",
     "Rated": "R",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.7/10"
+        "Value": "5.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -3296,35 +3273,75 @@
     "Writer": "Gary Dauberman (screenplay by), James Wan (story by), Gary Dauberman (story by)",
     "Year": "2018",
     "imdbID": "tt5814060",
-    "imdbRating": "5.7",
-    "imdbVotes": "45,017"
+    "imdbRating": "5.5",
+    "imdbVotes": "69,178"
+  },
+  "The Old Man & the Gun": {
+    "Actors": "Robert Redford, Sissy Spacek, Casey Affleck, Danny Glover",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "01 Jan 2019",
+    "Director": "David Lowery",
+    "Genre": "Comedy, Crime, Drama",
+    "Language": "English",
+    "Metascore": "80",
+    "Plot": "Based on the true story of Forrest Tucker and his audacious escape from San Quentin at the age of 70 to an unprecedented string of heists that confounded authorities and enchanted the public.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTk3NjU5MjIxM15BMl5BanBnXkFtZTgwNjU0OTU2NTM@._V1_SX300.jpg",
+    "Production": "Fox Searchlight Pictures",
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Released": "19 Oct 2018",
+    "Response": "True",
+    "Runtime": "93 min",
+    "Title": "The Old Man & the Gun",
+    "Type": "movie",
+    "Website": "http://www.foxsearchlight.com/theoldmanandthegun/",
+    "Writer": "David Lowery, David Grann (based on the New Yorker article by)",
+    "Year": "2018",
+    "imdbID": "tt2837574",
+    "imdbRating": "7.1",
+    "imdbVotes": "7,559"
   },
   "The Predator": {
     "Actors": "Boyd Holbrook, Trevante Rhodes, Jacob Tremblay, Keegan-Michael Key",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA, Canada",
-    "DVD": "N/A",
+    "DVD": "18 Dec 2018",
     "Director": "Shane Black",
-    "Genre": "Action, Adventure, Horror",
+    "Genre": "Action, Adventure, Horror, Sci-Fi, Thriller",
     "Language": "English, Spanish",
-    "Metascore": "49",
-    "Plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
+    "Metascore": "48",
+    "Plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_SX300.jpg",
     "Production": "20th Century Fox",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "5.9/10"
+        "Value": "5.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
-        "Value": "34%"
+        "Value": "33%"
       },
       {
         "Source": "Metacritic",
-        "Value": "49/100"
+        "Value": "48/100"
       }
     ],
     "Released": "14 Sep 2018",
@@ -3336,122 +3353,15 @@
     "Writer": "Fred Dekker, Shane Black, Jim Thomas (based on characters created by), John Thomas (based on characters created by)",
     "Year": "2018",
     "imdbID": "tt3829266",
-    "imdbRating": "5.9",
-    "imdbVotes": "30,746"
-  },
-  "The Purge": {
-    "Actors": "Ethan Hawke, Lena Headey, Max Burkholder, Adelaide Kane",
-    "Awards": "1 win & 6 nominations.",
-    "BoxOffice": "$64,400,000",
-    "Country": "USA, France",
-    "DVD": "08 Oct 2013",
-    "Director": "James DeMonaco",
-    "Genre": "Horror, Thriller",
-    "Language": "English",
-    "Metascore": "41",
-    "Plot": "A wealthy family are held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SX300.jpg",
-    "Production": "Universal Pictures",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "5.7/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "38%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "41/100"
-      }
-    ],
-    "Released": "07 Jun 2013",
-    "Response": "True",
-    "Runtime": "85 min",
-    "Title": "The Purge",
-    "Type": "movie",
-    "Website": "http://www.facebook.com/thepurgemovie",
-    "Writer": "James DeMonaco",
-    "Year": "2013",
-    "imdbID": "tt2184339",
-    "imdbRating": "5.7",
-    "imdbVotes": "174,253"
-  },
-  "The Purge: Anarchy": {
-    "Actors": "Frank Grillo, Carmen Ejogo, Zach Gilford, Kiele Sanchez",
-    "Awards": "2 wins & 6 nominations.",
-    "BoxOffice": "N/A",
-    "Country": "USA, France",
-    "DVD": "21 Oct 2014",
-    "Director": "James DeMonaco",
-    "Genre": "Action, Horror, Sci-Fi",
-    "Language": "English",
-    "Metascore": "50",
-    "Plot": "Three groups of people intertwine and are left stranded in the streets on Purge Night, trying to survive the chaos and violence that occurs.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2ODMxMTk1Nl5BMl5BanBnXkFtZTgwMDEzNjEzMTE@._V1_SX300.jpg",
-    "Production": "Universal Pictures",
-    "Rated": "R",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "6.5/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "56%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "50/100"
-      }
-    ],
-    "Released": "18 Jul 2014",
-    "Response": "True",
-    "Runtime": "103 min",
-    "Title": "The Purge: Anarchy",
-    "Type": "movie",
-    "Website": "http://blumhouse.com/film/thepurge",
-    "Writer": "James DeMonaco, James DeMonaco (characters created by)",
-    "Year": "2014",
-    "imdbID": "tt2975578",
-    "imdbRating": "6.5",
-    "imdbVotes": "120,668"
-  },
-  "The Seven Deadly Sins: Prisoners of the Sky": {
-    "Actors": "N/A",
-    "Awards": "N/A",
-    "BoxOffice": "N/A",
-    "Country": "Japan",
-    "DVD": "N/A",
-    "Director": "Noriyuki Abe",
-    "Genre": "Animation, Action, Fantasy",
-    "Language": "Japanese",
-    "Metascore": "N/A",
-    "Plot": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWUxNWQ5ZDAtMjhhYS00ZGQ1LTg0ZjktZWU3YmI0ZDc4ZWM5XkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_SX300.jpg",
-    "Production": "N/A",
-    "Rated": "N/A",
-    "Ratings": [],
-    "Released": "18 Aug 2018",
-    "Response": "True",
-    "Runtime": "99 min",
-    "Title": "The Seven Deadly Sins: Prisoners of the Sky",
-    "Type": "movie",
-    "Website": "N/A",
-    "Writer": "N/A",
-    "Year": "2018",
-    "imdbID": "tt9089294",
-    "imdbRating": "N/A",
-    "imdbVotes": "N/A"
+    "imdbRating": "5.5",
+    "imdbVotes": "72,503"
   },
   "The Spy Who Dumped Me": {
     "Actors": "Justin Theroux, Blanka Gy\u00f6rfi-T\u00f3th, Vilma Sz\u00e9csi, Mila Kunis",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA, Canada",
-    "DVD": "16 Oct 2018",
+    "DVD": "30 Oct 2018",
     "Director": "Susanna Fogel",
     "Genre": "Action, Adventure, Comedy",
     "Language": "English, Russian, French",
@@ -3463,7 +3373,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.2/10"
+        "Value": "6.0/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -3483,48 +3393,8 @@
     "Writer": "Susanna Fogel, David Iserson",
     "Year": "2018",
     "imdbID": "tt6663582",
-    "imdbRating": "6.2",
-    "imdbVotes": "15,262"
-  },
-  "Thor": {
-    "Actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
-    "Awards": "5 wins & 30 nominations.",
-    "BoxOffice": "$181,015,141",
-    "Country": "USA",
-    "DVD": "13 Sep 2011",
-    "Director": "Kenneth Branagh",
-    "Genre": "Action, Adventure, Fantasy",
-    "Language": "English",
-    "Metascore": "57",
-    "Plot": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
-    "Production": "Paramount Pictures",
-    "Rated": "PG-13",
-    "Ratings": [
-      {
-        "Source": "Internet Movie Database",
-        "Value": "7.0/10"
-      },
-      {
-        "Source": "Rotten Tomatoes",
-        "Value": "77%"
-      },
-      {
-        "Source": "Metacritic",
-        "Value": "57/100"
-      }
-    ],
-    "Released": "06 May 2011",
-    "Response": "True",
-    "Runtime": "115 min",
-    "Title": "Thor",
-    "Type": "movie",
-    "Website": "http://thor.marvel.com/",
-    "Writer": "Ashley Miller (screenplay), Zack Stentz (screenplay), Don Payne (screenplay), J. Michael Straczynski (story), Mark Protosevich (story), Stan Lee (comic book), Larry Lieber (comic book), Jack Kirby (comic book)",
-    "Year": "2011",
-    "imdbID": "tt0800369",
-    "imdbRating": "7.0",
-    "imdbVotes": "638,540"
+    "imdbRating": "6.0",
+    "imdbVotes": "34,664"
   },
   "Thor: Ragnarok": {
     "Actors": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba",
@@ -3533,7 +3403,7 @@
     "Country": "USA, Australia",
     "DVD": "06 Mar 2018",
     "Director": "Taika Waititi",
-    "Genre": "Action, Adventure, Comedy",
+    "Genre": "Action, Adventure, Comedy, Fantasy, Sci-Fi",
     "Language": "English",
     "Metascore": "74",
     "Plot": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnar\u00f6k, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
@@ -3564,7 +3434,47 @@
     "Year": "2017",
     "imdbID": "tt3501632",
     "imdbRating": "7.9",
-    "imdbVotes": "390,297"
+    "imdbVotes": "407,750"
+  },
+  "Thor: The Dark World": {
+    "Actors": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
+    "Awards": "3 wins & 21 nominations.",
+    "BoxOffice": "$206,360,018",
+    "Country": "USA",
+    "DVD": "25 Feb 2014",
+    "Director": "Alan Taylor",
+    "Genre": "Action, Adventure, Fantasy",
+    "Language": "English",
+    "Metascore": "54",
+    "Plot": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+    "Production": "Walt Disney Pictures",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "66%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Released": "08 Nov 2013",
+    "Response": "True",
+    "Runtime": "112 min",
+    "Title": "Thor: The Dark World",
+    "Type": "movie",
+    "Website": "http://www.facebook.com/ThorMovie",
+    "Writer": "Christopher L. Yost (screenplay by), Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Don Payne (story by), Robert Rodat (story by), Stan Lee (based on the Marvel comics by), Larry Lieber (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Walter Simonson (character created by: Malekith)",
+    "Year": "2013",
+    "imdbID": "tt1981115",
+    "imdbRating": "7.0",
+    "imdbVotes": "512,255"
   },
   "To All the Boys I've Loved Before": {
     "Actors": "Lana Condor, Noah Centineo, Janel Parrish, Anna Cathcart",
@@ -3583,7 +3493,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.4/10"
+        "Value": "7.3/10"
       },
       {
         "Source": "Metacritic",
@@ -3599,17 +3509,57 @@
     "Writer": "Sofia Alvarez (screenplay by), Jenny Han (based on the novel by)",
     "Year": "2018",
     "imdbID": "tt3846674",
-    "imdbRating": "7.4",
-    "imdbVotes": "37,386"
+    "imdbRating": "7.3",
+    "imdbVotes": "45,539"
+  },
+  "Upgrade": {
+    "Actors": "Logan Marshall-Green, Melanie Vallejo, Steve Danielsen, Abby Craden",
+    "Awards": "N/A",
+    "BoxOffice": "N/A",
+    "Country": "Australia",
+    "DVD": "28 Aug 2018",
+    "Director": "Leigh Whannell",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Language": "English",
+    "Metascore": "67",
+    "Plot": "Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0NzcyMjM5Ml5BMl5BanBnXkFtZTgwMzk2NzAyNTM@._V1_SX300.jpg",
+    "Production": "Blumhouse Productions",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Released": "01 Jun 2018",
+    "Response": "True",
+    "Runtime": "100 min",
+    "Title": "Upgrade",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Leigh Whannell",
+    "Year": "2018",
+    "imdbID": "tt6499752",
+    "imdbRating": "7.6",
+    "imdbVotes": "72,242"
   },
   "Venom": {
     "Actors": "Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze",
     "Awards": "N/A",
     "BoxOffice": "N/A",
-    "Country": "USA",
+    "Country": "USA, China",
     "DVD": "18 Jun 2013",
     "Director": "Ruben Fleischer",
-    "Genre": "Action, Horror, Sci-Fi",
+    "Genre": "Action, Sci-Fi",
     "Language": "English",
     "Metascore": "35",
     "Plot": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
@@ -3619,7 +3569,7 @@
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "7.1/10"
+        "Value": "6.9/10"
       },
       {
         "Source": "Metacritic",
@@ -3635,27 +3585,27 @@
     "Writer": "Jeff Pinkner (screenplay by), Scott Rosenberg (screenplay by), Kelly Marcel (screenplay by), Jeff Pinkner (screen story by), Scott Rosenberg (screen story by), Todd McFarlane (Marvel's Venom Character created by), David Michelinie (Marvel's Venom Character created by)",
     "Year": "2018",
     "imdbID": "tt1270797",
-    "imdbRating": "7.1",
-    "imdbVotes": "22,950"
+    "imdbRating": "6.9",
+    "imdbVotes": "154,911"
   },
   "White Boy Rick": {
     "Actors": "Matthew McConaughey, Richie Merritt, Bel Powley, Jennifer Jason Leigh",
     "Awards": "N/A",
     "BoxOffice": "N/A",
     "Country": "USA",
-    "DVD": "N/A",
+    "DVD": "11 Dec 2018",
     "Director": "Yann Demange",
     "Genre": "Crime, Drama",
     "Language": "English",
     "Metascore": "59",
     "Plot": "The story of teenager Richard Wershe Jr., who became an undercover informant for the FBI during the 1980s and was ultimately arrested for drug-trafficking and sentenced to life in prison.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlZWVmMjYtY2JhNi00OGZmLWJmODgtODgyMmI3NDM0NWE5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5MzY4NjQ4Nl5BMl5BanBnXkFtZTgwMzc1NjU4NjM@._V1_SX300.jpg",
     "Production": "Columbia Pictures",
     "Rated": "N/A",
     "Ratings": [
       {
         "Source": "Internet Movie Database",
-        "Value": "6.6/10"
+        "Value": "6.5/10"
       },
       {
         "Source": "Rotten Tomatoes",
@@ -3675,17 +3625,17 @@
     "Writer": "Andy Weiss, Logan Miller, Noah Miller",
     "Year": "2018",
     "imdbID": "tt4537896",
-    "imdbRating": "6.6",
-    "imdbVotes": "2,988"
+    "imdbRating": "6.5",
+    "imdbVotes": "4,706"
   },
   "Wonder Woman": {
     "Actors": "Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright",
     "Awards": "17 wins & 54 nominations.",
     "BoxOffice": "$412,400,625",
-    "Country": "Hong Kong, China, USA",
+    "Country": "USA, China, Hong Kong",
     "DVD": "19 Sep 2017",
     "Director": "Patty Jenkins",
-    "Genre": "Action, Adventure, Fantasy",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi, War",
     "Language": "English, German, Dutch, French, Spanish, Chinese, Greek,  Ancient (to 1453), North American Indian",
     "Metascore": "76",
     "Plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
@@ -3716,6 +3666,46 @@
     "Year": "2017",
     "imdbID": "tt0451279",
     "imdbRating": "7.5",
-    "imdbVotes": "438,719"
+    "imdbVotes": "450,765"
+  },
+  "Zootopia": {
+    "Actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",
+    "Awards": "Won 1 Oscar. Another 45 wins & 65 nominations.",
+    "BoxOffice": "$341,264,012",
+    "Country": "USA",
+    "DVD": "07 Jun 2016",
+    "Director": "Byron Howard, Rich Moore, Jared Bush(co-director)",
+    "Genre": "Animation, Adventure, Comedy, Crime, Family, Mystery",
+    "Language": "English",
+    "Metascore": "78",
+    "Plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+    "Production": "Walt Disney Animation Studios",
+    "Rated": "PG",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Released": "04 Mar 2016",
+    "Response": "True",
+    "Runtime": "108 min",
+    "Title": "Zootopia",
+    "Type": "movie",
+    "Website": "http://movies.disney.com/zootopia",
+    "Writer": "Byron Howard (story by), Rich Moore (story by), Jared Bush (story by), Jim Reardon (story by), Josie Trinidad (story by), Phil Johnston (story by), Jennifer Lee (story by), Jared Bush (screenplay by), Phil Johnston (screenplay by)",
+    "Year": "2016",
+    "imdbID": "tt2948356",
+    "imdbRating": "8.0",
+    "imdbVotes": "362,760"
   }
 }

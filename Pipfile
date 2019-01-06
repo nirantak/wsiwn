@@ -12,6 +12,8 @@ lint = "flake8 --statistics --count"
 start = "gunicorn -w 3 -b 127.0.0.1:5000 server.run:app --log-level debug --access-logfile - --log-file - --reload"
 prod = "gunicorn -w 3 server.run:app --log-level warning --log-file -"
 dev = "flask run"
+scraper = "python server/scripts/scraper.py"
+seed_data = "python server/scripts/seed_data.py"
 
 [packages]
 beautifulsoup4 = "*"
