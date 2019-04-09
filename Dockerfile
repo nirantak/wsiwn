@@ -1,4 +1,4 @@
-FROM python:3.7.2-slim
+FROM python:3.7.3-slim
 
 LABEL Name="wsiwn" maintainer="Nirantak Raghav"
 
@@ -11,10 +11,10 @@ RUN python3 -m pip install pipenv
 
 WORKDIR /app
 
-COPY Pipfile Pipfile.lock /app/
+COPY Pipfile Pipfile.lock ./
 RUN pipenv install --ignore-pipfile
 
-COPY server /app/server
+COPY server ./server
 
 EXPOSE 5000
 CMD ["pipenv", "run", "prod"]

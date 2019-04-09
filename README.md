@@ -5,15 +5,16 @@
 ## Table of Contents
 
 - [WSIWN](#wsiwn)
-    - [Table of Contents](#table-of-contents)
-    - [Local Installation](#local-installation)
-    - [Technology Stack](#technology-stack)
-    - [Working](#working)
-    - [REST API Endpoints](#rest-api-endpoints)
+  - [Table of Contents](#table-of-contents)
+  - [Local Installation](#local-installation)
+  - [Technology Stack](#technology-stack)
+  - [Working](#working)
+  - [REST API Endpoints](#rest-api-endpoints)
+  - [| POST[tv] | /api/tv | Search TV shows with params (at least 1): [language(str), genre(str), duration{short, avg, long}, seasons(int), status{airing, ended}] |](#posttv--apitv--search-tv-shows-with-params-at-least-1-languagestr-genrestr-durationshort-avg-long-seasonsint-statusairing-ended)
 
 ## Local Installation
 
-- Install Python 3.7 from [here](https://www.python.org/downloads/release/python-370/)
+- Install Python 3.7.3 from [here](https://www.python.org/downloads/)
 - Install SWI-Prolog from [here](http://www.swi-prolog.org/Download.html)
 
 - Install environment
