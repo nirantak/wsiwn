@@ -25,4 +25,4 @@ RUN pipenv install --dev --system --ignore-pipfile
 COPY server ./server
 VOLUME ["/app/server"]
 
-CMD ["flask", "run"]
+CMD ["gunicorn", "-b", "0.0.0.0:5000", "server.run:app", "--log-level", "debug", "--access-logfile", "-", "--log-file", "-", "--reload"]

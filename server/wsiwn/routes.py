@@ -1,11 +1,10 @@
-from typing import Dict, Set
+from typing import Dict
 
 from flask import Blueprint, abort, jsonify, make_response, request
 
 from .__init__ import swipl
 from .prolog import advance_search, search
 
-categories: Set[str] = {"movies", "tv"}
 router = Blueprint("router", __name__)
 
 
@@ -29,7 +28,7 @@ def watchlist(category: str):
     POST Request - Find list of movies/tv matching all given input parameters
     """
     category = category.lower()
-    if category not in categories:
+    if category not in {"movies", "tv"}:
         abort(404)
 
     # Basic keyword search on GET request

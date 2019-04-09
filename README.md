@@ -44,8 +44,8 @@
 
         Execute queries
         ```prolog
-        ?- movie(X, Z).
-        ?- movie(X, L, G, D, Y).
+        ?- movies(X, Z).
+        ?- movies(X, L, G, D, Y).
 
         ?- tv(X, Z).
         ?- tv(X, L, G, D, S, T).
