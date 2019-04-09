@@ -11,7 +11,8 @@ def search(swipl: Prolog, category: str, query: str) -> List[str]:
 
     result: Iterable[Dict[str, Any]] = swipl.query(f"{category}(X, {query})")
     res = [
-        i["X"].decode(encoding="utf-8", errors="backslashreplace") for i in list(result)
+        i["X"].decode(encoding="utf-8", errors="backslashreplace")
+        for i in list(result)
     ]
 
     return res

@@ -1,0 +1,22 @@
+version: "3.7"
+
+services:
+  api:
+    image: wsiwn
+    build:
+      context: "."
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "5000:5000"
+    env_file: "./.env"
+    dns:
+      - "8.8.8.8"
+      - "8.8.4.4"
+    networks:
+      - webnet
+    volumes:
+      - "./server:/app/server"
+
+networks:
+  webnet:

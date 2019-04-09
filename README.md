@@ -5,68 +5,59 @@
 ## Table of Contents
 
 - [WSIWN](#wsiwn)
-    - [Table of Contents](#table-of-contents)
-    - [Local Installation](#local-installation)
-    - [Technology Stack](#technology-stack)
-    - [Working](#working)
-    - [REST API Endpoints](#rest-api-endpoints)
+  - [Table of Contents](#table-of-contents)
+  - [Usage](#usage)
+  - [Technology Stack](#technology-stack)
+  - [Working](#working)
+  - [REST API Endpoints](#rest-api-endpoints)
 
-## Local Installation
+## Usage
 
-- Install Python 3.7 from [here](https://www.python.org/downloads/release/python-370/)
-- Install SWI-Prolog from [here](http://www.swi-prolog.org/Download.html)
+- Install [Docker](https://hub.docker.com/search/?type=edition&offering=community) and [Docker Compose](https://docs.docker.com/compose/install/)
 
-- Install environment
+- Run web app
 
     ```shell
-    $ pip install -U pip pipenv
-    $ git clone https://github.com/nirantak/wsiwn.git && cd wsiwn
-    $ pipenv install --dev
-    $ pipenv run pre-commit install
+    $ docker-compose up
     ```
 
-- Start Project
-    - Run web app
+    or
 
-        ```shell
-        $ pipenv run start
-        ```
+- Run Prolog
 
-        or
+    ```shell
+    $ docker-compose run api bash
+    $ swipl server/prolog/movies.pl
+    $ swipl server/prolog/tv.pl
+    ```
 
-    - Run Prolog
+    Execute queries
+    ```prolog
+    ?- movies(X, Z).
+    ?- movies(X, L, G, D, Y).
 
-        ```shell
-        $ swipl server/prolog/movies.pl
-        $ swipl server/prolog/tv.pl
-        ```
+    ?- tv(X, Z).
+    ?- tv(X, L, G, D, S, T).
+    ```
 
-        Execute queries
-        ```prolog
-        ?- movie(X, Z).
-        ?- movie(X, L, G, D, Y).
+    where
 
-        ?- tv(X, Z).
-        ?- tv(X, L, G, D, S, T).
-        ```
-
-        where
-
-        - X: Output variable (byte string)
-        - Z: Input Search term (str)
-        - L: Language (str)
-        - G: Genre (str)
-        - D: Duration {short, avg, long}
-        - Y: Year (int)
-        - S: Number of Seasons (int)
-        - T: Status {ended, airing}
+    - X: Output variable (byte string)
+    - Z: Input Search term (str)
+    - L: Language (str)
+    - G: Genre (str)
+    - D: Duration {short, avg, long}
+    - Y: Year (int)
+    - S: Number of Seasons (int)
+    - T: Status {ended, airing}
 
 ## Technology Stack
 
 - Language - [Python3](https://www.python.org)
+- Framework - [Flask](https://palletsprojects.com/p/flask/)
 - Logic Programming - [SWI-Prolog](http://www.swi-prolog.org)
 - Python - SWI-Prolog Bridge - [GitHub](https://github.com/yuce/pyswip), [SWIPL](http://www.swi-prolog.org/contrib/)
-- Framework - [Flask](https://palletsprojects.com/p/flask/)
+- DevOps - [Docker](https://www.docker.com/get-started)
 
 ## Working
 
@@ -83,4 +74,3 @@
 | GET[tv]      | /api/tv?query=string     | Display TV shows matching query string                                                                                                 |
 | POST[movies] | /api/movies              | Search Movies with params (at least 1): [language(str), genre(str), duration{short, avg, long}, year(int)]                             |
 | POST[tv]     | /api/tv                  | Search TV shows with params (at least 1): [language(str), genre(str), duration{short, avg, long}, seasons(int), status{airing, ended}] |
----

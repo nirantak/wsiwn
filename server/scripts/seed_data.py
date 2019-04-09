@@ -12,7 +12,9 @@ OMDB_API_KEY = os.environ["OMDB_API_KEY"]
 OMDB_URL = "https://omdbapi.com"
 
 
-def get_media_info(movies: Set[str], tv: Set[str]) -> Tuple[List[Dict], List[Dict]]:
+def get_media_info(
+    movies: Set[str], tv: Set[str]
+) -> Tuple[List[Dict], List[Dict]]:
     """Get information about all movies and tv shows in the input sets"""
     data_movies: List[Dict] = []
     data_tv: List[Dict] = []
@@ -23,7 +25,12 @@ def get_media_info(movies: Set[str], tv: Set[str]) -> Tuple[List[Dict], List[Dic
     for m in movies:
         r = requests.get(
             OMDB_URL,
-            params={"apikey": OMDB_API_KEY, "t": m, "type": "movie", "r": "json"},
+            params={
+                "apikey": OMDB_API_KEY,
+                "t": m,
+                "type": "movie",
+                "r": "json",
+            },
         )
         res = r.json()
         if res["Response"] == "True":
@@ -35,7 +42,12 @@ def get_media_info(movies: Set[str], tv: Set[str]) -> Tuple[List[Dict], List[Dic
     for t in tv:
         r = requests.get(
             OMDB_URL,
-            params={"apikey": OMDB_API_KEY, "t": t, "type": "series", "r": "json"},
+            params={
+                "apikey": OMDB_API_KEY,
+                "t": t,
+                "type": "series",
+                "r": "json",
+            },
         )
         res = r.json()
         if res["Response"] == "True":

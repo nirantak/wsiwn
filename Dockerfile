@@ -1,0 +1,28 @@
+FROM python:3.7.3-slim
+LABEL Name="wsiwn" maintainer="Nirantak Raghav"
+
+RUN apt update && \
+    apt install -qq -y software-properties-common --no-install-recommends && \
+    apt-add-repository ppa:swi-prolog/stable
+RUN apt install -qq -y swi-prolog --no-install-recommends
+RUN python3 -m pip install pipenv
+
+WORKDIR /app
+EXPOSE 5000
+
+ENV PYTHONIOENCODING="UTF-8" \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIPENV_NOSPIN=1 \
+    PIPENV_VENV_IN_PROJECT=1 \
+    FLASK_APP="server/run.py" \
+    FLASK_ENV="development" \
+    FLASK_DEBUG=1
+
+COPY Pipfile Pipfile.lock ./
+RUN pipenv install --dev --system --ignore-pipfile
+
+COPY server ./server
+VOLUME ["/app/server"]
+
+CMD ["gunicorn", "-b", "0.0.0.0:5000", "server.run:app", "--log-level", "debug", "--access-logfile", "-", "--log-file", "-", "--reload"]
