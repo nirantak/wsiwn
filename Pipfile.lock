@@ -168,17 +168,17 @@
         },
         "soupsieve": {
             "hashes": [
-                "sha256:3aef141566afd07201b525c17bfaadd07580a8066f82b57f7c9417f26adbd0a3",
-                "sha256:e41a65e99bd125972d84221022beb1e4b5cfc68fa12c170c39834ce32d1b294c"
+                "sha256:6898e82ecb03772a0d82bd0d0a10c0d6dcc342f77e0701d0ec4a8271be465ece",
+                "sha256:b20eff5e564529711544066d7dc0f7661df41232ae263619dede5059799cdfca"
             ],
-            "version": "==1.9"
+            "version": "==1.9.1"
         },
         "urllib3": {
             "hashes": [
-                "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
-                "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
+                "sha256:4c291ca23bbb55c76518905869ef34bdd5f0e46af7afe6861e8375643ffee1a0",
+                "sha256:9a247273df709c4fedb38c711e44292304f73f39ab01beda9f6b9fc375669ac3"
             ],
-            "version": "==1.24.1"
+            "version": "==1.24.2"
         },
         "werkzeug": {
             "hashes": [
@@ -334,11 +334,11 @@
         },
         "pre-commit": {
             "hashes": [
-                "sha256:75a9110eae00d009c913616c0fc8a6a02e7716c4a29a14cac9b313d2c7338ab0",
-                "sha256:f882c65316eb5b705fe4613e92a7c91055c1800102e4d291cfd18912ec9cf90e"
+                "sha256:2576a2776098f3902ef9540a84696e8e06bf18a337ce43a6a889e7fa5d26c4c5",
+                "sha256:82f2f2d657d7f9280de9f927ae56886d60b9ef7f3714eae92d12713cd9cb9e11"
             ],
             "index": "pypi",
-            "version": "==1.15.1"
+            "version": "==1.15.2"
         },
         "prompt-toolkit": {
             "hashes": [
