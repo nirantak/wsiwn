@@ -20,13 +20,6 @@ repos:
     hooks:
       - id: format
         name: format
-        entry: "go fmt"
-        language: system
-        types: [go]
-  - repo: local
-    hooks:
-      - id: vet
-        name: vet
-        entry: "go vet"
+        entry: "gofmt -l -w"
         language: system
         types: [go]
