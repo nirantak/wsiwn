@@ -21,8 +21,7 @@ clean: ## remove all build, test and package artifacts
 	go mod tidy
 
 format: ## format all source files
-	go fmt
-	go mod tidy
+	gofmt -l -w .
 
 lint: ## check pre-commit linting rules
 	pre-commit run --all-files --show-diff-on-failure --color always
