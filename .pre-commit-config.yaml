@@ -1,11 +1,32 @@
-repos:
-  - repo: https://github.com/ambv/black
-    rev: 19.3b0
-    hooks:
-      - id: black
-        language_version: python3.7
+# Git pre-commit hooks, see https://pre-commit.com
 
+default_language_version:
+  golang: 1.17.3
+
+repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.1.0
+    rev: v4.0.1
     hooks:
-      - id: flake8
+      - id: check-merge-conflict
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+      - id: check-json
+      - id: check-yaml
+        args: [--allow-multiple-documents]
+      - id: pretty-format-json
+        args: [--autofix, --no-sort-keys]
+  - repo: local
+    hooks:
+      - id: format
+        name: format
+        entry: "go fmt"
+        language: system
+        types: [go]
+  - repo: local
+    hooks:
+      - id: vet
+        name: vet
+        entry: "go vet"
+        language: system
+        types: [go]
