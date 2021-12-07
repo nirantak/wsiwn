@@ -1,7 +1,9 @@
 .idea
 .vscode
-db.sqlite3
 .env
+*.db
+*.gz
+*.tsv
 *.exe
 *.exe~
 *.dll
