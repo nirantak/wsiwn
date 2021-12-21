@@ -7,15 +7,29 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strconv"
 
 	"github.com/spf13/viper"
 )
 
-func logger(verbose bool, msg ...interface{}) {
+func logger(verbose bool, err bool, msg ...interface{}) {
+	var op *os.File = os.Stdout
+	if err {
+		op = os.Stderr
+	}
+
 	if verbose && !viper.GetBool("verbose") {
 	} else {
-		fmt.Fprintln(os.Stdout, msg...)
+		fmt.Fprintln(op, msg...)
 	}
+}
+
+func convertUint(val string) uint {
+	res, err := strconv.ParseUint(val, 10, 32)
+	if err != nil {
+		return 0
+	}
+	return uint(res)
 }
 
 func DownloadFile(filename string, url string) {
