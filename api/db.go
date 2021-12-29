@@ -38,6 +38,7 @@ func DownloadAndExtract(filename string, wg *sync.WaitGroup) {
 	defer wg.Done()
 	DownloadFile(filename+".gz", "https://datasets.imdbws.com/"+filename+".gz")
 	ExtractFile(filename)
+	logger(false, false, "File downloaded:", filename)
 }
 
 func SetupDataFiles() {
@@ -79,7 +80,7 @@ func UpdateTitles(db *gorm.DB) {
 		if err == io.EOF {
 			break
 		} else if err != nil {
-			log.Fatal(err)
+			logger(true, true, "Skipping row after:", rows_count, "\nError:", err)
 		} else if line[0] == "tconst" {
 			continue
 		}
@@ -118,14 +119,15 @@ func UpdateRatings(db *gorm.DB) {
 		if err == io.EOF {
 			break
 		} else if err != nil {
-			log.Fatal(err)
+			logger(true, true, "Skipping row after:", rows_count, "\nError:", err)
 		} else if line[0] == "tconst" {
 			continue
 		}
 
 		rating, err := strconv.ParseFloat(line[1], 32)
 		if err != nil {
-			log.Fatal(err)
+			logger(true, true, "Invalid rating after row:", rows_count, "\nError:", err)
+			rating = 0
 		}
 
 		res := db.Clauses(clause.OnConflict{UpdateAll: true}).Create(&WSIWN{
