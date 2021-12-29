@@ -1,11 +1,11 @@
 # Git pre-commit hooks, see https://pre-commit.com
 
 default_language_version:
-  golang: 1.17.3
+  golang: 1.17.5
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.0.1
+    rev: v4.1.0
     hooks:
       - id: check-merge-conflict
       - id: trailing-whitespace

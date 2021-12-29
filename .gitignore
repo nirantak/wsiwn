@@ -2,6 +2,7 @@
 .vscode
 .env
 *.db
+*.db-journal
 *.gz
 *.tsv
 *.exe
